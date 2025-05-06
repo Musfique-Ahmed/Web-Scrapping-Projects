@@ -35,3 +35,19 @@ Whether you're looking for static site scraping, handling dynamic content, or st
    ```bash
    git clone https://github.com/Musfique-Ahmed/Web-Scrapping-Projects
    cd Web-Scrapping-Projects
+2. Go to any project directory
+3. Follow the README.md file inside each folder to run the scraper
+
+##🧠 Why This Repo?
+This portfolio showcases my:
+- Real-world scraping experience
+- Skill in debugging, handling pagination and JavaScript-loaded content
+- Proficiency in writing robust, maintainable Python scripts
+- Passion for automation and clean data collection
+
+📫 Let's Connect
+Musfique Ahmed
+📧 anikmushfik@gmail.com
+📞 +880 1961-905838
+🔗 GitHub: Musfique-Ahmed
+🔗 LinkedIn: Musfique Ahmed
