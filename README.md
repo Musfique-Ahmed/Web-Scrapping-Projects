@@ -31,5 +31,5 @@ Whether you're looking for static site scraping, handling dynamic content, or st
 ## 📌 How to Use
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/web-scraping-portfolio
-   cd web-scraping-portfolio
+   git clone [https://github.com/Musfique-Ahmed/Web-Scrapping-Projects](https://github.com/Musfique-Ahmed/Web-Scrapping-Projects)
+   cd Web-Scrapping-Projects
