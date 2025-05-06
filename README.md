@@ -20,10 +20,12 @@ Whether you're looking for static site scraping, handling dynamic content, or st
 
 | Project | Description | Tools Used |
 |--------|-------------|-------------|
-| `amazon_price_tracker` | Tracks the price of products from Amazon and logs them in CSV. | BeautifulSoup, Requests |
-| `job_site_dynamic_scraper` | Scrapes job listings from dynamic content sites using browser automation. | Selenium |
-| `real_estate_scraper` | Collects real estate listing data including images and prices. | Selenium, Pandas |
-| `api_data_collector` | Pulls structured data from a public REST API and stores it in JSON/SQL. | Requests, JSON, PostgreSQL |
+| `Dramacool Movies` | Collects movies and dramas listing data including images and names. | BeautifulSoup, Requests |
+| `coin_market_cap_scrapper` | Tracks the price of coins from coinmarketcap and logs them in CSV. | BeautifulSoup, Requests |
+| `bs4_selin_practice` | Collects student data including images, academic info, and names. | Selenium, Pandas |
+| `bs4_selin_practice/apu.py` | Pulls structured data from a public REST API and stores it in JSON/SQL. | Requests, JSON, PostgreSQL |
+| `gng_phone_scrapper` | Tracks the price of phones from gng and logs them in CSV.. | BeautifulSoup, Requests |
+| `startech_laptop_scrapper` | Tracks the price of laptops from startech and logs them in CSV. | BeautifulSoup, Requests |
 | More coming soon... | Stay tuned for additional case studies and tools. | 🔄 |
 
 ---
@@ -31,5 +33,27 @@ Whether you're looking for static site scraping, handling dynamic content, or st
 ## 📌 How to Use
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/Musfique-Ahmed/Web-Scrapping-Projects](https://github.com/Musfique-Ahmed/Web-Scrapping-Projects)
+   git clone https://github.com/Musfique-Ahmed/Web-Scrapping-Projects
    cd Web-Scrapping-Projects
+2. Go to any project directory
+3. Follow the README.md file inside each folder to run the scraper
+4. 
+---
+
+## 🧠 Why This Repo?
+
+This portfolio showcases my:
+- Real-world scraping experience
+- Skill in debugging, handling pagination and JavaScript-loaded content
+- Proficiency in writing robust, maintainable Python scripts
+- Passion for automation and clean data collection
+
+---
+
+## 📫 Let's Connect
+### **Musfique Ahmed**
+
+📧 anikmushfik@gmail.com
+📞 +880 1961-905838
+🔗 GitHub: Musfique-Ahmed
+🔗 LinkedIn: Musfique Ahmed
