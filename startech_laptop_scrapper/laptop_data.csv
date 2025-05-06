@@ -1,0 +1,914 @@
+Model,Price,Processor Brand,Processor Model,Processor Frequency,Processor Core,Processor Thread,CPU Cache,Display Size,Display Type,Display Resolution,Touch Screen,Display Features,RAM,RAM Type,Removable,Bus Speed,Total RAM Slot,Storage Type,Storage Capacity,Extra M.2 Slot,Supported SSD Type,Storage Upgrade,Graphics Model,Graphics Memory,Keyboard Type,TouchPad,WebCam,Speaker,Microphone,Optical Drive,Card Reader,HDMI Port,USB 2 Port,USB 3 Port,USB Type-C / Thunderbolt Port,Headphone & Microphone Port,WiFi,Bluetooth,Fingerprint Sensor,Operating System,Battery Type,Battery Capacity,Adapter Type,Color,Dimensions,Weight,Warranty Details,Chipset Model,Graphics Type,Audio Features,LAN,Camera Privacy Shutter,Security Chip,Body Material,Other Features,Max RAM Capacity,Refresh Rate,HDD RPM,Generation,Security Locker Slot,Keyboard Features,NPU,Response TIme,Backup Time (Approx),Other Pre-installed Softwares
+"Lenovo IdeaPad 1 AMD Ryzen 5 7520U 14"" FHD Laptop 8GB DDR5 RAM 256GB SSD with 2 Years warranty",60500,AMD,Ryzen 5 7520U, 2.8 GHz – 4.3 GHz,4,8,"L1 Cache: 256KB
+L2 Cache: 2MB
+L3 Cache: 4MB","14""",TN,FHD (1920 x 1080),N/A,220nits Anti-glare; 170° Viewing Angle,8GB (On Board),DDR5,No,5500MHz,1,NVMe PCIe SSD,256GB ,N/A, PCIe NVMe M.2,Installed SSD can be upgradeable,AMD Radeon 610M,Shared,Standard,Yes,Yes,Yes,Yes,N/A,SD Media Card Reader,1x HDMI 1.4b,1x USB 2.0 Type-A,1x USB 3.2 Gen 1 Type-A,1x USB-C 3.2 Gen 1 (support data transfer only),1 x Headphone/ Microphone Port Combo,"11ax, 2x2",Bluetooth 5.0,No,Free Dos,3 Cell Li-ion,42Whr ,65W Round Tip (3-pin),Cloud Grey,325.3 x 216.5 x 17.9 mm,1.38 kg, 2 years warranty ( Battery adapter 1 year),,,,,,,,,,,,,,,,,,
+"Lenovo IdeaPad 1 AMD Ryzen 5 7520U 14"" FHD Laptop 8GB DDR5 RAM 256GB SSD Sand with 2 Years Warranty",60000,AMD,Ryzen 5 7520U, 2.8 GHz – 4.3 GHz,4,8,"L1 Cache: 256KB
+L2 Cache: 2MB
+L3 Cache: 4MB","14""",TN,FHD (1920 x 1080),N/A,220nits Anti-glare; 170° Viewing Angle,8GB (On Board),DDR5,No,5500MHz,1,NVMe PCIe SSD,256GB ,N/A, PCIe NVMe M.2,Installed SSD can be upgradeable,AMD Radeon 610M,Shared,Standard,Yes,Yes,Yes,Yes,N/A,SD Media Card Reader,1x HDMI 1.4b,1x USB 2.0 Type-A,1x USB 3.2 Gen 1 Type-A,1x USB-C 3.2 Gen 1 (support data transfer only),1 x Headphone/ Microphone Port Combo,"11ax, 2x2",Bluetooth 5.0,No,Free Dos,3 Cell Li-ion,42Whr ,65W Round Tip (3-pin),Cloud Grey,325.3 x 216.5 x 17.9 mm,1.38 kg, 2 years warranty ( Battery adapter 1 year),,,,,,,,,,,,,,,,,,
+"Lenovo IdeaPad 1 AMD Ryzen 5 7520U 15.6"" FHD Laptop 8GB DDR5 RAM 256GB SSD Grey with 2 Years Warranty",61000,AMD,Ryzen 5 7520U, 2.8 GHz – 4.3 GHz,4,8,"L1 Cache: 256KB
+L2 Cache: 2MB
+L3 Cache: 4MB","15.6""",TN,FHD (1920 x 1080),N/A,220nits Anti-glare; 170° Viewing Angle,8GB (On Board),DDR5,NO,5500MHz,1,NVMe PCIe SSD,256GB ,N/A, PCIe NVMe M.2,Installed SSD can be upgradeable,AMD Radeon 610M,Shared,Standard,Yes,Yes,Yes,Yes,N/A,SD Media Card Reader,1x HDMI 1.4b,1x USB 2.0 Type-A,1x USB 3.2 Gen 1 Type-A,1x USB-C 3.2 Gen 1 (support data transfer only),1 x Headphone/ Microphone Port Combo,"11ax, 2x2",Bluetooth 5.0,No,Free Dos,3 Cell Li-ion,42Whr ,65W Round Tip (3-pin),Cloud Grey,325.3 x 216.5 x 17.9 mm,1.58 kg, 2 years warranty ( Battery adapter 1 year),,,,,,,,,,,,,,,,,,
+"Lenovo IdeaPad 1 AMD Ryzen 5 7520U 14"" FHD Laptop 8GB DDR5 RAM 512GB SSD Sand with 2 Years Warranty",63000,AMD,Ryzen 5 7520U, 2.8 GHz – 4.3 GHz,4,8,"L1 Cache: 256KB
+L2 Cache: 2MB
+L3 Cache: 4MB","14""",TN,FHD (1920 x 1080),N/A,220nits Anti-glare; 170° Viewing Angle,8GB (On Board),DDR5,No,5500MHz,1,NVMe PCIe SSD,512GB ,N/A, PCIe NVMe M.2,Installed SSD can be upgradeable,AMD Radeon 610M,Shared,Standard,Yes,Yes,Yes,Yes,N/A,SD Media Card Reader,1x HDMI 1.4b,1x USB 2.0 Type-A,1x USB 3.2 Gen 1 Type-A,1x USB-C 3.2 Gen 1 (support data transfer only),1 x Headphone/ Microphone Port Combo,"11ax, 2x2",Bluetooth 5.0,No,Free Dos,3 Cell Li-ion,42Whr ,65W Round Tip (3-pin),Sand,325.3 x 216.5 x 17.9 mm,1.38 kg, 2 years warranty ( Battery adapter 1 year),,,,,,,,,,,,,,,,,,
+"Lenovo IdeaPad 1 AMD Ryzen 5 7520U 14"" FHD Laptop 8GB DDR5 RAM 512GB SSD with 2 Years Warranty",63000,AMD,Ryzen 5 7520U, 2.8 GHz – 4.3 GHz,4,8,"L1 Cache: 256KB
+L2 Cache: 2MB
+L3 Cache: 4MB","14""",TN,FHD (1920 x 1080),N/A,220nits Anti-glare; 170° Viewing Angle,8GB (On Board),DDR5,No,5500MHz,1,NVMe PCIe SSD,512GB ,N/A, PCIe NVMe M.2,Installed SSD can be upgradeable,AMD Radeon 610M,Shared,Standard,Yes,Yes,Yes,Yes,N/A,SD Media Card Reader,1x HDMI 1.4b,1x USB 2.0 Type-A,1x USB 3.2 Gen 1 Type-A,1x USB-C 3.2 Gen 1 (support data transfer only),1 x Headphone/ Microphone Port Combo,"11ax, 2x2",Bluetooth 5.0,No,Free Dos,3 Cell Li-ion,42Whr ,65W Round Tip (3-pin),Cloud Grey,325.3 x 216.5 x 17.9 mm,1.38 kg, 2 years warranty ( Battery adapter 1 year),,,,,,,,,,,,,,,,,,
+"Lenovo IdeaPad 1 AMD Ryzen 5 7520U 15.6"" FHD Laptop 8GB DDR5 RAM 512GB SSD Grey with 2 Years Warranty",63500,AMD,Ryzen 5 7520U, 2.8 GHz – 4.3 GHz,4,8,"L1 Cache: 256KB
+L2 Cache: 2MB
+L3 Cache: 4MB","15.6""",TN,FHD (1920 x 1080),N/A,220nits Anti-glare; 170° Viewing Angle,8GB (On Board),DDR5,NO,5500MHz,1,NVMe PCIe SSD,512GB ,N/A, PCIe NVMe M.2,Installed SSD can be upgradeable,AMD Radeon 610M,Shared,Standard,Yes,Yes,Yes,Yes,N/A,SD Media Card Reader,1x HDMI 1.4b,1x USB 2.0 Type-A,1x USB 3.2 Gen 1 Type-A,1x USB-C 3.2 Gen 1 (support data transfer only),1 x Headphone/ Microphone Port Combo,"11ax, 2x2",Bluetooth 5.0,No,Free Dos,3 Cell Li-ion,42Whr ,65W Round Tip (3-pin),Cloud Grey,325.3 x 216.5 x 17.9 mm,1.58 kg, 2 years warranty ( Battery adapter 1 year),,,,,,,,,,,,,,,,,,
+"Lenovo IdeaPad 1 AMD Ryzen 5 7520U 15.6"" FHD Laptop 8GB DDR5 RAM 512GB SSD Cloud Grey with 2 Years Warranty",63500,AMD,Ryzen 5 7520U, 2.8 GHz – 4.3 GHz,4,8,"L1 Cache: 256KB
+L2 Cache: 2MB
+L3 Cache: 4MB","15.6""",IPS,FHD (1920 x 1080),N/A,250nits Anti-glare,8GB (On Board),DDR5,NO,5500MHz,1,NVMe PCIe SSD,512GB ,N/A, PCIe NVMe M.2,Installed SSD can be upgradeable,AMD Radeon 610M,Shared,Standard,Yes,Yes,Yes,Yes,N/A,SD Media Card Reader,1x HDMI 1.4b,1x USB 2.0 Type-A,1x USB 3.2 Gen 1 Type-A,1x USB-C 3.2 Gen 1 (support data transfer only),1 x Headphone/ Microphone Port Combo,"Wi-Fi 6, 11ax 2x2",BT5.2,No,Free Dos,3 Cell Li-ion,42Whr ,65W Round Tip (3-pin),Cloud Grey,325.3 x 216.5 x 17.9 mm,1.58 kg, 2 years warranty ( Battery adapter 1 year),,,,,,,,,,,,,,,,,,
+"Lenovo IdeaPad Slim 3 15ABR8 Ryzen 7 7730U 15.6"" FHD Laptop with 1080p FHD Webcam",82000,AMD,Ryzen 7 7730U,up to 4.5 GHz,8,16,16MB,15.6 Inch,,FHD (1920×1080),No,IPS 300nits Anti-glare,16GB,DDR4,"16GB Onboard, not upgradeable",,1,M.2 2242 PCIe 3.0x4 NVMe SSD,512GB SSD,N/A,,,AMD Radeon Graphics,Shared,"Backlit, English (EU)",Yes,FHD 1080p Webcam,1.5W x2 Stereo ,"2x Array
+",N/A,1x Card reader,1x HDMI 1.4b,,2x USB 3.2 Gen 1," 1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery and DisplayPort 1.2)", 1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.1,"Touch Style, Integrated in Power Button",Windows 11 Home,Integrated,47Wh,65W round tip (3-pin) AC adapter,Arctic Grey ,359.3 x 235 x 17.9 mm (14.15 x 9.25 x 0.70 inches),Starting at 1.62 kg (3.57 lbs),2 years International Limited Warranty (Battery 1 year).,Integrated AMD Radeon Graphics,Integrated ,Dolby Audio,N/A,Yes,FW TPM 2.0,"PC-ABS (Top), PC-ABS (Bottom)",MIL-STD-810H military test passed (21 test items),,,,,,,,,,
+"Lenovo IdeaPad 1 AMD Ryzen 5 7520U 15.6"" FHD Laptop 8GB DDR5 RAM 512GB SSD Sand Color with 2 Years Warranty",63500,AMD,Ryzen 5 7520U, 2.8 GHz – 4.3 GHz,4,8,"L1 Cache: 256KB
+L2 Cache: 2MB
+L3 Cache: 4MB","15.6""",TN,FHD (1920 x 1080),N/A,220nits Anti-glare; 170° Viewing Angle,8GB (On Board),DDR5,NO,5500MHz,1,NVMe PCIe SSD,512GB ,N/A, PCIe NVMe M.2,Installed SSD can be upgradeable,AMD Radeon 610M,Shared,"Non-backlit, English (EU)",Yes,Yes,Yes,Yes,N/A,SD Media Card Reader,1x HDMI 1.4b,1x USB 2.0 Type-A,1x USB 3.2 Gen 1 Type-A,1x USB-C 3.2 Gen 1 (support data transfer only),1 x Headphone/ Microphone Port Combo,"Wi-Fi® 6, 11ax 2x2",Bluetooth 5.1,No,Free Dos,3 Cell Li-ion,42Whr ,65W Round Tip (3-pin),Sand,360.2 x 236 x 17.9 mm (14.18 x 9.29 x 0.70 inches),Starting at 1.58 kg (3.48 lbs), 2 years warranty ( Battery adapter 1 year),,,,,,,,,,,,,,,,,,
+"Lenovo IdeaPad Flex 5 14ALC7 AMD Ryzen 5 5500U 14"" Touchscreen Laptop",95000,AMD,Ryzen 5 5500U,2.1GHz up to 4.0GHz,6,12,"L2 Cache: 4MB
+L3 Cache: 8MB",14 Inch,IPS,1920x1200 WUXGA,Yes,"300nits Glossy, 45% NTSC, TÜV Low Blue Light, Glass, Touch",16GB,LPDDR4x,No,4266MHz,,SSD,512GB,,,,Integrated AMD Radeon,,"Backlit Keyboard 
+",Yes ,Yes,Yes,"2x, Array",,4-in-1 Card Reader,"1x HDMI 1.4b
+",,"1x USB 3.2 Gen 1
+
+","1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 3.0 and DisplayPort 1.4)","1x Headphone / microphone combo jack (3.5mm)
+","Wi-Fi 6, 11ax 2x2 
+",Bluetooth 5.1,Yes,"Windows 11 Home Single Language, English",Li-Polymer,Integrated 52.5Wh,65W Round Tip (3-pin),Storm Grey,313.1 x 224.9 x 17.8 mm (12.32 x 8.85 x 0.70 inches),1.55 kg (3.42 lbs),"2 years Limited Warranty (1 year for Battery and Adapter, Terms & conditions Apply As Per Lenovo)",AMD SoC Platform,,"Front-facing stereo speakers, 2W x2, optimized with Dolby",,Yes,,"PC-ABS + 40% GF (Top), PC-ABS + 40% GF (Bottom)",,16GB,,,,,,,,,
+"Lenovo IdeaPad Gaming 3 15ACH6 Ryzen 5 5500H RTX 2050 4GB Graphics 15.6"" FHD Laptop",96500,AMD,Ryzen 5 5500H,3.3GHz up to 4.2GHz,4,8,"L2 Cache: 2MB
+L3 Cache: 8MB","15.6""",IPS,FHD (1920x1080),No,"300nits Anti-glare, 45% NTSC",8GB,DDR4,,3200 MHz,2,M.2 2242 PCIe 4.0x4 NVMe,512GB,Yes,,"Non-RTX 3060 models: up to two drives, 2x M.2 SSD or 1x 2.5"" HDD + 1x M.2 SSD
+2.5"" HDD up to 1TB
+M.2 2242 SSD up to 512GB
+M.2 2280 SSD up to 1TB",NVIDIA GeForce RTX 2050,4GB,"White Backlit, English (EU)","Buttonless Mylar surface multi-touch touchpad, 70 x 120 mm (2.76 x 4.72 inches)",HD 720p,"Stereo speakers, 2W x2, Nahimic Audio","2x, Array",N/A,N/A,1x HDMI 2.0,,2x USB 3.2 Gen 1,1x USB-C 3.2 Gen 1 (support data transfer only),1x Headphone / microphone combo jack (3.5mm),"Wi-Fi® 6, 11ax 2x2",BT5.1,N/A,Windows 11 Home,,45Wh,135W Slim Tip (3-pin),,359.6 x 251.9 x 24.2 mm (14.16 x 9.92 x 0.95 inches),Around 2.25 kg (4.96 lbs),2 years Warranty (Battery & Adapter 1 Year),AMD SoC Platform,GDDR6,"High Definition (HD) Audio, Realtek ALC3287 codec",1x Ethernet (RJ-45),Yes,Firmware TPM 2.0,"PC-ABS (Top), PC-ABS (Bottom)",,16GB,144Hz,,,,,,,,
+"Lenovo IdeaPad Flex 5 14ALC7 AMD Ryzen 7 5700U 14"" Touchscreen Laptop",107000,AMD,AMD Ryzen 7 5700U,1.8GHz up to 4.3GHz,8,16,"L2 Cache: 4MB
+L3 Cache: 8MB",14 Inch,IPS,1920x1200 WUXGA,Yes,"300nits Glossy, 45% NTSC, TÜV Low Blue Light, Glass, Touch",16GB,LPDDR4x,No,4266MHz,,SSD,512GB,,,,Integrated AMD Radeon,,Backlit Keyboard ,Yes,Yes,Yes,"2x, Array",,4-in-1 Card Reader,"1x HDMI 1.4b
+",,"1x USB 3.2 Gen 1
+
+","1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 3.0 and DisplayPort 1.4)","1x Headphone / microphone combo jack (3.5mm)
+","Wi-Fi 6, 11ax 2x2 
+",Bluetooth 5.1,Yes,"Windows 11 Home Single Language, English",Li-Polymer,Integrated 52.5Wh,65W Round Tip (3-pin),Storm Grey,313.1 x 224.9 x 17.8 mm (12.32 x 8.85 x 0.70 inches),1.55 kg (3.42 lbs),"2 years Limited Warranty (1 year for Battery and Adapter, Terms & conditions Apply As Per Lenovo)",AMD SoC Platform,,"Front-facing stereo speakers, 2W x2, optimized with Dolby",,Yes,,"PC-ABS + 40% GF (Top), PC-ABS + 40% GF (Bottom)",,,,,,,,,,,
+"Lenovo IdeaPad D330 10IGL Celeron N4020 10.1"" HD Detachable 2-in-1 Touch Laptop",28500,Intel ,Celeron N4020,1.10 GHz up to 2.80 GHz,2,2,4 MB,10.1 Inch,HD IPS LED Display,1280x800 (WxH) WXGA,Yes,"Antiscratch Brightness: 300nits, Aspect Ratio: 16:10, Color Gamut: 50% NTSC Display",4GB,DDR4 ,No,2133MHz,1,eMMC 5.1 SSD,128GB,N/A,,Installed SSD Can Not Be Replaced,Intel UHD 600 Graphics,Shared,"Standard Keyboard 
+",Yes ,Yes,Yes,Yes,N/A,,,2 x USB 2.0 Type-A,,1 x USB 3.2 Gen 1 Type-C,1 x Headphone/ Microphone Combo,802.11ac 1x1,Bluetooth 4.2,No,Genuine Win 10 home,Li-Polymer,39Wh,45W AC adapter,Mineral Gray,"249 x 178 x 9.5mm (Pad),
+249 x 186 x 8.5 mm (Keyboard Dock)",1.13 Kg,"1 year Limited Warranty (1 year for Battery and Adapter, Terms & conditions Apply As Per Lenovo)",,,"High Definition (HD) Audio, Stereo speakers, 1W x 2, Dolby Audio Premium",Gigabit Lan,,,,,4GB,,,,,,,,,
+Lenovo IdeaPad Slim 3i 15IGL Intel CDC N4020 15.6 Inch HD Display Laptop,34500,Intel ,"Celeron Processor N4020
+",1.10 GHz up to 2.80 GHz,2,2,4MB,15.6 Inch,,HD (1366 x 768),No,TN 220nits Anti-glare,4GB ,DDR4,No,,1,HDD ,1TB,N/A,"M.2 2242 SSD up to 512GB
+M.2 2280 SSD up to 512GB""","2.5"""" HDD up to 1TB","Integrated Intel UHD Graphics 600
+",Shared,"Non-backlit, English (EU)",Yes,720p Webcam,1.5W x2 Stereo ,"2x Array
+",N/A,1x Card reader,1x HDMI 1.4b,1x USB 2.0,"2x USB 3.2 Gen 1
+",,1x Headphone / microphone combo jack (3.5mm),"Wireless 11ac, 2×2",Bluetooth 5.0,No,FreeDOS,,45Wh,"45W Round Tip (2-pin, Wall-mount)","Platinum Grey
+",362.2 x 253.4 x 19.9 mm (14.26 x 9.98 x 0.78 inches),Around 1.7 kg (3.75 lbs),2 years International Limited Warranty (Battery 1 year).,,,Dolby Audio,N/A,Yes,FW TPM 2.0,"PC-ABS (Top), PC-ABS (Bottom)",,,,5400rpm,,,,,,,
+"Lenovo IdeaPad Slim 1i 14IGL7 Intel Celeron N4020 14"" FHD Laptop",36500,Intel,Celeron N4020,1.1GHz Up to 2.8GHz,2,2,4MB,14 Inch,TN,FHD (1920x1080),N/A,220nits Anti-glare,8GB,DDR4,Yes,3200MHZ,2,M.2 2242 PCIe 4.0x4 NVMe SSD,256GB,Yes,,up to 512GB M.2 2242 SSD or 512GB M.2 2280 SSD (non-eMMC models),Intel UHD Graphics 600,Shared,"Non-backlit, English (EU)","Buttonless Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP), 69 x 104 mm (2.72 x 4.09 inches)",HD 720p,2x 1.5W,2x Array,,1x Card reader,1x HDMI 1.4b,1x USB 2.0,"1x USB 3.2 Gen 1
+", 1x USB-C 3.2 Gen 1 (support data transfer only), 1x Headphone/microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth v5.1,N/A,Free DOS,Integrated,42Wh,45W Round Tip (3-pin),Cloud Grey,325.3 x 216.5 x 17.9 mm (12.8 x 8.52 x 0.70 inches),Starting at 1.3 kg (2.87 lbs),1 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,Integrated,"High Definition (HD) Audio, Stereo speakers, Dolby Audio",N/A,Yes,Firmware TPM 2.0,"Surface Treatment: IMR (In-Mold Decoration by Roller)
+Case Material: PC-ABS (Top), PC-ABS (Bottom)","Green Certifications:
+ErP Lot 3
+RoHS compliant",Up to 8GB (8GB SO-DIMM) DDR4-2400 offering,,,,,,,,,
+"Lenovo IdeaPad 1 15AMN7 AMD Athlon 7120U 15.6"" FHD Laptop (Sand Color)",41000,AMD,Athlon Silver 7120U, 2.4 GHz – 3.5GHz,2,2,"L2 Cache: 1MB
+L3 Cache: 4MB","15.6""",TN,FHD (1920 x 1080),N/A,220nits Anti-glare; 170° Viewing Angle,8GB (On Board),DDR5,NO,5500MHz,1,NVMe PCIe SSD,256GB,N/A, PCIe NVMe M.2,Installed SSD can be upgradeable,AMD Radeon 610M,Shared,Standard,Yes,Yes,Yes,Yes,N/A,SD Media Card Reader,1x HDMI 1.4b,1x USB 2.0 Type-A,1x USB 3.2 Gen 1 Type-A,1x USB-C 3.2 Gen 1 (support data transfer only),1 x Headphone/ Microphone Port Combo,"Wi-Fi 6, 11ax 2x2 ",BT5.2,No,Free Dos,3 Cell Li-ion,42Whr ,65W Round Tip (3-pin),Sand,360.2 x 236 x 17.9 mm (14.18 x 9.29 x 0.70 inches),1.58 kg, 2 years warranty ( Battery adapter 1 year),,,,,Yes,Firmware TPM 2.0 Enabled,,,,,,,,,,,,
+"Lenovo IdeaPad Slim 3i 15ITL Core i3 11th Gen 256GB SSD 15.6"" Full HD Laptop with Windows 11",50500,Intel ,Core i3-1115G4,3.0 GHz up to 4.1 GHz,2,4,6MB,15.6 Inch,,FHD (1920×1080),No,TN 250nits Anti-glare,4GB ,DDR4 ,No,3200MHz ,1,M.2 2242 PCIe 3.0x4 NVMe SSD,256GB,N/A,"M.2 2242 SSD up to 512GB
+M.2 2280 SSD up to 1TB",Installed SSD can be upgradeable,Integrated Intel UHD Graphics,Shared,"Backlit, English (EU)",Yes,720p Webcam,1.5W x2 Stereo ,"2x Array
+",N/A,1x Card reader,1x HDMI 1.4b,1x USB 2.0,"1x USB 3.2 Gen 1
+1x USB-C 3.2 Gen 1 (support data transfer only)",,1x Headphone/microphone combo jack (3.5mm),"Wireless 11ac, 2×2",Bluetooth 5.0,No,"Windows 11 Home 64, English",,45Wh,"65W Round Tip (2-pin, Wall-mount)",ARCTIC GREY,359.2 x 236.5 x 19.9 mm (14.14 x 9.31 x 0.78 inches),1.65 KG,2 years Limited Warranty (Terms & conditions Apply As Per Lenovo),,,Dolby Audio,N/A,Yes,FW TPM 2.0,,,up to 12GB,,,11th Gen,,,,,,
+"Lenovo IdeaPad Slim 1 15AMN7 Ryzen 3 7320U 15.6"" FHD Laptop",51590,AMD,Ryzen 3 7320U,2.4GHz up to 4.1GHz,4,8,"L2 Cache: 2MB
+L3 Cache: 4MB",15.6 Inch,,FHD (1920×1080),No,TN 220nits Anti-glare,8GB ,DDR5,No,,1,M.2 2242 PCIe 3.0x4 NVMe SSD,512GB SSD,N/A,,,AMD Radeon 610M,Shared,"6-row, multimedia Fn keys, numeric keypad",Yes,720p Webcam,1.5W x2 Stereo ,"2x Array
+",N/A,1x Card reader,1x HDMI 1.4b,1x USB 2.0,1x USB 3.2 Gen 1,1x USB-C 3.2 Gen 1 (support data transfer only),1x Headphone / microphone combo jack (3.5mm),"Wireless 11ac, 2×2",Bluetooth 5.0,No,FreeDOS,Integrated Li-Polymer,42Wh,"65W round tip (3-pin) AC adapter, 100-240V, 50-60Hz","Cloud Grey (82VG00ETIN)
+Sand (82VG00EUIN)",360.2 x 236 x 17.9 mm (14.18 x 9.29 x 0.70 inches),Around 1.58,2 years International Limited Warranty (Battery 1 year).,,Integrated ,Dolby Audio,N/A,Yes,FW TPM 2.0,"PC-ABS (Top), PC-ABS (Bottom)",,,,,,,,,,,
+"Lenovo IdeaPad Slim 3i 14IAU7 Core i3 12th Gen 14"" FHD Laptop",56500,Intel,"Core i3-1215U
+",3.3 GHz up to 4.4 GHz,6 (Performance-cores- 2 Efficient-cores- 4),8,10MB,"14""",TN,FHD (1920x1080),,"TN Panel, 250nits Anti-glare",8GB Soldered,DDR4,Yes,3200 MHz,2,SSD,256GB,No,,,Intel UHD Graphics,Shared,,,HD Camera,Yes,Yes,,Yes,1x HDMI,1x USB 2.0,1x USB 3.2 Gen 1,1x USB 3.2 Gen 1 Type-C,1x Headphone / microphone combo jack (3.5mm),11ac 2x2,Bluetooth 5.0,No,,,Integrated 45Wh,65W Round Tip (3-pin),Arctic Grey,324.2 x 215.7 x 19.9 mm (12.76 x 8.49 x 0.78 inches),Starting at 1.43 kg (3.15 lbs),02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,,"Stereo speakers, 1.5W x2, Dolby Audio.",,Yes,Firmware TPM 2.0 Enabled,"PC-ABS (Top), PC-ABS (Bottom)",,Up to 16GB (8GB soldered + 8GB SO-DIMM) DDR4-3200 offering,,,12th,,,,,,
+"Lenovo IdeaPad SLIM 3i 14IAU7 Intel Core i3 12th Gen 14"" FHD Laptop",56500,Intel,Core i3-1215U,Up to 4.40 GHz,6 (2 P-core + 4 E-core),8,10MB,14 Inch,,FHD (1920x1080),No,TN 250nits Anti-glare,8GB,DDR4 ,No,3200MHz ,1,M.2 2280 PCIe 4.0 x4 slot,256GB ,N/A,M.2 NVME,Up To 1TB NVME SSD 2280,Integrated Intel UHD Graphics,Shared,"Non-backlit, English (EU)",Yes,720p ,"Stereo speakers, 1.5W x2",2x Array,N/A,SD Card Reader,1x HDMI 1.4b,1x USB 2.0,"1x USB 3.2 Gen 1
+1x USB-C 3.2 Gen 1 (support data transfer only)",,1x Headphone/microphone combo jack (3.5mm),"Wi-Fi® 6, 11ax 2x2","version 5.1
+",,FreeDOS,Integrated ,45Wh ,65W Round Tip (3-pin),"Misty Blue (82RJ00E5IN)
+","324.2 x 215.7 x 19.9 mm (12.76 x 8.49 x 0.78 inches)
+
+","Starting at 1.43 kg (3.15 lbs)
+",2 Years,,,Dolby Audio,No Onboard Ethernet,Yes,Firmware TPM 2.0 Enabled,,,Up to 16GB,,,12th Gen,,,,,,
+"Lenovo IdeaPad Slim 3i 14ITL6 Core i3 11th Gen 512GB SSD 14"" FHD Laptop",57500,Intel,Core i3-1115G4,3.00 GHz up to 4.10 GHz,2,4,6MB,14-inch,LED,FHD (1920x1080),,"TN Panel, 250nits Anti-glare",8GB Soldered DDR4-3200,DDR4,,3200 MHz,2,SSD,512GB,No,,,Intel UHD Graphics,Shared,Non-backlit,,HD Camera,Yes,Yes,,Yes,1x HDMI,1x USB 2.0,1x USB 3.2 Gen 1,1x USB 3.2 Gen 1 Type-C,1x Headphone / microphone combo jack (3.5mm),Wi-Fi 5 x 2,Bluetooth 5.0,No,FreeDos,,Integrated 45Wh,65W Round Tip (3-pin),Arctic Grey,324.2 x 215.7 x 19.9 mm (12.76 x 8.49 x 0.78 inches),1.41 kg,02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,,"Stereo speakers, 1.5W x2, Dolby Audio.",,Yes,Firmware TPM 2.0,,,Up to 16GB (8GB soldered + 8GB SO-DIMM) DDR4-3200 offering,,,11th,,,,,,
+"Lenovo IdeaPad Slim 3 14IRU8 Core i3 13th Gen 14"" FHD Military Grade Laptop",58000,Intel,Core i3-1305U,3.3GHz Up to 4.5GHz,5 (1 performance core + 4 efficient core),6,10MB,14 Inch,TN,FHD (1920x1080),N/A,250nits Anti-glare,8GB Soldered,LPDDR5,N/A,4800MHZ,1,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,Yes,,up to 1TB M.2 2242 SSD,Intel UHD Graphics,Shared,"Non-backlit, English (EU)","Buttonless Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP), 69 x 104 mm (2.72 x 4.09 inches)",HD 720p,2x 1.5W,2x Array,,SD Card Reader,1x HDMI 1.4b,,"2x USB 3.2 Gen 1
+","1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery and DisplayPort 1.2)", 1x Headphone/microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth v5.2,N/A,Windows 11 Home,Integrated,47Wh,65W Round Tip (3-pin),Abyss Blue,324.3 x 213.8 x 17.9 mm (12.77 x 8.42 x 0.70 inches),Starting at 1.37 kg (3.02 lbs),2 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,Integrated,"High Definition (HD) Audio, User-facing stereo speakers, 1.5W x2, optimized with Dolby Audio",N/A,Yes,Firmware TPM 2.0,"Surface Treatment: IMR (In-Mold Decoration by Roller)
+Case Material: PC-ABS (Top), PC-ABS (Bottom)","MIL-STD-810H military test passed (21 test items)
+TÜV Rheinland Low Blue Light (Software Solution)
+Green Certifications:
+ENERGY STAR 8.0
+EPEAT Silver Registered
+ErP Lot 6
+ErP Lot 26
+RoHS compliant",8GB,,,13th Generation,,,,,,
+"Lenovo IdeaPad Slim 3 14IRU8 Core i3 13th Gen 14"" FHD Military Grade Laptop Arctic Grey",58000,Intel,Core i3-1305U,3.3GHz Up to 4.5GHz,5 (1 performance core + 4 efficient core),6,10MB,14 Inch,TN,FHD (1920x1080),N/A,250nits Anti-glare,8GB Soldered,LPDDR5,N/A,4800MHZ,1,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,Yes,,up to 1TB M.2 2242 SSD,Intel UHD Graphics,Shared,"Non-backlit, English (EU)","Buttonless Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP), 69 x 104 mm (2.72 x 4.09 inches)",HD 720p,2x 1.5W,2x Array,,SD Card Reader,1x HDMI 1.4b,,"2x USB 3.2 Gen 1
+","1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery and DisplayPort 1.2)", 1x Headphone/microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth v5.2,N/A,Windows 11 Home,Integrated,47Wh,65W Round Tip (3-pin),Arctic Grey,324.3 x 213.8 x 17.9 mm (12.77 x 8.42 x 0.70 inches),Starting at 1.37 kg (3.02 lbs),2 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,Integrated,"High Definition (HD) Audio, User-facing stereo speakers, 1.5W x2, optimized with Dolby Audio",N/A,Yes,Firmware TPM 2.0,"Surface Treatment: IMR (In-Mold Decoration by Roller)
+Case Material: PC-ABS (Top), PC-ABS (Bottom)","MIL-STD-810H military test passed (21 test items)
+TÜV Rheinland Low Blue Light (Software Solution)
+Green Certifications:
+ENERGY STAR 8.0
+EPEAT Silver Registered
+ErP Lot 6
+ErP Lot 26
+RoHS compliant",8GB,,,13th Generation,,,,,,
+"Lenovo IdeaPad SLIM 3i Intel Core i3 12th Gen 15.6"" FHD Laptop",59500,Intel,Core i3-1215U,Up to 4.40 GHz,6 (2 P-core + 4 E-core),8,10MB,15.6 Inch,,FHD (1920x1080),No,TN 250nits Anti-glare,8GB Soldered DDR4-3200,DDR4 ,No,3200MHz ,1,M.2 2280 PCIe 4.0 x4 slot,512GB ,N/A,M.2 NVME,Up To 1TB NVME SSD 2280,Integrated Intel UHD Graphics,Shared,"Non-backlit, English (EU)",Yes,720p ,"Stereo speakers, 1.5W x2",2x Array,N/A,SD Card Reader,1x HDMI 1.4b,1x USB 2.0,"1x USB 3.2 Gen 1
+1x USB-C 3.2 Gen 1 (support data transfer only)",,1x Headphone/microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2","version 5.1
+",,FreeDOS,Integrated ,45Wh ,65W Round Tip (3-pin),Abyss Blue,"359.2 x 236.5 x 19.9 mm (14.14 x 9.31 x 0.78 inches)
+",Starting at 1.63 kg (3.59 lbs),2 Years,,,Dolby Audio,No Onboard Ethernet,Yes,Firmware TPM 2.0 Enabled,,,"Up to 16GB (8GB soldered + 8GB SO-DIMM) DDR4-3200 offering
+",,,12th Gen,,,,,,
+"Lenovo IdeaPad 3i 14IAU7 Core i3 12th Gen 14"" FHD Laptop",59500,Intel,Core i3-1215U,Up to 4.40 GHz,6 (2 P-core + 4 E-core),8,10MB,14 Inch,,FHD (1920x1080),No,TN 250nits Anti-glare,8GB,DDR4 ,No,3200MHz ,1,M.2 2280 PCIe 4.0 x4 slot,512GB ,N/A,M.2 NVME,Up To 1TB NVME SSD 2280,Integrated Intel UHD Graphics,Shared,"Non-backlit, English (EU)",Yes,720p ,"Stereo speakers, 1.5W x2",2x Array,N/A,SD Card Reader,1x HDMI 1.4b,1x USB 2.0,"1x USB 3.2 Gen 1
+1x USB-C 3.2 Gen 1 (support data transfer only)",,1x Headphone/microphone combo jack (3.5mm),"Wi-Fi® 6, 11ax 2x2","version 5.1
+",,FreeDOS,Integrated ,45Wh ,65W Round Tip (3-pin),"Arctic Grey
+Abyss Blue","324.2 x 215.7 x 19.9 mm (12.76 x 8.49 x 0.78 inches)
+","Starting at 1.43 kg (3.15 lbs)
+",2 Years,,,Dolby Audio,No Onboard Ethernet,Yes,Firmware TPM 2.0 Enabled,,,Up to 16GB,,,12th Gen,,,,,,
+"Lenovo IdeaPad Slim 3i 15IRU8 Core i3 13th Gen 15.6"" FHD Military Grade Laptop with Fingerprint",59500,Intel,"Core i3-1305U
+","3.3 GHz up to 4.5 GHz
+","5 (Performance-cores- 1, Efficient-cores- 4)",6,10MB,"15.6""",TN,FHD (1920x1080),,TN 250nits Anti-glare,"8GB soldered
+",DDR5,No,4800 MHz,,SSD,512GB,No,,Up to 1TB,Intel UHD Graphics,Shared,"Non-backlit, English (EU)",Yes,HD Camera,Yes,Yes,,Yes,1x HDMI,1x USB 2.0,2x USB 3.2 Gen 1,1x USB 3.2 Gen 1 Type-C,1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.1,"Touch Style, Integrated in Power Button",Windows 11 Home,,Integrated 47Wh,65W Round Tip (3-pin),Arctic Grey,324.3 x 213.8 x 17.9 mm (12.77 x 8.42 x 0.70 inches),1.37 kg (3.02 lbs),02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,,"User-facing stereo speakers, 1.5W x2, optimized with Dolby Audio",,Yes,Firmware TPM 2.0 Enabled,"PC-ABS (Top), PC-ABS (Bottom)",,,,,13th,,,,,,
+"Lenovo IdeaPad Slim 3i 15IAU7 Core i3 12th Gen 15.6"" FHD Laptop (Arctic Grey)",59500,Intel,Core i3-1215U,up to 4.40 GHz,6 (Performance-cores- 2 Efficient-cores- 4),8,10MB,"15.6""",LED,FHD (1920x1080),,"TN Panel, 250nits Anti-glare",8GB,DDR4,,3200 MHz,1,NVMe PCIe,512GB,N/A,,,Intel UHD Graphics,Shared,"Non-backlit, English (EU)",,HD Camera,Yes,Yes,,4-in-1 Card Reader,1 x HDMI,1x USB 2.0,1x USB 3.2 Gen 1,1x USB 3.2 Gen 1 Type-C,1x Headphone / microphone combo jack (3.5mm),11ac 2x2,Bluetooth 5.1,,FreeDos,,45Wh,65W Round Tip (3-pin),Arctic Grey,359.2 x 236.5 x 19.9 mm (14.14 x 9.31 x 0.78 inches),1.63 kg,02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,,"Stereo speakers, 1.5W x2, Dolby Audio.",,Yes,Firmware TPM 2.0,,,,,,12th Gen,,,,,,
+"Lenovo IdeaPad Slim 3i 15IAU7 Core i3 12th Gen 15.6"" FHD Laptop",61500,Intel,Core i3-1215U,up to 4.40 GHz,6 (Performance-cores- 2 Efficient-cores- 4),8,10MB,"15.6""",LED,FHD (1920x1080),,"TN Panel, 250nits Anti-glare",8GB,DDR4,,3200 MHz,1,NVMe PCIe,512GB,N/A,,,Intel UHD Graphics,Shared,"Non-backlit, English (EU)",,HD Camera,Yes,Yes,,4-in-1 Card Reader,1 x HDMI,1x USB 2.0,1x USB 3.2 Gen 1,1x USB 3.2 Gen 1 Type-C,1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.1,,Windows 11 Home,,45Wh,65W Round Tip (3-pin),Abyss Blue,359.2 x 236.5 x 19.9 mm (14.14 x 9.31 x 0.78 inches),1.63 kg,02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,,"Stereo speakers, 1.5W x2, Dolby Audio.",,Yes,Firmware TPM 2.0,,,,,,12th Gen,,,,,,
+"Lenovo V15 Gen 4 Note PC Core i3 13th Gen 15.6"" FHD Laptop",62000,Intel,Core i3-1315U,up to 4.5 GHz with Intel® Turbo Boost Technology,6,8,10MB L3 cache,15.6 Inch,TN,FHD (1920×1080),No,TN 250nits Anti-glare,8GB,DDR4,,3200MHz,,,512GB SSD,N/A,,,Intel UHD Graphics,Shared,"6-row, spill-resistant, multimedia Fn keys, SMB Service Hot key",Buttonless Mylar® surface multi-touch touchpad,720p Webcam,"Stereo speakers, 1.5W x2, Dolby® Audio™ ; Dual-microphone array with noise-cancelling",,N/A,,1x HDMI 1.4b,,1x USB 3.2 Gen 1,"1x USB-C® 3.2 Gen 1 (support data transfer, Power Delivery 3.0 and DisplayPort™ 1.2)
+
+",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 802.11ax 2x2",Bluetooth 5.2,N/A,FreeDOS,Integrated,38Wh ,65W USB-C (3-pin) AC adapter,Iron Grey ,324.2 x 215.2 x 19.9 mm (12.76 x 8.47 x 0.78 inches),1.43 kg (3.15 lbs),2 years International Limited Warranty (Battery 1 year).,Intel integrated SoC,Integrated ,Dolby Audio,1x Ethernet (RJ-45),Yes,FW TPM 2.0,"PC-ABS (Top), PC-ABS (Bottom)",,,,,,Kensington,,,,,
+"Lenovo IdeaPad Slim 3i 15IRU8 Core i3 13th Gen 256GB SSD 15.6"" FHD Military Grade Laptop",62500,Intel,"Core i3-1305U
+","3.3 GHz up to 4.5 GHz
+","5 (Performance-cores- 1, Efficient-cores- 4)",6,10MB,"15.6""",TN,FHD (1920x1080),,TN 250nits Anti-glare,"8GB soldered
+",DDR5,No,4800 MHz,,SSD,256GB,No,,Up to 1TB,Intel UHD Graphics,Shared,"Non-backlit, English (EU)",Yes,HD Camera,Yes,Yes,,Yes,1x HDMI,1x USB 2.0,2x USB 3.2 Gen 1,1x USB 3.2 Gen 1 Type-C,1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.1,No,Windows 11 Home,,Integrated 47Wh,65W Round Tip (3-pin),Arctic Grey,359.3 x 235 x 17.9 mm (14.15 x 9.25 x 0.70 inches),Starting at 1.62 kg (3.57 lbs),02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,,"User-facing stereo speakers, 1.5W x2, optimized with Dolby Audio",,Yes,Firmware TPM 2.0 Enabled,"PC-ABS (Top), PC-ABS (Bottom)",,,,,13th,,,,,,
+"Lenovo IdeaPad Slim 3i 15IRU8 Core i3 13th Gen 256GB SSD Abyss Blue 15.6"" FHD Military Grade Laptop",62500,Intel,"Core i3-1305U
+","3.3 GHz up to 4.5 GHz
+","5 (Performance-cores- 1, Efficient-cores- 4)",6,10MB,"15.6""",TN,FHD (1920x1080),,TN 250nits Anti-glare,"8GB soldered
+",DDR5,No,4800 MHz,,SSD,256GB,No,,Up to 1TB,Intel UHD Graphics,Shared,"Non-backlit, English (EU)",Yes,HD Camera,Yes,Yes,,Yes,1x HDMI,1x USB 2.0,2x USB 3.2 Gen 1,1x USB 3.2 Gen 1 Type-C,1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.1,No,Windows 11 Home,,Integrated 47Wh,65W Round Tip (3-pin),Abyss Blue,359.3 x 235 x 17.9 mm (14.15 x 9.25 x 0.70 inches),Starting at 1.62 kg (3.57 lbs),02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,,"User-facing stereo speakers, 1.5W x2, optimized with Dolby Audio",,Yes,Firmware TPM 2.0 Enabled,"PC-ABS (Top), PC-ABS (Bottom)",,,,,13th,,,,,,
+"Lenovo IdeaPad Slim 3 15IRU8 Core i3 13th Gen 15.6"" FHD Military Grade Laptop",63500,Intel,Core i3-1305U,3.3GHz Up to 4.5GHz,5 (1 performance core + 4 efficient core),6,10MB,15.6 Inch,TN,FHD (1920x1080),N/A,250nits Anti-glare,8GB Soldered,LPDDR5,N/A,4800MHZ,1,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,Yes,,up to 1TB M.2 2242 SSD,Intel UHD Graphics,Shared,"Non-backlit, English (EU)","Buttonless Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP), 69 x 104 mm (2.72 x 4.09 inches)",HD 720p,2x 1.5W,2x Array,,SD Card Reader,1x HDMI 1.4b,,"2x USB 3.2 Gen 1
+","1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery and DisplayPort 1.2)", 1x Headphone/microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth v5.2,N/A,Windows 11 Home,Integrated,47Wh,65W Round Tip (3-pin),Arctic Grey,359.3 x 235 x 17.9 mm (14.15 x 9.25 x 0.70 inches),Starting at 1.62 kg (3.57 lbs),2 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,Integrated,"High Definition (HD) Audio, User-facing stereo speakers, 1.5W x2, optimized with Dolby Audio",N/A,Yes,Firmware TPM 2.0,"Surface Treatment: IMR (In-Mold Decoration by Roller)
+Case Material: PC-ABS (Top), PC-ABS (Bottom)","MIL-STD-810H military test passed (21 test items)
+TÜV Rheinland® Low Blue Light (Software Solution)
+Green Certifications:
+ENERGY STAR® 8.0
+EPEAT™ Silver Registered
+ErP Lot 6
+ErP Lot 26
+RoHS compliant",8GB,,,13th Generation,,,,,,
+"Lenovo V14 Gen 4 Note PC Core i3 13th Gen 14"" FHD IPS Laptop",65000,Intel,Core i3-1315U,up to 4.5 GHz with Intel® Turbo Boost Technology,6,8,10MB L3 cache,14 Inch,TN,FHD (1920×1080),No,TN 250nits Anti-glare,8GB,DDR4,,3200MHz,,,512GB SSD,N/A,,,Intel UHD Graphics,Shared,"6-row, spill-resistant, multimedia Fn keys, SMB Service Hot key",Buttonless Mylar® surface multi-touch touchpad,720p Webcam,"Stereo speakers, 1.5W x2, Dolby® Audio™ ; Dual-microphone array with noise-cancelling",,N/A,,1x HDMI 1.4b,,1x USB 3.2 Gen 1,"1x USB-C® 3.2 Gen 1 (support data transfer, Power Delivery 3.0 and DisplayPort™ 1.2)
+
+",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 802.11ax 2x2",Bluetooth 5.2,N/A,FreeDOS,Integrated,38Wh ,65W USB-C (3-pin) AC adapter,Iron Grey ,324.2 x 215.2 x 19.9 mm (12.76 x 8.47 x 0.78 inches),1.43 kg (3.15 lbs),2 years International Limited Warranty (Battery 1 year).,Intel integrated SoC,Integrated ,Dolby Audio,1x Ethernet (RJ-45),Yes,FW TPM 2.0,"PC-ABS (Top), PC-ABS (Bottom)",,,,,,Kensington,,,,,
+"Lenovo IdeaPad Slim 3i 15IRU8 Core i3 13th Gen 15.6"" FHD Military Grade Laptop",65500,Intel,"Core i3-1305U
+","3.3 GHz up to 4.5 GHz
+","5 (Performance-cores- 1, Efficient-cores- 4)",6,10MB,"15.6""",TN,FHD (1920x1080),,TN 250nits Anti-glare,"8GB soldered
+",DDR5,No,4800 MHz,,SSD,512GB,No,,Up to 1TB,Intel UHD Graphics,Shared,"Non-backlit, English (EU)",Yes,HD Camera,Yes,Yes,,Yes,1x HDMI,1x USB 2.0,2x USB 3.2 Gen 1,1x USB 3.2 Gen 1 Type-C,1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.1,No,Windows 11 Home,,Integrated 47Wh,65W Round Tip (3-pin),Arctic Grey,324.3 x 213.8 x 17.9 mm (12.77 x 8.42 x 0.70 inches),1.37 kg (3.02 lbs),02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,,"User-facing stereo speakers, 1.5W x2, optimized with Dolby Audio",,Yes,Firmware TPM 2.0 Enabled,"PC-ABS (Top), PC-ABS (Bottom)",,,,,13th,,,,,,
+"Lenovo IdeaPad Slim 3i 15IRU8 Core i3 13th Gen 512GB SSD Abyss Blue 15.6"" FHD Military Grade Laptop",65500,Intel,"Core i3-1305U
+","3.3 GHz up to 4.5 GHz
+","5 (Performance-cores- 1, Efficient-cores- 4)",6,10MB,"15.6""",TN,FHD (1920x1080),,TN 250nits Anti-glare,"8GB soldered
+",DDR5,No,4800 MHz,,SSD,256GB,No,,Up to 1TB,Intel UHD Graphics,Shared,"Non-backlit, English (EU)",Yes,HD Camera,Yes,Yes,,Yes,1x HDMI,1x USB 2.0,2x USB 3.2 Gen 1,1x USB 3.2 Gen 1 Type-C,1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.1,No,Windows 11 Home,,Integrated 47Wh,65W Round Tip (3-pin),Abyss Blue,359.3 x 235 x 17.9 mm (14.15 x 9.25 x 0.70 inches),Starting at 1.62 kg (3.57 lbs),02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,,"User-facing stereo speakers, 1.5W x2, optimized with Dolby Audio",,Yes,Firmware TPM 2.0 Enabled,"PC-ABS (Top), PC-ABS (Bottom)",,,,,13th,,,,,,
+"Lenovo V15 Gen 3 Core i5 12th Gen 15.6"" FHD Laptop",70000,Intel,Core i5-1235U ,P-core 1.3/4.4GHz E-core 0.9/ 3.3GHz,10 (2 P-core + 8 E-core),12,12MB,15.6 Inch,IPS,FHD (1920x1080),No,"Brightness: 300nits
+Surface: Anti-glare
+Aspect Ratio: 16:9
+Color Gamut: 45% NTSC",8GB (On-Board),DDR4,Non-Removable,3200MHz,1,SSD,512GB,,M.2 2242 PCIe Gen4,"Additional HDD can be added, and SSD can be replaced",Intel UHD Graphics,Shared,Non-Backlight Keyboard ,Yes,720p HD,"1.5W x2, Stereo speakers",Dual-microphone array with noise-cancelling,N/A,N/A,1x HDMI 1.4b,1x USB 2.0,1x USB 3.2 Gen 1,1x USB-C 3.2 Gen 1,1x 3.5mm Headphone / microphone combo jack ,"Wi-Fi 6, 802.11ax 2x2",Bluetooth 5.1,N/A,Free DOS,2-cell,38Wh,65W,Iron grey,359 x 236 x 19.9 mm (14.13 x 9.29 x 0.78 inches),1.7 kg (3.75 lbs),"2 Years Limited Warranty (1 year for Battery and Adapter, Terms & conditions Apply As Per Lenovo)",Intel SoC (System on Chip) platform,Integrated,"High Definition (HD) Audio
+Realtek ALC3287 codec
+Dolby Audio",1x RJ-45,Yes,Firmware TPM 2.0,PC-ABS,,8GB,60Hz,,12th Gen,Kensington Nano Security Slot,"6-row, Spill-Resistant, Multimedia Fn keys, SMB Service Hot Key, Numeric Keypad",,,,
+"Lenovo IdeaPad Slim 3 14IAH8 Core i5 12th Gen 14"" FHD Military Grade Laptop",70000,Intel,"Core i5-12450H
+","P-core 2.0 / 4.4GHz, E-core 1.5 / 3.3GHz","8 (4 Performance cores, 4 Efficient cores)",12,12MB,14 Inch,TN,FHD (1920x1080),N/A,250nits Anti-glare,"8GB soldered
+",DDR5,Non-Removable,4800 MHz,1,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,N/A,M.2 2242 PCIe 4.0 x4 SSD,Up to 1TB,Intel UHD Graphics,Shared,"Non-backlit, English (EU)","Buttonless Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP), 62 x 104 mm (2.44 x 4.09 inches)",HD 720p,"1.5W x2, User-facing stereo speakers","2x, Array",N/A,SD Card Reader,1x HDMI1.4,,2x USB 3.2 Gen 1,"1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery and DisplayPort 1.2)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.2,N/A,Free Dos,Integrated,47Wh,65W Round Tip (3-pin),Abyss Blue,"324.3 x 213.8 x 17.9 mm (12.77 x 8.42 x 0.70 inches)
+",Starting at 1.37 kg (3.02 lbs),02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,Integrated,Optimized with Dolby Audio,No Onboard Ethernet,Yes,Firmware TPM 2.0 Enabled,"Surface Treatment: IMR (In-Mold Decoration by Roller)
+Case Material: PC-ABS (Top), PC-ABS (Bottom)
+","MIL-STD-810H military test passed (21 test items)
+TÜV Rheinland Low Blue Light (Software Solution)
+Green Certifications:
+ErP Lot 6
+ErP Lot 26
+RoHS compliant",8GB,,,12th Generation,,,,,,
+"Lenovo IdeaPad Slim 3 14IAH8 Core i5 12th Gen 14"" FHD Military Grade Laptop Arctic Grey",70000,Intel,"Core i5-12450H
+","P-core 2.0 / 4.4GHz, E-core 1.5 / 3.3GHz
+","8 (4 Performance cores, 4 Efficient cores)",12,12MB,14 Inch,TN,FHD (1920x1080),N/A,250nits Anti-glare,"8GB soldered
+",DDR5,Non-Removable,4800 MHz,1,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,N/A,M.2 2242 PCIe 4.0 x4 SSD,Up to 1TB,Intel UHD Graphics,Shared,"Non-backlit, English (EU)","Buttonless Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP), 62 x 104 mm (2.44 x 4.09 inches)",HD 720p,"1.5W x2, User-facing stereo speakers","2x, Array",N/A,SD Card Reader,1x HDMI1.4,,2x USB 3.2 Gen 1,"1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery and DisplayPort 1.2)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.2,N/A,Free Dos,Integrated,47Wh,65W Round Tip (3-pin),Arctic Grey,"324.3 x 213.8 x 17.9 mm (12.77 x 8.42 x 0.70 inches)
+",Starting at 1.37 kg (3.02 lbs),02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,Integrated,Optimized with Dolby Audio,No Onboard Ethernet,Yes,Firmware TPM 2.0 Enabled,"Surface Treatment: IMR (In-Mold Decoration by Roller)
+Case Material: PC-ABS (Top), PC-ABS (Bottom)
+","MIL-STD-810H military test passed (21 test items)
+TÜV Rheinland Low Blue Light (Software Solution)
+Green Certifications:
+ErP Lot 6
+ErP Lot 26
+RoHS compliant",8GB,,,12th Generation,,,,,,
+"Lenovo IdeaPad Slim 3 15IAH8 Core i5 12th Gen 15.6"" FHD Military Grade Laptop",70000,Intel,"Core i5-12450H
+","P-core 2.0 / 4.4GHz, E-core 1.5 / 3.3GHz
+","8 (4 Performance cores, 4 Efficient cores)",12,12MB,15.6 Inch,TN,FHD (1920x1080),N/A,250nits Anti-glare,"8GB soldered
+",DDR5,Non-Removable,4800 MHz,1,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,N/A,M.2 2242 PCIe 4.0 x4 SSD,Up to 1TB,Intel UHD Graphics,Shared,"Non-backlit, English (EU)","Buttonless Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP), 62 x 104 mm (2.44 x 4.09 inches)",HD 720p,"1.5W x2, User-facing stereo speakers","2x, Array",N/A,SD Card Reader,1x HDMI1.4,,2x USB 3.2 Gen 1,"1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery and DisplayPort 1.2)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.2,N/A,Free Dos,Integrated,47Wh,65W Round Tip (3-pin),Arctic Grey,"359.3 x 235 x 17.9 mm (14.15 x 9.25 x 0.70 inches)
+",Starting at 1.62 kg (3.57 lbs),02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,Integrated,Optimized with Dolby Audio,No Onboard Ethernet,Yes,Firmware TPM 2.0 Enabled,"Surface Treatment: IMR (In-Mold Decoration by Roller)
+Case Material: PC-ABS (Top), PC-ABS (Bottom)
+","MIL-STD-810H military test passed (21 test items)
+TÜV Rheinland Low Blue Light (Software Solution)
+Green Certifications:
+ErP Lot 6
+ErP Lot 26
+RoHS compliant",8GB,,,12th Generation,,,,,,
+"Lenovo IdeaPad Slim 3 15IAH8 Core i5 12th Gen 15.6"" FHD Military Grade Laptop Abyss Blue",70000,Intel,"Core i5-12450H
+",1.5 GHz up to 4.4 GHz,"8 (4 Performance cores, 4 Efficient cores)",12,12MB,15.6 Inch,TN,FHD (1920x1080),N/A,250nits Anti-glare,"8GB soldered
+",DDR5,Non-Removable,4800 MHz,1,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,N/A,M.2 2242 PCIe 4.0 x4 SSD,Up to 1TB,Intel UHD Graphics,Shared,"Non-backlit, English (EU)","Buttonless Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP), 62 x 104 mm (2.44 x 4.09 inches)",HD 720p,"1.5W x2, User-facing stereo speakers","2x, Array",N/A,SD Card Reader,1x HDMI1.4,,2x USB 3.2 Gen 1,"1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery and DisplayPort 1.2)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.2,N/A,Free Dos,Integrated,47Wh,65W Round Tip (3-pin),Abyss Blue,"359.3 x 235 x 17.9 mm (14.15 x 9.25 x 0.70 inches)
+",Starting at 1.62 kg (3.57 lbs),02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,Integrated,Optimized with Dolby Audio,No Onboard Ethernet,Yes,Firmware TPM 2.0 Enabled,"Surface Treatment: IMR (In-Mold Decoration by Roller)
+Case Material: PC-ABS (Top), PC-ABS (Bottom)
+","MIL-STD-810H military test passed (21 test items)
+TÜV Rheinland Low Blue Light (Software Solution)
+Green Certifications:
+ErP Lot 6
+ErP Lot 26
+RoHS compliant",8GB,,,12th Generation,,,,,,
+"Lenovo V15 Gen 4 Note PC Core i5 13th Gen 15.6"" FHD Laptop",72000,Intel,Core i5-1335U,Up to 4.6 GHz with Intel Turbo Boost Technology,10,12,12MB L3 cache,15.6 Inch,TN,FHD (1920×1080),No,TN 250nits Anti-glare,8GB,DDR4,,3200MHz,,,512GB SSD,N/A,,,Intel UHD Graphics,Shared,"6-row, spill-resistant, multimedia Fn keys, SMB Service Hot key",Buttonless Mylar® surface multi-touch touchpad,720p Webcam,"Stereo speakers, 1.5W x2, Dolby® Audio™ ; Dual-microphone array with noise-cancelling",,N/A,,1x HDMI 1.4b,,1x USB 3.2 Gen 1,"1x USB-C® 3.2 Gen 1 (support data transfer, Power Delivery 3.0 and DisplayPort™ 1.2)
+
+",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 802.11ax 2x2",Bluetooth 5.2,N/A,FreeDOS,Integrated,38Wh ,65W USB-C (3-pin) AC adapter,Iron Grey ,324.2 x 215.2 x 19.9 mm (12.76 x 8.47 x 0.78 inches),1.43 kg (3.15 lbs),2 years International Limited Warranty (Battery 1 year).,Intel integrated SoC,Integrated ,Dolby Audio,1x Ethernet (RJ-45),Yes,FW TPM 2.0,"PC-ABS (Top), PC-ABS (Bottom)",,,,,13th Generation,Kensington,,,,,
+"Lenovo IP Slim 3 15ABR8 Ryzen 7 15.6"" FHD Laptop (RAM Not Upgradable)",74500,AMD,Ryzen 7 7730U,up to 4.5 GHz,8,16,16MB,15.6 Inch,,FHD (1920×1080),No,IPS 300nits Anti-glare,8GB (Not Upgradable),DDR4,Non-Removable,,1,M.2 2242 PCIe 3.0x4 NVMe SSD,512GB SSD,N/A,,,AMD Radeon Graphics,Shared,"Backlit, English (EU)",Yes,720p Webcam,1.5W x2 Stereo ,"2x Array
+",N/A,1x Card reader,1x HDMI 1.4b,,2x USB 3.2 Gen 1," 1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery and DisplayPort 1.2)", 1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.1,"Touch Style, Integrated in Power Button",Windows 11 Home,Integrated,47Wh,65W round tip (3-pin) AC adapter,"Abyss Blue (82XM007ULK)
+Arctic Grey (82XM005BLK)",359.3 x 235 x 17.9 mm (14.15 x 9.25 x 0.70 inches),1.62 kg (3.57 lbs),2 years International Limited Warranty (Battery 1 year).,Integrated AMD Radeon Graphics,Integrated ,Dolby Audio,N/A,Yes,FW TPM 2.0,"PC-ABS (Top), PC-ABS (Bottom)",,,,,,,,,,,
+"Lenovo IdeaPad Slim 3i 14IRH8 Core i5 13th Gen 14"" FHD Military Grade Laptop",77500,Intel,"Core i5-13420H
+","P-core 2.1 / 4.6GHz, E-core 1.5 / 3.4GHz
+","8 (4 Performance cores, 4 Efficient cores)",12,12MB,"14""",TN,FHD (1920x1080),,TN 250nits Anti-glare,"8GB soldered
+",DDR5,No,4800 MHz,,SSD,512GB,No,,,Intel UHD Graphics,Shared,"Non-backlit, English (EU)",Yes,HD Camera,Yes,Yes,,Yes,1x HDMI1.4,1x USB 2.0,2x USB 3.2 Gen 1,1x USB 3.2 Gen 1 Type-C,1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.1,No,Windows 11 Home,,Integrated 47Wh,65W Round Tip (3-pin),"Arctic Grey 
+",324.3 x 213.8 x 17.9 mm (12.77 x 8.42 x 0.70 inches),Starting at 1.37 kg (3.02 lbs),02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,,"User-facing stereo speakers, 1.5W x2, optimized with Dolby Audio",No Onboard Ethernet,Yes,Firmware TPM 2.0 Enabled,"PC-ABS (Top), PC-ABS (Bottom)",,,,,13th,,,,,,
+"Lenovo IdeaPad Slim 3i 15IRH8 Core i5 13th Gen 15.6"" FHD Military Grade Laptop With Windows 11",77500,Intel,"Core i5-13420H
+","P-core 2.1 / 4.6GHz, E-core 1.5 / 3.4GHz
+","8 (4 Performance cores, 4 Efficient cores)",12,12MB,"15.6""",TN,FHD (1920x1080),,IPS 250nits Anti-glare,"8GB soldered
+",DDR5,No,4800 MHz,,SSD,512GB,No,,Up to 1TB,Intel UHD Graphics,Shared,"Non-backlit, English (EU)",Yes,HD Camera,Yes,Yes,,Yes,1x HDMI1.4,1x USB 2.0,2x USB 3.2 Gen 1,1x USB 3.2 Gen 1 Type-C,1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.1,No,Windows 11 Home,,Integrated 47Wh,65W Round Tip (3-pin),Abyss Blue,"359.3 x 235 x 17.9 mm (14.15 x 9.25 x 0.70 inches)
+",Starting at 1.62 kg (3.57 lbs),02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,,"User-facing stereo speakers, 1.5W x2, optimized with Dolby Audio",No Onboard Ethernet,Yes,Firmware TPM 2.0 Enabled,"PC-ABS (Top), PC-ABS (Bottom)
+",,,,,13th,,,,,,
+"Lenovo IdeaPad Slim 3 15IRH8 Core i5 13th Gen 15.6"" FHD Military Grade Laptop",77500,Intel,"Core i5-13420H
+","P-core 2.1 / 4.6GHz, E-core 1.5 / 3.4GHz","8 (4 Performance cores, 4 Efficient cores)",12,12MB,"15.6""",TN,FHD (1920x1080),,250nits Anti-glare,"8GB soldered
+",DDR5,No,4800 MHz,,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,No,M.2 2242 SSD,Up to 1TB,Intel UHD Graphics,Shared,"Non-backlit, English (EU)","Buttonless Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP), 69 x 104 mm (2.72 x 4.09 inches)",FHD 1080p,"User-facing stereo speakers, 1.5W x2","2x, Array Microphone",N/A,SD Card Reader,1x HDMI 1.4,,2x USB 3.2 Gen 1,"1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery and DisplayPort 1.2)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.2,N/A,Windows 11 Home,Integrated,47Wh,65W Round Tip (3-pin),Arctic Grey,359.3 x 235 x 17.9 mm (14.15 x 9.25 x 0.70 inches),Starting at 1.62 kg (3.57 lbs),02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,Integrated,Optimized with Dolby Audio,N/A,Yes,Firmware TPM 2.0 Enabled,"PC-ABS (Top), PC-ABS (Bottom)","MIL-STD-810H military test passed (21 test items)
+TÜV Rheinland Low Blue Light (Software Solution)
+Green Certifications: 
+ENERGY STAR 8.0
+EPEAT Silver Registered
+ErP Lot 6
+ErP Lot 26
+RoHS compliant",,,,13th Generation,,,,,,
+"Lenovo IdeaPad Slim 3 15IRH8 Core i5 13th Gen 15.6"" FHD Military Grade Laptop with Fingerprint",77500,Intel,"Core i5-13420H
+","P-core 2.1 / 4.6GHz, E-core 1.5 / 3.4GHz
+","8 (4 Performance cores, 4 Efficient cores)",12,12MB,"15.6""",IPS,FHD (1920x1080),N/A,300nits Anti-glare,"8GB soldered
+",DDR5,Non-Removable,4800 MHz,1,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,N/A,M.2 2242 PCIe 4.0 x4 SSD,Up to 1TB,Intel UHD Graphics,Shared,"Backlit, English (EU)","Buttonless Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP), 69 x 104 mm (2.72 x 4.09 inches)",FHD 1080p,"1.5W x2, User-facing stereo speakers","2x, Array",N/A,SD Card Reader,1x HDMI1.4,,2x USB 3.2 Gen 1,"1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery and DisplayPort 1.2)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.2,"Touch Style, Integrated in Power Button",Free Dos,Integrated,47Wh,65W Round Tip (3-pin),Abyss Blue,"359.3 x 235 x 17.9 mm (14.15 x 9.25 x 0.70 inches)
+",Starting at 1.62 kg (3.57 lbs),02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,Integrated,Optimized with Dolby Audio,No Onboard Ethernet,Yes,Firmware TPM 2.0 Enabled,"Surface Treatment: IMR (In-Mold Decoration by Roller)
+Case Material: PC-ABS (Top), PC-ABS (Bottom)
+","MIL-STD-810H military test passed (21 test items)
+TÜV Rheinland Low Blue Light (Software Solution)
+Green Certifications:
+ErP Lot 6
+ErP Lot 26
+RoHS compliant",8GB,,,13th Generation,,,,,,
+"Lenovo IdeaPad Slim 3 15IRH8 Core i5 13th Gen 15.6"" FHD Military Grade Laptop Arctic Grey",77500,Intel,"Core i5-13420H
+","P-core 2.1 / 4.6GHz, E-core 1.5 / 3.4GHz","8 (4 Performance cores, 4 Efficient cores)",12,12MB,"15.6""",IPS,FHD (1920x1080),N/A,300nits Anti-glare,"8GB soldered
+",DDR5,Non-Removable,4800 MHz,1,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,N/A,M.2 2242 PCIe 4.0 x4 SSD,Up to 1TB,Intel UHD Graphics,Shared,"Backlit, English (EU)","Buttonless Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP), 69 x 104 mm (2.72 x 4.09 inches)",FHD 1080p,"1.5W x2, User-facing stereo speakers","2x, Array",N/A,SD Card Reader,1x HDMI1.4,,2x USB 3.2 Gen 1,"1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery and DisplayPort 1.2)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.2,"Touch Style, Integrated in Power Button",Free Dos,Integrated,47Wh,65W Round Tip (3-pin),Arctic Grey,"359.3 x 235 x 17.9 mm (14.15 x 9.25 x 0.70 inches)
+",Starting at 1.62 kg (3.57 lbs),02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,Integrated,Optimized with Dolby Audio,No Onboard Ethernet,Yes,Firmware TPM 2.0 Enabled,"Surface Treatment: IMR (In-Mold Decoration by Roller)
+Case Material: PC-ABS (Top), PC-ABS (Bottom)
+","MIL-STD-810H military test passed (21 test items)
+TÜV Rheinland Low Blue Light (Software Solution)
+Green Certifications:
+ErP Lot 6
+ErP Lot 26
+RoHS compliant",8GB,,,13th Generation,,,,,,
+"Lenovo V14 Gen 4 Note PC Core i5 13th Gen 14"" FHD IPS Laptop",79000,Intel,Core i5-1335U,Up to 4.6 GHz with Intel Turbo Boost Technology,10,12,12MB L3 cache,14 Inch,TN,FHD (1920×1080),No,TN 250nits Anti-glare,8GB,DDR4,,3200MHz,,,512GB SSD,N/A,,,Intel UHD Graphics,Shared,"6-row, spill-resistant, multimedia Fn keys, SMB Service Hot key",Buttonless Mylar® surface multi-touch touchpad,720p Webcam,"Stereo speakers, 1.5W x2, Dolby® Audio™ ; Dual-microphone array with noise-cancelling",,N/A,,1x HDMI 1.4b,,1x USB 3.2 Gen 1,"1x USB-C® 3.2 Gen 1 (support data transfer, Power Delivery 3.0 and DisplayPort™ 1.2)
+
+",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 802.11ax 2x2",Bluetooth 5.2,N/A,FreeDOS,Integrated,38Wh ,65W USB-C (3-pin) AC adapter,Iron Grey ,324.2 x 215.2 x 19.9 mm (12.76 x 8.47 x 0.78 inches),1.43 kg (3.15 lbs),3 years International Limited Warranty (Battery 1 year).,Intel integrated SoC,Integrated ,Dolby Audio,1x Ethernet (RJ-45),Yes,FW TPM 2.0,"PC-ABS (Top), PC-ABS (Bottom)",,,,,13th Generation,Kensington,,,,,
+"Lenovo IdeaPad Slim 3 14IRH8 Core i5 13th Gen 14"" FHD Military Grade Laptop",79500,Intel,"Core i5-13420H
+","P-core 2.1 / 4.6GHz, E-core 1.5 / 3.4GHz
+","8 (4 Performance cores, 4 Efficient cores)",12,12MB,14 Inch,IPS,FHD (1920x1080),N/A,300nits Anti-glare,"8GB soldered
+",DDR5,Non-Removable,4800 MHz,1,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,N/A,M.2 2242 PCIe 4.0 x4 SSD,Up to 1TB,Intel UHD Graphics,Shared,"Backlit, English (EU)","Buttonless Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP), 62 x 104 mm (2.44 x 4.09 inches)",FHD 1080p,"1.5W x2, User-facing stereo speakers","2x, Array",N/A,SD Card Reader,1x HDMI1.4,,2x USB 3.2 Gen 1,"1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery and DisplayPort 1.2)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.2,"Touch Style, Integrated in Power Button",Free Dos,Integrated,47Wh,65W Round Tip (3-pin),Abyss Blue,"324.3 x 213.8 x 17.9 mm (12.77 x 8.42 x 0.70 inches)
+",Starting at 1.37 kg (3.02 lbs),02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,Integrated,Optimized with Dolby Audio,No Onboard Ethernet,Yes,Firmware TPM 2.0 Enabled,"Surface Treatment: IMR (In-Mold Decoration by Roller)
+Case Material: PC-ABS (Top), PC-ABS (Bottom)
+","MIL-STD-810H military test passed (21 test items)
+TÜV Rheinland Low Blue Light (Software Solution)
+Green Certifications:
+ErP Lot 6
+ErP Lot 26
+RoHS compliant",8GB,,,13th Generation,,,,,,
+"Lenovo IdeaPad Slim 3 14IRH8 Core i5 13th Gen 14"" FHD Military Grade Laptop Arctic Grey",79500,Intel,"Core i5-13420H
+","P-core 2.1 / 4.6GHz, E-core 1.5 / 3.4GHz
+","8 (4 Performance cores, 4 Efficient cores)",12,12MB,14 Inch,IPS,FHD (1920x1080),N/A,300nits Anti-glare,"8GB soldered
+",DDR5,Non-Removable,4800 MHz,1,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,N/A,M.2 2242 PCIe 4.0 x4 SSD,Up to 1TB,Intel UHD Graphics,Shared,"Backlit, English (EU)","Buttonless Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP), 69 x 104 mm (2.72 x 4.09 inches)",FHD 1080p,"1.5W x2, User-facing stereo speakers","2x, Array",N/A,SD Card Reader,1x HDMI1.4,,2x USB 3.2 Gen 1,"1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery and DisplayPort 1.2)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.2,"Touch Style, Integrated in Power Button",Free Dos,Integrated,47Wh,65W Round Tip (3-pin),Arctic Grey,"324.3 x 213.8 x 17.9 mm (12.77 x 8.42 x 0.70 inches)
+",Starting at 1.37 kg (3.02 lbs),02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,Integrated,Optimized with Dolby Audio,No Onboard Ethernet,Yes,Firmware TPM 2.0 Enabled,"Surface Treatment: IMR (In-Mold Decoration by Roller)
+Case Material: PC-ABS (Top), PC-ABS (Bottom)
+","MIL-STD-810H military test passed (21 test items)
+TÜV Rheinland Low Blue Light (Software Solution)
+Green Certifications:
+ErP Lot 6
+ErP Lot 26
+RoHS compliant",8GB,,,13th Generation,,,,,,
+"Lenovo IdeaPad 3i 15ITL6 core i7 11th Gen 15.6"" FHD Laptop",80500,Intel,Core i7-1165G7,2.80 GHz up to 4.70 GHz,4,8,12MB,"15.6""",TN,FHD (1920x1080),,"TN Panel, 250nits Anti-glare",8GB Soldered DDR4-3200,DDR4,,3200 MHz,1,SSD,512GB,No,,,Intel Iris Xe Graphics ,Shared,"Backlit, English (EU)",,HD 720p ,"Stereo speakers,",Yes,,SD Card Reader,"1x HDMI 1.4b
+",1x USB 2.0,1x USB 3.2 Gen 1,"1x USB-C 3.2 Gen 1 (support data transfer only)
+",1x Headphone / microphone combo jack (3.5mm),11ac 2x2,Bluetooth 5.0,No,FreeDOS,,Integrated 45Wh,65W Round Tip (3-pin),Arctic Grey,359.2 x 236.5 x 19.9 mm (14.14 x 9.31 x 0.78 inches),"Starting at 1.65 kg (3.64 lbs)
+",02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,,"Stereo speakers, 1.5W x2, Dolby Audio.",,Yes,Firmware TPM 2.0,"PC-ABS (Top), PC-ABS (Bottom)",,Up to 16GB (8GB soldered + 8GB SO-DIMM) DDR4-3200 offering,,,11th,,,,,,
+"Lenovo IdeaPad Slim 3 15IRH8 Core i5 13th Gen 16GB RAM 15.6"" FHD Laptop",81000,Intel,"Core i5-13420H
+","P-core 2.1 / 4.6GHz, E-core 1.5 / 3.4GHz","8 (4 Performance cores, 4 Efficient cores)",12,12MB,"15.6""",TN,FHD (1920x1080),,250nits Anti-glare,"16GB soldered
+",LPDDR5,No,4800 MHz,N/A,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,No,M.2 2242 SSD,Up to 1TB,Intel UHD Graphics,Shared,"Non-backlit, English (EU)","Buttonless Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP), 69 x 104 mm (2.72 x 4.09 inches)",FHD 1080p,"User-facing stereo speakers, 1.5W x2","2x, Array Microphone",N/A,SD Card Reader,1x HDMI 1.4,,2x USB 3.2 Gen 1,"1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery and DisplayPort 1.2)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 802.11ax 2x2 ",Bluetooth 5.2,N/A,Free DOS,Integrated,47Wh,65W Round Tip (3-pin),Arctic Grey ,359.3 x 235 x 17.9 mm (14.15 x 9.25 x 0.70 inches),Starting at 1.62 kg (3.57 lbs),02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,Integrated,Optimized with Dolby Audio,N/A,Yes,Firmware TPM 2.0 Enabled,"PC-ABS (Top), PC-ABS (Bottom)","MIL-STD-810H military test passed (21 test items)
+TÜV Rheinland Low Blue Light (Software Solution)
+Green Certifications: 
+ENERGY STAR 8.0
+EPEAT Silver Registered
+ErP Lot 6
+ErP Lot 26
+RoHS compliant",,,,13th Generation,,,,,,
+"Lenovo IdeaPad Slim 3 15IRH8 Core i5 13th Gen 16GB RAM 15.6"" FHD Laptop Abyss Blue",81000,Intel,"Core i5-13420H
+","P-core 2.1 / 4.6GHz, E-core 1.5 / 3.4GHz","8 (4 Performance cores, 4 Efficient cores)",12,12MB,"15.6""",TN,FHD (1920x1080),,250nits Anti-glare,"16GB soldered
+",LPDDR5,No,4800 MHz,N/A,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,No,M.2 2242 SSD,Up to 1TB,Intel UHD Graphics,Shared,"Non-backlit, English (EU)","Buttonless Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP), 69 x 104 mm (2.72 x 4.09 inches)",FHD 1080p,"User-facing stereo speakers, 1.5W x2","2x, Array Microphone",N/A,SD Card Reader,1x HDMI 1.4,,2x USB 3.2 Gen 1,"1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery and DisplayPort 1.2)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 802.11ax 2x2 ",Bluetooth 5.2,N/A,Free DOS,Integrated,47Wh,65W Round Tip (3-pin),Abyss Blue,359.3 x 235 x 17.9 mm (14.15 x 9.25 x 0.70 inches),Starting at 1.62 kg (3.57 lbs),02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,Integrated,Optimized with Dolby Audio,N/A,Yes,Firmware TPM 2.0 Enabled,"PC-ABS (Top), PC-ABS (Bottom)","MIL-STD-810H military test passed (21 test items)
+TÜV Rheinland Low Blue Light (Software Solution)
+Green Certifications: 
+ENERGY STAR 8.0
+EPEAT Silver Registered
+ErP Lot 6
+ErP Lot 26
+RoHS compliant",,,,13th Generation,,,,,,
+"Lenovo IdeaPad Slim 3 14IRH8 Core i5 13th Gen 14"" FHD Laptop Abyss Blue",81000,Intel,"Core i5-13420H
+","P-core 2.1 / 4.6GHz, E-core 1.5 / 3.4GHz","8 (4 Performance cores, 4 Efficient cores)",12,12MB,"14""",TN,FHD (1920x1080),,250nits Anti-glare,"16GB soldered
+",LPDDR5,No,4800 MHz,N/A,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,No,M.2 2242 SSD,Up to 1TB,Intel UHD Graphics,Shared,"Non-backlit, English (EU)","Buttonless Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP), 69 x 104 mm (2.72 x 4.09 inches)",FHD 1080p,"User-facing stereo speakers, 1.5W x2","2x, Array Microphone",N/A,SD Card Reader,1x HDMI 1.4,,2x USB 3.2 Gen 1,"1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery and DisplayPort 1.2)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 802.11ax 2x2 ",Bluetooth 5.2,N/A,Free DOS,Integrated,47Wh,65W Round Tip (3-pin),Abyss Blue,324.3 x 213.8 x 17.9 mm (12.77 x 8.42 x 0.70 inches),Starting at 1.37 kg (3.02 lbs),02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,Integrated,Optimized with Dolby Audio,N/A,Yes,Firmware TPM 2.0 Enabled,"PC-ABS (Top), PC-ABS (Bottom)","MIL-STD-810H military test passed (21 test items)
+TÜV Rheinland Low Blue Light (Software Solution)
+Green Certifications: 
+ENERGY STAR 8.0
+EPEAT Silver Registered
+ErP Lot 6
+ErP Lot 26
+RoHS compliant",,,,13th Generation,,,,,,
+"Lenovo IdeaPad Slim 3i 15IAU7 Core i5 12th Gen 15.6"" FHD Laptop with Windows 11",83000,Intel,Core i5-1235U,"P-core 1.3 / 4.4GHz, E-core 0.9 / 3.3GHz",10 (Performance-cores- 2 Efficient-cores- 8),12,12MB,"15.6"" ",LED,Full HD (1920x1080),No, TN 250nits Anti-glare,8GB ,DDR4 ,,3200MHz ,1,PCIe NVMe SSD ,512GB ,N/A,,Installed SSD can be upgradeable,Intel Iris Xe Graphics,Shared,Backlit,Yes,HD Webcam,Yes,Dual microphone,N/A,Yes,1x HDMI 1.4b,1 x USB 2.0,1 x USB 3.2 Gen 1,1 x USB-C 3.2 Gen 1,1x Headphone/microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.1,No,Windows 11 Home,Li-Ion,45Wh,65W Round Tip (3-pin),Arctic Grey,359.2 x 236.5 x 19.9 mm,1.63 kg,02 years Warranty (Terms & conditions Apply As Per Lenovo),,,High Definition (HD) Audio,,Yes,Firmware TPM 2.0,,,16GB,,,12th Gen,,,,,,
+"Lenovo IdeaPad 3i 15ITL6 core i7 11th Gen 16GB RAM 15.6"" FHD Laptop",83500,Intel,Core i7-1165G7,2.80 GHz up to 4.70 GHz,4,8,12MB,"15.6""",TN,FHD (1920x1080),,"TN Panel, 250nits Anti-glare",16GB (8GB soldered + 8GB SO-DIMM) ,DDR4,Yes,3200 MHz,2,SSD,512GB,No,,"M.2 2242 SSD up to 512GB
+M.2 2280 SSD up to 1TB",Intel Iris Xe Graphics ,Shared,"Backlit, English (EU)",,HD 720p ,"Stereo speakers,",Yes,,SD Card Reader,"1x HDMI 1.4b
+",1x USB 2.0,1x USB 3.2 Gen 1,"1x USB-C 3.2 Gen 1 (support data transfer only)
+",1x Headphone / microphone combo jack (3.5mm),11ac 2x2,Bluetooth 5.0,No,FreeDOS,,Integrated 45Wh,65W Round Tip (3-pin),Arctic Grey,359.2 x 236.5 x 19.9 mm (14.14 x 9.31 x 0.78 inches),"Starting at 1.65 kg (3.64 lbs)
+",02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,,"Stereo speakers, 1.5W x2, Dolby Audio.",,Yes,Firmware TPM 2.0,"PC-ABS (Top), PC-ABS (Bottom)",,Up to 16GB (8GB soldered + 8GB SO-DIMM) DDR4-3200 offering,,,11th,,,,,,
+"Lenovo ThinkPad E14 Gen 5 Core i5 13th Gen 14"" WUXGA Laptop",94500,Intel,Core i5-1335U,Up to 4.6 GHz with Intel Turbo Boost Technology,10,12,12MB L3 cache,14 Inch,,WUXGA ( 1920 x 1200),No,,8GB,DDR4,,3200MHz,,,512GB SSD,,,,Intel XE IRIS Graphics,Shared,"6-row, spill-resistant, multimedia Fn keys with Unified Communications controls",Yes,720p Webcam,"Speakers : Stereo speakers, 2W x2, Dolby Atmos ","Dual-microphone array, Dolby Voice",N/A,,1x HDMI 2.1,,1x USB 3.2 Gen 1 (Always On),"1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 3.0 and DisplayPort™ 1.4)
+1x Thunderbolt 4 / USB4® 40Gbps (support data transfer, Power Delivery 3.0 and DisplayPort 1.4)
+
+",1x Headphone / microphone combo jack (3.5mm),Wi-Fi 6 AX201 2x2 AX,Bluetooth 5.1,Yes,FreeDOS,Integrated,47Wh ,65W USB-C (3-pin) AC adapter,Graphite Black,313 x 219.3 x 17.99 mm (12.32 x 8.63 x 0.71 inches),1.41kg ,2 years International Limited Warranty (Battery 1 year).,Intel integrated SoC,Integrated ,Dolby Audio,1x Ethernet (RJ-45),Yes,FW TPM 2.0,"Aluminum (Top), PC/ABS Plastic (Bottom)",,,,,13th Generation,Kensington,,,,,
+"Lenovo IdeaPad Slim 5 14IRL8 Core i5 13th Gen 14"" WUXGA Laptop",95000,Intel,"Core i5-13420H
+","P-core 2.1 / 4.6GHz, E-core 1.5 / 3.4GHz","8 (4 Performance cores, 4 Efficient cores)",12,12MB,"14""",IPS,WUXGA (1920x1200),,300nits Anti-glare,"16GB soldered
+",LPDDR5,No,5200 MHz,N/A,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,No,M.2 2242 SSD,Up to 1TB,Intel UHD Graphics,Shared,"Backlit, English (EU)","Buttonless Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP), 69 x 104 mm (2.72 x 4.09 inches)",FHD 1080p,"User-facing stereo speakers, 1.5W x2","2x, Array Microphone",N/A,SD Card Reader,1x HDMI 1.4b,,"1x USB 3.2 Gen 1
+1x USB 3.2 Gen 1 (Always On)","2x USB-C® 3.2 Gen 1 (support data transfer, Power Delivery 3.0 and DisplayPort™ 1.4)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 802.11ax 2x2 ",Bluetooth 5.2,N/A,Windows 11 Home,Integrated,56.6Wh,65W USB-C (3-pin),Cloud Grey,312 x 221 x 16.9 mm (12.28 x 8.7 x 0.67 inches),Starting at 1.46 kg (3.22 lbs),02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,Integrated,Optimized with Dolby Audio,N/A,Yes,Firmware TPM 2.0 Enabled,"PC-ABS (Top), PC-ABS (Bottom)","MIL-STD-810H military test passed (21 test items)
+TÜV Rheinland Low Blue Light (Software Solution)
+Green Certifications: 
+ENERGY STAR 8.0
+EPEAT Silver Registered
+ErP Lot 6
+ErP Lot 26
+RoHS compliant",,,,13th Generation,,,,,,
+"Lenovo LOQ 15IAX9 Core i5 12th Gen RTX 2050 4GB Graphics 15.6"" FHD 144Hz Gaming Laptop",104500,Intel,i5-12450HX,3.1GHz up to 4.4GHz,"8 (4 Performance cores, 4 Efficient cores)",12,12MB,15.6-inch,IPS,FHD (1920x1080),N/A,"300nits Anti-glare
+100% sRGB
+G-SYNC",16GB (2x 8GB),DDR5,Yes,4800MHz,2,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,Yes,"1x M.2 2242 PCIe 4.0 x4
+1x M.2 2280 PCIe 4.0 x4",Up to 1TB M.2 2242 SSD,NVIDIA GeForce RTX 2050,4GB,"White Backlit, English (EU)","Buttonless Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP), 75 x 120 mm (2.95 x 4.72 inches)",HD 720p ,"2W x2, Stereo speakers",2x Array Microphone,N/A,N/A,"1x HDMI 2.1, up to 8K/60Hz",,3x USB-A (USB 5Gbps / USB 3.2 Gen 1),"1x USB-C (USB 10Gbps / USB 3.2 Gen 2), with Lenovo PD 140W and DisplayPort 1.4",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 802.11ax 2x2 
+",BT5.2,N/A,Windows 11 Home,Integrated,60Wh,135W Slim Tip (3-pin),Luna Grey,359.86 x 258.7 x 21.9-23.9 mm (14.17 x 10.19 x 0.86-0.94 inches),Starting at 2.38 kg (5.25 lbs),2 Year Warranty (Battery & Adapter 1 Year),"Intel HM670 Chipset
+",GDDR6,Nahimic Gaming Audio,1x 100/1000M RJ-45 ports,E-shutter,Firmware TPM 2.0,"PC-ABS (Top), PC-ABS (Bottom)","CERTIFICATIONS
+Green Certifications	
+ErP Lot 3
+RoHS compliant
+Other Certifications	
+TÜV Rheinland® Low Blue Light (Software Solution)
+Mil-Spec Test	
+MIL-STD-810H military test passed",32GB,144Hz,,12th Generation,,,,,,
+"Lenovo IdeaPad Slim 5 16ABR8 Ryzen 7 7730U 16"" WUXGA Laptop",114000,AMD,Ryzen 7 7730U,up to 4.5 GHz,8,16,"L1 Cache: 512KB
+L2 Cache: 4MB
+L3 Cache: 16MB",16 Inch,IPS,WUXGA (1920x1200),No," IPS 300nits Anti-glare, 45% NTSC, TÜV Low Blue Light",16GB,DDR4,,,"Memory soldered to systemboard, no slots, dual-channel (16GB models)", M.2 2242 PCIe 4.0x4 NVMe,512GB SSD,N/A,,up to 1TB M.2 2242 SSD or 1TB M.2 2280 SSD,AMD Radeon Graphics,Shared,"Backlit, English (EU)",Yes,"FHD 1080p + IR with Privacy Shutter, ToF Sensor","Stereo speakers, 2W x2","2x Array
+",N/A,"microSD Card Reader
+",1x HDMI 1.4b,,"1x USB 3.2 Gen 1
+1x USB 3.2 Gen 1 (Always On)","2x USB-C 3.2 Gen 1 (support data transfer, Power Delivery 3.0 and DisplayPort™ 1.4)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.2,None,Windows 11 Home,Integrated,75.4Wh,65W USB-C (3-pin),Cloud Grey,356 x 251 x 16.9 mm (14.02 x 9.88 x 0.67 inches),Starting at 1.89 kg (4.17 lbs),2 years International Limited Warranty (Battery 1 year).,AMD SoC Platform,Integrated ,Dolby Audio,N/A,Yes,Firmware TPM 2.0 Enabled,"Aluminium (Top), Aluminium (Bottom)",MIL-STD-810H military test passed (21 test items),,,,,,,,,,
+"Lenovo IdeaPad Gaming 3i 15IHU Core i7 11th Gen GTX 1650 4GB Graphics 15.6"" FHD Laptop With 3 Years Warranty",116000,Intel ,Core i7-11370H ,3.30 GHz up to 4.80 GHz with IPU,4,8,12MB,15.6 Inch,IPS ,FHD (1920×1080),No,"250nits Anti-glare , 45% NTSC, DC dimmer ",16 GB,DDR4 ,Yes,3200MHz ,2,"M.2 2242 PCIe 3.0×4 NVMe SSD 7 &  2.5"" HDD","256GB  SSD
+1TB  HDD",N/A,,"Installed HDD and SSD Can Be Upgradeable
+",NVIDIA GeForce GTX 1650,4GB,White Backlit Keyboard,Yes,720P HD Cam ,Stereo speakers 2W x2,2x Array Microphone,N/A,,1x HDMI 2.0 ,,2x USB 3.2 Gen 1,1x USB-C 3.2 Gen 1 (support data transfer only),1x Headphone/microphone combo jack (3.5mm),"Wi-Fi 6 11ax, 2×2",Bluetooth 5.0,No,Windows 11 Home,Integrated ,45Wh,170W Slim Tip (3-pin),Shadow Black,359 x 249.6 x 24.9 mm (14.13 x 9.83 x 0.98 inches),2.25 kg (4.96 lbs),03 years International Limited Warranty (Terms & Conditions Apply As Per Lenovo),,GDDR6 ,"High Definition (HD) Audio, Realtek ALC3287 codec, Nahimic Audio",1x Ethernet (RJ-45),Yes,No,,,32GB,120Hz,5400rpm,11th Gen,,,,,,
+"Lenovo IdeaPad Flex 5 14IRU8 Core i5 13th Gen 14"" WUXGA Touch Laptop",112000,Intel,Core i5-1335U,"P-core 1.3 / 4.6GHz, E-core 0.9 / 3.4GHz",10 (2 Performance Core + 8 Efficient Core),12,12MB,14-Inch,IPS,WUXGA (1920x1200),Yes,"300nits Glossy
+45% NTSC
+TÜV Low Blue Light
+Glass",16GB (On-Board),LPDDR4x,Non-Removable,4266MHz,1,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,N/A,,Up to 1TB M.2 2242 SSD or 512GB M.2 2280 SSD,Intel Iris Xe Graphics,Shared,Backlit Keyboard,Yes,FHD 1080p,"2W x2, Front-facing stereo speakers","2x, Array Microphone",N/A,1x 4-in-1 Card Reader,1x HDMI 1.4b,,"1x USB 3.2 Gen 1
+1x USB 3.2 Gen 1 (Always On)","1x Thunderbolt 4 / USB4 40Gbps (supports data transfer, Power Delivery 3.0 and DisplayPort™ 1.4a)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.1,"Touch Style, on Palm Rest",Windows 11 Home,Integrated,52.5Wh,65W Round Tip (3-pin),Arctic Grey,313.1 x 224.9 x 17.4 mm (12.32 x 8.85 x 0.69 inches),1.5 kg (3.31 lbs),2 Years International Limited Warranty (Battery 1 year),Intel SoC Platform,Integrated,"High-Definition (HD) Audio Chip
+Realtek ALC3287 codec
+Dolby Audio",N/A,Yes,Firmware TPM 2.0,"Aluminium (Top), PC-ABS + 40% GF (Bottom)",,16GB,,,13th Generation,,,,,,
+"Lenovo IdeaPad Flex 5 14IRU8 Core i5 13th Gen 14"" WUXGA Touch Laptop Abyss Blue",112000,Intel,Core i5-1335U,"P-core 1.3 / 4.6GHz, E-core 0.9 / 3.4GHz",10 (2 Performance Core + 8 Efficient Core),12,12MB,14-Inch,IPS,WUXGA (1920x1200),Yes,"300nits Glossy
+45% NTSC
+TÜV Low Blue Light
+Glass",16GB (On-Board),LPDDR4x,Non-Removable,4266MHz,1,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,N/A,,Up to 1TB M.2 2242 SSD or 512GB M.2 2280 SSD,Intel Iris Xe Graphics,Shared,Backlit Keyboard,Yes,FHD 1080p,"2W x2, Front-facing stereo speakers","2x, Array Microphone",N/A,1x 4-in-1 Card Reader,1x HDMI 1.4b,,"1x USB 3.2 Gen 1
+1x USB 3.2 Gen 1 (Always On)","1x Thunderbolt 4 / USB4 40Gbps (supports data transfer, Power Delivery 3.0 and DisplayPort™ 1.4a)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.1,"Touch Style, on Palm Rest",Windows 11 Home,Integrated,52.5Wh,65W Round Tip (3-pin),Abyss Blue,313.1 x 224.9 x 17.4 mm (12.32 x 8.85 x 0.69 inches),1.5 kg (3.31 lbs),2 Years International Limited Warranty (Battery 1 year),Intel SoC Platform,Integrated,"High-Definition (HD) Audio Chip
+Realtek ALC3287 codec
+Dolby Audio",N/A,Yes,Firmware TPM 2.0,"Aluminium (Top), PC-ABS + 40% GF (Bottom)",,16GB,,,13th Generation,,,,,,
+"Lenovo IdeaPad Flex 5 14IRU8 Core i5 13th Gen 1TB SSD 14"" WUXGA Touch Laptop",117000,Intel,Core i5-1335U,"P-core 1.3 / 4.6GHz, E-core 0.9 / 3.4GHz",10 (2 Performance Core + 8 Efficient Core),12,12MB,14-Inch,IPS,WUXGA (1920x1200),Yes,"300nits Glossy
+45% NTSC
+TÜV Low Blue Light
+Glass",16GB (On-Board),LPDDR4x,Non-Removable,4266MHz,1,M.2 2242 PCIe 4.0x4 NVMe SSD,1TB,N/A,,Up to 1TB M.2 2242 SSD or 512GB M.2 2280 SSD,Intel Iris Xe Graphics,Shared,Backlit Keyboard,Yes,FHD 1080p,"2W x2, Front-facing stereo speakers","2x, Array Microphone",N/A,1x 4-in-1 Card Reader,1x HDMI 1.4b,,"1x USB 3.2 Gen 1
+1x USB 3.2 Gen 1 (Always On)","1x Thunderbolt 4 / USB4 40Gbps (supports data transfer, Power Delivery 3.0 and DisplayPort™ 1.4a)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.1,"Touch Style, on Palm Rest",Windows 11 Home,Integrated,52.5Wh,65W Round Tip (3-pin),Arctic Grey,313.1 x 224.9 x 17.4 mm (12.32 x 8.85 x 0.69 inches),1.5 kg (3.31 lbs),2 Years International Limited Warranty (Battery 1 year),Intel SoC Platform,Integrated,"High-Definition (HD) Audio Chip
+Realtek ALC3287 codec
+Dolby Audio",N/A,Yes,Firmware TPM 2.0,"Aluminium (Top), PC-ABS + 40% GF (Bottom)",,16GB,,,13th Generation,,,,,,
+"Lenovo IdeaPad Gaming 3i 16IAH7 Core i7 12th Gen RTX 3050 4GB Graphics 16"" 2K WUXGA Laptop",135000,Intel,Core i7-12650H,2.30 Ghz up to 4.70 GHz,"10 (Performance-cores: 6, Efficient-cores: 4)",16,24MB,"16""",LED,WUXGA (1920x1200),,"IPS 350nits Anti-glare, 100% sRGB, 165Hz",16GB (2 x 8GB),DDR4,,3200MHz,2,M.2 2280 PCIe 3.0x4 NVMe SSD,512GB,N/A,,,NVIDIA GeForce RTX 3050,4GB,White Backlit Keyboard,,FHD 1080p,2W x2 Stereo,Yes,N/A,,1 x HDMI,,2 x USB 3.2 Gen 1,"1x Thunderbolt 4 / USB4 40Gbps (support data transfer, Power Delivery 3.0 and DisplayPort 1.4)",Yes,"Wi-Fi 6, 11ax 2x2",Bluetooth 5.1,N/A,Win11 Home,,71Wh,170W Slim Tip (3-pin),Onyx Grey,359.6 x 277.8 x 20.9mm,2.6 kg,02 years International Limited Warranty (Terms & conditions Apply As Per Lenovo),,GDDR6,"High Definition (HD) Audio
+Realtek ALC3287 codec
+Nahimic Audio",10/100/1000 Mbps Ethernet,Privacy Shutter,,,,Up to 32GB,165Hz,,12th,,1.5mm Key-Travel Distance Keyboard along,,,,
+"Lenovo LOQ 15IAX9 Core i5 12th Gen RTX 4050 6GB Graphics 15.6"" FHD 144Hz Gaming Laptop",135000,Intel,i5-12450HX,3.1GHz up to 4.4GHz,"8 (4 Performance cores, 4 Efficient cores)",12,12MB,15.6-inch,IPS,FHD (1920x1080),N/A,"300nits Anti-glare
+100% sRGB
+G-SYNC",16GB (2x 8GB),DDR5,Yes,4800MHz,2,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,Yes,"1x M.2 2242 PCIe 4.0 x4
+1x M.2 2280 PCIe 4.0 x4",Up to 1TB M.2 2242 SSD,"NVIDIA GeForce RTX 4050 Boost Clock 2370MHz, TGP 105W",6GB,"White Backlit, English (EU)","Buttonless Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP), 75 x 120 mm (2.95 x 4.72 inches)",HD 720p ,"2W x2, Stereo speakers",2x Array Microphone,N/A,N/A,"1x HDMI 2.1, up to 8K/60Hz",,3x USB-A (USB 5Gbps / USB 3.2 Gen 1),"1x USB-C (USB 10Gbps / USB 3.2 Gen 2), with Lenovo PD 140W and DisplayPort 1.4",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 802.11ax 2x2 
+",BT5.2,N/A,Windows 11 Home,Integrated,60Wh,135W Slim Tip (3-pin),Luna Grey,359.86 x 258.7 x 21.9-23.9 mm (14.17 x 10.19 x 0.86-0.94 inches),Starting at 2.38 kg (5.25 lbs),2 Year Warranty (Battery & Adapter 1 Year),"Intel HM670 Chipset
+",GDDR6,Nahimic Gaming Audio,1x 100/1000M RJ-45 ports,E-shutter,Firmware TPM 2.0,"PC-ABS (Top), PC-ABS (Bottom)","CERTIFICATIONS
+Green Certifications	
+ErP Lot 3
+RoHS compliant
+Other Certifications	
+TÜV Rheinland® Low Blue Light (Software Solution)
+Mil-Spec Test	
+MIL-STD-810H military test passed",32GB,144Hz,,12th Generation,,,,,,
+"Lenovo LOQ 15IRX9 Core i5 13th Gen RTX 3050 6GB Graphics 15.6"" FHD 144Hz Gaming Laptop",135000,Intel,i5-13450HX,3.4GHz up to 4.6GHz,"10 (6 Performance cores, 4 Efficient cores)",16,20MB,15.6-inch,IPS,FHD (1920x1080),N/A,"300nits Anti-glare
+100% sRGB
+G-SYNC",16GB,DDR5,Yes,4800MHz,2,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,Yes,"1x M.2 2242 PCIe 4.0 x4
+1x M.2 2280 PCIe 4.0 x4",Up to 1TB M.2 2242 SSD,"NVIDIA GeForce RTX 3050 Boost Clock 1732MHz, TGP 95W",6GB,"White Backlit, English (EU)","Buttonless Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP), 75 x 120 mm (2.95 x 4.72 inches)",HD 720p ,"2W x2, Stereo speakers",2x Array Microphone,N/A,N/A,"1x HDMI 2.1, up to 8K/60Hz",,3x USB-A (USB 5Gbps / USB 3.2 Gen 1),"1x USB-C (USB 10Gbps / USB 3.2 Gen 2), with Lenovo PD 140W and DisplayPort 1.4",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 802.11ax 2x2 
+",BT5.2,N/A,Windows 11 Home,Integrated,60Wh,135W Slim Tip (3-pin),Luna Grey,359.86 x 258.7 x 21.9-23.9 mm (14.17 x 10.19 x 0.86-0.94 inches),Starting at 2.38 kg (5.25 lbs),2 Year Warranty (Battery & Adapter 1 Year),Intel HM770 Chipset,GDDR6,Nahimic Gaming Audio,1x 100/1000M RJ-45 ports,E-shutter,Firmware TPM 2.0,"PC-ABS (Top), PC-ABS (Bottom)","CERTIFICATIONS
+Green Certifications	
+ErP Lot 3
+RoHS compliant
+Other Certifications	
+TÜV Rheinland® Low Blue Light (Software Solution)
+Mil-Spec Test	
+MIL-STD-810H military test passed",32GB,144Hz,,13th Generation,,,,,,
+"Lenovo Yoga 7 14IRL8 Core i5 13th Gen 14"" WUXGA OLED Military Grade Touch Laptop",140000,Intel,Core i5-1340P,"P-core 1.9 / 4.6GHz, E-core 1.4 / 3.4GHz",12 (4 Performance Core + 8 Efficient Core),16,12MB,14-Inch,OLED,WUXGA (1920x1200),"OGM, 10-point Multi-touch","400nits Glossy
+Anti-fingerprint
+100% DCI-P3
+Dolby Vision
+TÜV Low Blue Light
+DisplayHDR True Black 500
+Glass",16GB (On-Board),LPDDR5,Non-Removable,5200MHz,1,M.2 2242 PCIe 4.0x4 NVMe SSD,1TB,Yes,M.2 2242 PCIe 4.0 x4 slot,,Intel Iris Xe Graphics,Shared,Backlit Keyboard,"Buttonless glass-like Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP), 75 x 120 mm (2.95 x 4.72 inches)",FHD 1080p + IR,"2x 2W, Stereo speakers","2x, Array Microphone",N/A,1x microSD card reader,1x HDMI 1.4b,,"1x USB-A (USB 5Gbps / USB 3.2 Gen 1), Always On","2x USB-C (Thunderbolt 4 / USB4 40Gbps), with USB PD 3.0 and DisplayPort 1.4",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6E, 11ax 2x2",Bluetooth 5.2,No,Windows 11 Home,Integrated,71Wh,65W USB-C (3-pin),Tidal Teal,317.87 x 222.50 x 16.49mm (12.51 x 8.76 x 0.65 inches),1.49 kg (3.28 lbs),2 Years International Limited Warranty (Battery 1 year),Intel SoC Platform,Integrated,"High Definition (HD) Audio
+Realtek ALC3306 codec
+Optimized with Dolby Atmos
+Smart Amplifier (AMP)",N/A,Yes,Firmware TPM 2.0,"Surface Treatment: Aluminum Stamping (Anodized with Sandblasting)
+Case Material: Aluminum (Top), Aluminum (Bottom)","MIL-STD-810H military test passed
+Green Certifications: 	
+ENERGY STAR 8.0
+EPEAT Gold Registered
+ErP Lot 6
+ErP Lot 26
+RoHS compliant",16GB,60Hz,,13th Generation,,,,,,
+"Lenovo Yoga 7 14IRL8 Core i5 13th Gen 1TB SSD 14"" WUXGA OLED Military Grade Touch Laptop",140000,Intel,Core i5-1340P,"P-core 1.9 / 4.6GHz, E-core 1.4 / 3.4GHz",12 (4 Performance Core + 8 Efficient Core),16,12MB,14-Inch,OLED,WUXGA (1920x1200),"OGM, 10-point Multi-touch","400nits Glossy
+Anti-fingerprint
+100% DCI-P3
+Dolby Vision
+TÜV Low Blue Light
+DisplayHDR True Black 500
+Glass",16GB (On-Board),LPDDR5,Non-Removable,5200MHz,1,M.2 2242 PCIe 4.0x4 NVMe SSD,1TB,Yes,M.2 2242 PCIe 4.0 x4 slot,,Intel Iris Xe Graphics,Shared,Backlit Keyboard,"Buttonless glass-like Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP), 75 x 120 mm (2.95 x 4.72 inches)",FHD 1080p + IR,"2x 2W, Stereo speakers","2x, Array Microphone",N/A,1x microSD card reader,1x HDMI 1.4b,,"1x USB-A (USB 5Gbps / USB 3.2 Gen 1), Always On","2x USB-C (Thunderbolt 4 / USB4 40Gbps), with USB PD 3.0 and DisplayPort 1.4",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6E, 11ax 2x2",Bluetooth 5.2,No,Windows 11 Home,Integrated,71Wh,65W USB-C (3-pin),Strom Gray,317.87 x 222.50 x 16.49mm (12.51 x 8.76 x 0.65 inches),1.49 kg (3.28 lbs),2 Years International Limited Warranty (Battery 1 year),Intel SoC Platform,Integrated,"High Definition (HD) Audio
+Realtek ALC3306 codec
+Optimized with Dolby Atmos
+Smart Amplifier (AMP)",N/A,Yes,Firmware TPM 2.0,"Surface Treatment: Aluminum Stamping (Anodized with Sandblasting)
+Case Material: Aluminum (Top), Aluminum (Bottom)","MIL-STD-810H military test passed
+Green Certifications: 	
+ENERGY STAR 8.0
+EPEAT Gold Registered
+ErP Lot 6
+ErP Lot 26
+RoHS compliant",16GB,60Hz,,13th Generation,,,,,,
+"Lenovo ThinkPad P14s Gen 2 Core i5 11th Gen 14"" FHD Business Laptop",143000,Intel ,Core i5-1135G7,"2.40 GHz up to 4.20 GHz
+",4,8,8MB,14 Inch,IPS,FHD (1920 x 1080),No,"Non-touch, IPS, 250 nits, Anti-glare ",8GB,DDR4,, 3200MHz,,M.2 2242 PCIe Gen3 TLC SDD,512GB ,N/A,M.2 2242 PCIe Gen3 TLC,,Integrated Intel UHD Graphics,Shared,LED backlight,Yes,720p HD,2 x 2W stereo speakers,Yes,N/A,1x microSD card reader,1x HDMI 2.0,,"1x USB 3.2 Gen 1
+1x USB 3.2 Gen 1 
+",2x Thunderbolt 4 / USB4® 40Gbps,1x Headphone/microphone combo jack (3.5mm),WLAN: Intel® Wi-Fi 6 AX201 802.11AX (2 x 2),Bluetooth 5.1,Yes,FreeDOS,3 Cell Li-Polymer ,50Wh,65W AC adapter,Black,,,03 Year Warranty (Terms & Conditions Apply As Per Lenovo),,,"High Definition (HD) Audio, Realtek ALC3287 codec",1 x RJ45,Yes,"Discrete TPM 2.0, TCG certified",,"EPEAT Gold
+ENERGY STAR 8.0
+TCO Certified
+RoHS compliant",,,,11th Gen,,,,,,
+"Lenovo IdeaPad Flex 5 14IAU7 Core i7 12th Gen 14"" WUXGA Touch Laptop",150000,Intel,Core i7-1255U,3.5 GHz up to 4.7 GHz,10 (2 Performance Core + 8 Efficient Core),12,12MB,14-Inch,IPS,WUXGA (1920x1200),Yes,"300nits Glossy
+45% NTSC
+TÜV Low Blue Light
+Glass",16GB (On-Board),LPDDR4x,Non-Removable,4266MHz,1,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,N/A,,Up to 1TB M.2 2242 SSD or 512GB M.2 2280 SSD,Intel Iris Xe Graphics,Shared,Backlit Keyboard,Yes,FHD 1080p,"2W x2, Front-facing stereo speakers","2x, Array Microphone",N/A,1x 4-in-1 Card Reader,1x HDMI 1.4b,,"1x USB 3.2 Gen 1
+1x USB 3.2 Gen 1 (Always On)","1x Thunderbolt 4 / USB4 40Gbps (supports data transfer, Power Delivery 3.0 and DisplayPort™ 1.4a)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.1,"Touch Style, on Palm Rest",Windows 11 Home,Integrated,52.5Wh,65W Round Tip (3-pin),Storm Grey,313.1 x 224.9 x 17.4 mm (12.32 x 8.85 x 0.69 inches),1.5 kg (3.31 lbs),2 Years International Limited Warranty (Battery 1 year),Intel SoC Platform,Integrated,"High-Definition (HD) Audio Chip
+Realtek ALC3287 codec
+Dolby Audio",N/A,Yes,Firmware TPM 2.0,"Aluminium (Top), PC-ABS + 40% GF (Bottom)",,16GB,,,12th Generation,,,,,,
+"Lenovo IdeaPad Slim 5i 15IAL7 Core i7 12th Gen MX550 2GB Graphics 15.6"" FHD Military Grade Laptop",155000,Intel ,Core i7-1255U,up to 4.70 GHz,10 (Performance-cores- 2 Efficient-cores- 8),12,12MB,15.6  Inch,LED,FHD (1920×1080),No,TN 250nits Anti-glare,16GB ,DDR4 ,,3200MHz,,M.2 NVME SSD,512GB M.2 NVME SSD,N/A,M.2 NVME SSD,,Nvidia MX550 Graphics,2GB ,Backlit Keyboard,Yes,720P HD Camera,Yes,Yes,N/A,"4-in-1 Card Reader (SD, SDHC, SDXC, MMC)",1x HDMI 1.4b,,2 x USB 3.2 Gen 1,2 x USB-C 3.2 Gen 1,Audio Combo Jack,"Wi-Fi 6 11ax, 2x2 ",Bluetooth 5.1,Touch Style,Windows 11,Integrated ,76Wh,65W Round Tip,Storm Grey,356.67 x 233.13 x 17.9mm,1.77 kg,02 year International Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,GDDR6 ,"High Definition (HD) Audio
+Dolby Audio",N/A,Yes,Firmware TPM 2.0,,,,,,12th Gen,,,,,,
+"Lenovo IdeaPad Flex 5i Core i7 12th Gen 14"" 360° WUXGA Touch Laptop",160000,Intel,Core i7-1255U,up to 4.70 GHz,10 (Performance-cores- 2 Efficient-cores- 8),12,12MB,"14""",LED,WUXGA (1920x1200),Yes,"IPS 360 Degree Rotating Touch Display, 300 nits Glass",16GB,DDR4,Non-Removable,4266MHz,, M.2 2242 PCIe 4.0x4 NVMe,512GB,N/A,,Installed SSD can be upgradeable,Intel Iris Xe Graphics,Shared,Backlit Keyboard,,HD Camera,2W x2,Yes,,1x Card,1x HDMI 1.4b,,2 x USB 3.2 Gen 1,1 x Thunderbolt 4,,"Wi-Fi 6, 11ax 2x2",Bluetooth 5.1,Yes,Win-11 Home,,52.5Wh,65W Round Tip (3-pin),Storm Grey,313.1 x 224.9 x 17.4mm,1.5 kg,02 years International Limited Warranty (Terms & conditions Apply As Per Lenovo),,,"Front-facing stereo speakers, optimized with Dolby Audio",,Yes,Firmware TPM 2.0,,"Touch Style, on Palm Rest, Lenovo Digital Pen, 10-point Multi-touch",16GB,,,12th Gen,,,,,,
+"Lenovo IdeaPad Flex 5 14IRU8 Core i7 13th Gen 14"" WUXGA Touch Laptop",135000,Intel,Core i7-1355U,3.7 GHz up to 5.0 GHz,10 (2 Performance Core + 8 Efficient Core),12,12MB,14-Inch,IPS,WUXGA (1920x1200),Yes,"300nits Glossy
+45% NTSC
+TÜV Low Blue Light
+Glass",16GB (On-Board),LPDDR4x,Non-Removable,4266MHz,1,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,N/A,,Up to 1TB M.2 2242 SSD or 512GB M.2 2280 SSD,Intel Iris Xe Graphics,Shared,Backlit Keyboard,Yes,FHD 1080p,"2W x2, Front-facing stereo speakers","2x, Array Microphone",N/A,1x 4-in-1 Card Reader,1x HDMI 1.4b,,"1x USB 3.2 Gen 1
+1x USB 3.2 Gen 1 (Always On)","1x Thunderbolt 4 / USB4 40Gbps (supports data transfer, Power Delivery 3.0 and DisplayPort™ 1.4a)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.1,"Touch Style, on Palm Rest",Windows 11 Home,Integrated,52.5Wh,65W Round Tip (3-pin),Arctic Grey,313.1 x 224.9 x 17.4 mm (12.32 x 8.85 x 0.69 inches),1.5 kg (3.31 lbs),2 Years International Limited Warranty (Battery 1 year),Intel SoC Platform,Integrated,"High-Definition (HD) Audio Chip
+Realtek ALC3287 codec
+Dolby Audio",N/A,Yes,Firmware TPM 2.0,"Aluminium (Top), PC-ABS + 40% GF (Bottom)",,16GB,,,13th Generation,,,,,,
+"Lenovo IdeaPad Pro 5 16IRH8 Core i5 13th Gen RTX 3050 6GB Graphics 16"" 2.5K 120Hz Military Grade Laptop",160000,Intel,Core i5-13500H,"P-core 2.6 / 4.7GHz, E-core 1.9 / 3.5GHz",12 (4 Performance Core + 8 Efficient Core),16,18MB,16-Inch,IPS,2.5K (2560x1600),N/A,"350nits Anti-glare
+100% sRGB
+Eyesafe
+G-Sync",16GB (On-Board),LPDDR5,Non-Removable,5200MHz,1,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,Yes,"M.2 2242 PCIe 4.0 x4 slot
+M.2 2280 PCIe 4.0 x4 slot",Up to 1TB,NVIDIA GeForce RTX 3050,6GB,Backlit Keyboard,"Buttonless glass surface multi-touch touchpad, supports Precision TouchPad (PTP), 80 x 135 mm (3.15 x 5.31 inches)","FHD 1080p IR, ToF Sensor","2W x2, Stereo speakers","2x, Array Microphone",N/A,SD Card Reader,"1x HDMI 2.1, up to 4K/60Hz",,"1x USB 3.2 Gen 1
+1x USB 3.2 Gen 1 (Always On)","1x USB-C 3.2 Gen 2 (supports data transfer, Power Delivery 3.0 and DisplayPort 1.4)
+1x Thunderbolt 4 / USB4 40Gbps (supports data transfer, Power Delivery 3.0 and DisplayPort 1.4)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6E, 11ax 2x2",Bluetooth 5.2,N/A,Windows 11 Home,Integrated,75Wh,170W Slim Tip (3-pin),Arctic Grey,356 x 251 x 17.5 mm (14.02 x 9.88 x 0.69 inches),1.95 kg (4.30 lbs),2 Years International Limited Warranty (Battery 1 year),Intel SoC Platform,GDDR6,"High-Definition (HD) Audio Chip
+Realtek ALC3287 codec
+Dolby Atmos",N/A,Yes,Firmware TPM 2.0,"Aluminium (Top), Aluminium (Bottom)","MIL-STD-810H military test passed (21 test items)
+Eyesafe Certified 2.0
+TÜV Rheinland Low Blue Light (Hardware Solution)
+Green Certifications:
+ENERGY STAR® 8.0
+EPEAT™ Gold Registered
+ErP Lot 6
+ErP Lot 26
+RoHS compliant",16GB,120Hz,,13th Generation,,,,,,
+"Lenovo Yoga Slim 6 14IRH8 Core i7 13th Gen 14"" WUXGA OLED Military Grade Laptop",165000,Intel,Core  i7-13700H,3.7 GHz up to 5.0 GHz,14 (6 Performance Core + 8 Efficient Core),20,24MB,14-Inch,OLED,WUXGA (1920x1200),No,"400nits Glossy
+100% DCI-P3
+Eyesafe
+Dolby Vision
+DisplayHDR
+True Black 500",16GB (On-Board),LPDDR5x,Non-Removable,5200MHz,1,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,N/A,,Up to 1TB M.2 2242 SSD or 512GB M.2 2280 SSD,Intel Iris Xe Graphics,Shared,Backlit Keyboard,Yes,"FHD 1080p + IR, ToF Sensor","2W x2, Stereo speakers","2x, Array Microphone",N/A,N/A,"1x HDMI 2.1, up to 4K/60Hz",,1x USB 3.2 Gen 1 (Always On),"2x Thunderbolt 4 / USB4 40Gbps (support data transfer, Power Delivery 3.0 and DisplayPort™ 1.4)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6E, 11ax 2x2",Bluetooth 5.1,No,Windows 11 Home,Integrated,65Wh,65W USB-C (3-pin),Storm Grey,312 x 221 x 14.9 mm (12.28 x 8.7 x 0.59 inches),1.35 kg (2.98 lbs),2 Years International Limited Warranty (Battery 1 year),Intel SoC Platform,Integrated,"High-Definition (HD) Audio Chip
+Dolby Atmos",N/A,Yes,Firmware TPM 2.0,"Aluminum (Top), Aluminum (Bottom)",,16GB,60Hz,,13th Generation,,,,,,
+"Lenovo IdeaPad Flex 5 14IRU8 Core i7 13th Gen 1TB SSD 14"" WUXGA Touch Laptop",140000,Intel,Core i7-1355U,3.7 GHz up to 5.0 GHz,10 (2 Performance Core + 8 Efficient Core),12,12MB,14-Inch,IPS,WUXGA (1920x1200),Yes,"300nits Glossy
+45% NTSC
+TÜV Low Blue Light
+Glass",16GB (On-Board),LPDDR4x,Non-Removable,4266MHz,1,M.2 2242 PCIe 4.0x4 NVMe SSD,1TB,N/A,,Up to 1TB M.2 2242 SSD or 512GB M.2 2280 SSD,Intel Iris Xe Graphics,Shared,Backlit Keyboard,Yes,FHD 1080p,"2W x2, Front-facing stereo speakers","2x, Array Microphone",N/A,1x 4-in-1 Card Reader,1x HDMI 1.4b,,"1x USB 3.2 Gen 1
+1x USB 3.2 Gen 1 (Always On)","1x Thunderbolt 4 / USB4 40Gbps (supports data transfer, Power Delivery 3.0 and DisplayPort™ 1.4a)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.1,"Touch Style, on Palm Rest",Windows 11 Home,Integrated,52.5Wh,65W Round Tip (3-pin),Arctic Grey,313.1 x 224.9 x 17.4 mm (12.32 x 8.85 x 0.69 inches),1.5 kg (3.31 lbs),2 Years International Limited Warranty (Battery 1 year),Intel SoC Platform,Integrated,"High-Definition (HD) Audio Chip
+Realtek ALC3287 codec
+Dolby Audio",N/A,Yes,Firmware TPM 2.0,"Aluminium (Top), PC-ABS + 40% GF (Bottom)",,16GB,,,13th Generation,,,,,,
+"Lenovo LOQ 15IRH8 Core i7 13th Gen RTX 4050 6GB Graphics 15.6"" FHD 144Hz Gaming Laptop",170000,Intel,Core i7-13620H,3.6GHz to 4.9GHz,"10 (6 Performance cores, 4 Efficient cores)",16,24MB,15.6-inch,IPS,FHD (1920x1080),N/A,"300nits Anti-glare
+45% NTSC
+G-SYNC",16GB (2x 8GB),DDR5,Yes,5200MHz,2,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,Yes,"1x M.2 2242 PCIe 4.0 x4
+1x M.2 2280 PCIe 4.0 x4",Up to 1TB M.2 2242 SSD,NVIDIA GeForce RTX 4050,6GB,Backlit Keyboard,Yes,FHD 1080p,"2W x2, Stereo speakers",2x Array Microphone,N/A,N/A,"1x HDMI 2.1, up to 8K/60Hz",,"1x USB 3.2 Gen 1
+2x USB 3.2 Gen 2","1x USB-C 3.2 Gen 2 (supports data transfer, Power Delivery 140W and DisplayPort 1.4)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth V5.1,N/A,Windows 11 Home,Integrated,60Wh,170W Slim Tip (3-pin),Storm Grey,359.6 x 264.8 x 22.1-25.2 mm (14.16 x 10.43 x 0.87-0.99 inches),2.4 kg (5.29 lbs),2 Year Warranty (Battery & Adapter 1 Year),Intel SoC Platform,GDDR6,"High Definition (HD) Audio Chip
+Realtek ALC3287 codec
+Nahimic Gaming Audio",1x 100/1000M RJ-45 ports,E-shutter,Firmware TPM 2.0,"PC-ABS (Top), PC-ABS (Bottom)",AI Chip: LA1,16GB,144Hz,,13th Generation,,White Backlit,,,,
+"Lenovo Yoga 7 14IRL8 Core i7 13th Gen 14"" WUXGA OLED Military Grade Touch Laptop",170000,Intel,Core i7-1360P,3.7GHz up to 5.0GHz,12 (4 Performance Core + 8 Efficient Core),16,18MB,14-Inch,OLED,WUXGA (1920x1200),"OGM, 10-point Multi-touch","400nits Glossy
+Anti-fingerprint
+100% DCI-P3
+Dolby Vision
+TÜV Low Blue Light
+DisplayHDR True Black 500
+Glass",16GB (On-Board),LPDDR5,Non-Removable,5200MHz,1,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,Yes,M.2 2242 PCIe 4.0 x4 slot,,Intel Iris Xe Graphics,Shared,Backlit Keyboard,"Buttonless glass-like Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP), 75 x 120 mm (2.95 x 4.72 inches)",FHD 1080p + IR,"2x 2W, Stereo speakers","2x, Array Microphone",N/A,1x microSD card reader,1x HDMI 1.4b,,"1x USB-A (USB 5Gbps / USB 3.2 Gen 1), Always On","2x USB-C (Thunderbolt 4 / USB4 40Gbps), with USB PD 3.0 and DisplayPort 1.4",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6E, 11ax 2x2",Bluetooth 5.2,No,Windows 11 Home,Integrated,71Wh,65W USB-C (3-pin),Storm Gray,317.87 x 222.50 x 16.49mm (12.51 x 8.76 x 0.65 inches),1.49 kg (3.28 lbs),2 Years International Limited Warranty (Battery 1 year),Intel SoC Platform,Integrated,"High Definition (HD) Audio
+Realtek ALC3306 codec
+Optimized with Dolby Atmos
+Smart Amplifier (AMP)",N/A,Yes,Firmware TPM 2.0,"Surface Treatment: Aluminum Stamping (Anodized with Sandblasting)
+Case Material: Aluminum (Top), Aluminum (Bottom)","MIL-STD-810H military test passed
+Green Certifications: 	
+ENERGY STAR 8.0
+EPEAT Gold Registered
+ErP Lot 6
+ErP Lot 26
+RoHS compliant",16GB,60Hz,,13th Generation,,,,,,
+"Lenovo IdeaPad Pro 5 16IRH8 Core i7 13th Gen RTX 3050 6GB Graphics 16"" 2.5K 120Hz Military Grade Laptop",175000,Intel,Core i7-13700H,3.7 GHz up to 5.0 GHz,14 (6 Performance Core + 8 Efficient Core),20,24MB,16-Inch,IPS,2.5K (2560x1600),N/A,"350nits Anti-glare
+100% sRGB
+Eyesafe
+G-Sync",16GB (On-Board),LPDDR5,Non-Removable,5200MHz,1,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,N/A,,Up to 1TB M.2 2242 SSD,NVIDIA GeForce RTX 3050,6GB,Backlit Keyboard,Yes,"FHD 1080p IR, ToF Sensor","2W x2, Stereo speakers","2x, Array Microphone",N/A,1x 4-in-1 Card Reader,"1x HDMI 2.1, up to 4K/60Hz",,"1x USB 3.2 Gen 1
+1x USB 3.2 Gen 1 (Always On)","1x USB-C 3.2 Gen 2 (supports data transfer, Power Delivery 3.0 and DisplayPort 1.4)
+1x Thunderbolt 4 / USB4 40Gbps (supports data transfer, Power Delivery 3.0 and DisplayPort 1.4)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6E, 11ax 2x2",Bluetooth 5.1,N/A,Windows 11 Home,Integrated,75Wh,170W Slim Tip (3-pin),Arctic Grey,356 x 251 x 17.5 mm (14.02 x 9.88 x 0.69 inches),1.95 kg (4.30 lbs),2 Years International Limited Warranty (Battery 1 year),Intel SoC Platform,GDDR6,"High-Definition (HD) Audio Chip
+Realtek ALC3287 codec
+Dolby Atmos",N/A,Yes,Firmware TPM 2.0,"Aluminium (Top), Aluminium (Bottom)",,16GB,120Hz,,13th Generation,,,,,,
+"Lenovo Yoga Pro 7 14IRH8 Core i7 13th Gen 14.5"" 2.5K Military Grade Laptop",175000,Intel,Core  i7-13700H,3.7 GHz up to 5.0 GHz,14 (6 Performance Core + 8 Efficient Core),20,24MB,14.5-Inch,IPS,2.5K (2560x1600) ,No,"350nits Anti-glare
+100% sRGB
+Eyesafe
+Dolby Vision",16GB (On-Board),LPDDR5,Non-Removable,5200MHz,1,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,N/A,,Up to 512GB M.2 2242 SSD or 1TB M.2 2280 SSD,Intel Iris Xe Graphics,Shared,Backlit Keyboard,Yes,"FHD 1080p + IR, ToF Sensor","2W x4, Stereo speakers","4x, Array Microphone",N/A,N/A,"1x HDMI 2.1, up to 4K/60Hz",,1x USB 3.2 Gen 1 (Always On),"1x USB-C 3.2 Gen 2 (supports data transfer, Power Delivery 3.0 and DisplayPort 1.4)
+1x Thunderbolt 4 / USB4 40Gbps (supports data transfer, Power Delivery 3.0 and DisplayPort 1.4)
+",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6E, 11ax 2x2",Bluetooth 5.1,No,Windows 11 Home,Integrated,73Wh,100W USB-C Slim (3-pin),Tidal Teal,325.5 x 226.49 x 15.6 mm (12.81 x 8.92 x 0.61 inches),1.49 kg (3.28 lbs),2 Years International Limited Warranty (Battery 1 year),Intel SoC Platform,Integrated,"High-Definition (HD) Audio Chips
+Realtek ALC3306 codec
+Dolby Atmos
+Amplifier (AMP)",N/A,Yes,Firmware TPM 2.0,"Aluminum (Top), Aluminum (Bottom)",,16GB,90Hz,,13th Generation,,,,,,
+"Lenovo Legion 5i 15IAH7H Core i7 12th Gen RTX 3060 6GB Graphics 15.6"" FHD 144Hz Gaming Laptop",180000,Intel,Core i7-12700H,2.3GHz~4.7GHz,"14 (Performance-cores: 6, Efficient-cores: 8)",20,24MB,15.6 inch, LED,FHD (1920x1080),,"IPS Display, 300nits, 45% NTSC",16GB,DDR5,2 x 8GB Removable,4800MHz,2,NVMe PCIe,1TB,N/A,NVMe PCIe,"Additional SSD Slot, Upgradeable Installed SSD",Nvidia RTX 3060 Graphics,6GB,"4-Zone RGB Backlit, English Keyboard",Yes,FHD 1080p Camera,2W x2,"2x, Array",N/A,,"1x HDMI 2.1
+",,3 x USB 3.2 Gen 1,"2 x USB-C 3.2 Gen 2, 1 x Thunderbolt 4",1x Headphone/microphone combo jack (3.5mm),"Wi-Fi 6E, 11ax 2x2",Bluetooth 5.1,N/A,Windows 11 Home,Integrated ,80Wh,300W Slim Tip (3-pin),Storm Grey,358.8 x 262.35 x 19.99mm,2.4 kg,02 years International Limited Warranty (Terms & conditions Apply As Per Lenovo),,GDDR6,Nahimic Audio,RJ45 Ethernet,E-Camera shutter,Firmware TPM 2.0,"Aluminum (Top), Aluminium (Bottom)",TÜV Rheinland Low Blue Light (Hardware Solution),32GB,144Hz,,12th Gen,,,,,,
+"Lenovo Yoga PRO 7 14ARP8 Ryzen 7 7735HS RTX 3050 6GB Graphics 14.5"" 3K Gaming Laptop",181000,AMD,Ryzen 7 7735HS,3.2GHz Up to 4.75GHz,8,16,"L1 Cache: 512KB
+L2 Cache: 3MB
+L3 Cache: 16MB","14.5""",IPS,3K (3072x1920),N/A,"400nits Anti-glare, 100% P3, 120Hz, Eyesafe, Dolby Vision",16GB Soldered,LPDDR5,,6400Mhz,,M.2 2280 PCIe 4.0x4 NVMe,512GB,,,,NVIDIA GeForce RTX 3050,6GB,"Backlit, English (EU)","Buttonless glass surface multi-touch touchpad, supports Precision TouchPad (PTP), 80 x 135 mm (3.15 x 5.31 inches)",FHD 1080p,"4 stereo speakers, 2W x2 (woofers), 2W x2 (tweeters), optimized with Dolby Atmos, Amplifier (AMP)","4x, Array",N/A,N/A,"1x HDMI 2.1, up to 4K/60Hz
+",,"1x USB-A (USB 5Gbps / USB 3.2 Gen 1), Always On","1x USB-C (USB 10Gbps / USB 3.2 Gen 2), with USB PD 3.0 and DisplayPort™ 1.4",1x Headphone/microphone combo jack (3.5mm),"Wi-Fi 6E, 802.11ax 2x2
+",BT5.3,N/A,Windows 11 Home,,73Wh,140W USB-C Slim (3-pin),Tidal Teal,325.5 x 226.49 x 15.6 mm (12.81 x 8.92 x 0.61 inches),Starting at 1.49 kg (3.28 lbs),"2 years Warranty (Battery & AdaPC-ABS (Top), PC-ABS (Bottom)pter 1 Year)",AMD SoC Platform,GDDR6,"High Definition (HD) Audio, Realtek® ALC3306 codec",N/A,"IR camera for Windows Hello (facial recognition)
+E-shutter",Firmware TPM 2.0,"Aluminium (Top), Aluminium (Bottom)",,not upgradable,120Hz,,,,,,,,
+"Lenovo ThinkPad L13 Gen 4 Core i7 13th Gen 13.3"" WUXGA Laptop",183500,Intel,Core i7-1355U,Up to 5.00 GHz with Intel Turbo Boost Technology,10,12,12MB L3 cache,13.3 Inch,,WUXGA ( 1920 x 1200),No,,16GB,DDR5,,4800MHz,,,1TB SSD,,,,Intel Iris Xe Graphics,Shared,Backlight keyboard ,Yes,1080P FHD IR/RGB Hybrid,"Stereo speakers, 2W x2, Dolby Audio
+"," Dual-microphone array, far-field, Dolby Voice",N/A,,"1x HDMI, up to 4K/60Hz",,"1x USB 3.2 Gen 1
+1x USB 3.2 Gen 1 (Always On)","1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 3.0 and DisplayPort™ 1.4)
+1x Thunderbolt 4 / USB4® 40Gbps (support data transfer, Power Delivery 3.0 and DisplayPort 1.4)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6 AX201, 802.11ax 2x2 ",Bluetooth 5.2,Yes,Windows 11 Pro,4 Cell Li-Polymer,46Wh ,65W USB-C (3-pin) AC adapter,Thunder Black,305 x 218 x 17.23 mm (12.0 x 8.58 x 0.68 inches),1.26 kg (2.78 lbs),2 years International Limited Warranty (Battery 1 year).,Intel integrated SoC,Integrated ,"High Definition (HD) Audio, Realtek® ALC3287 codec",,N/A,FW TPM 2.0,,,,,,13th Generation,Kensington,"6-row, spill-resistant, air intake design, multimedia Fn keys with Unified Communications controls",,,,
+"Lenovo ThinkPad P14s Gen 2 Core i5 11th Gen T500 4GB Graphics Card 14"" FHD Business Laptop",185000,Intel ,Core i5-1135G7,"2.40 GHz up to 4.20 GHz
+",4,8,8MB,14 Inch,IPS,FHD (1920 x 1080),No,IPS 300 nits Anti-glare,"16GB
+(8GB soldered + 8GB SO-DIMM)",DDR4,, 3200MHz,,M.2 2242 PCIe Gen3 TLC SDD,512GB ,N/A,M.2 2242 PCIe Gen3 TLC,,NVIDIA Quadro T500 4GB GDDR6 DirectX 12,4GB,LED backlight,Yes,720p HD,2 x 2W stereo speakers,Yes,N/A,1x microSD card reader,1x HDMI 2.0,,"1x USB 3.2 Gen 1
+1x USB 3.2 Gen 1 (Always On)","2x Thunderbolt 4 / USB4 40Gbps (support data transfer, Power Delivery 3.0, and DisplayPort 1.4)",1x Headphone/microphone combo jack (3.5mm),WLAN: Intel Wi-Fi 6 AX201 802.11AX (2 x 2),Bluetooth 5.1,Yes,FreeDOS,3 Cell Li-Polymer ,50Wh,65W AC adapter,Black,,,03 Year Warranty (Terms & Conditions Apply As Per Lenovo),,GDDR6 ,"High Definition (HD) Audio, Realtek ALC3287 codec",Gigabit Ethernet 10/100/1000,Yes,"Discrete TPM 2.0, TCG certified",,"EPEAT Gold
+ENERGY STAR 8.0
+TCO Certified
+RoHS compliant",,,,11th Gen,,,,,,
+"Lenovo LOQ 15IRH8 Core i7 13th Gen RTX 4060 8GB Graphics 15.6"" FHD 144Hz Gaming Laptop",184000,Intel,Core i7-13620H,3.6GHz to 4.9GHz,"10 (6 Performance cores, 4 Efficient cores)",16,24MB,15.6-inch,IPS,FHD (1920x1080),N/A,"300nits Anti-glare
+45% NTSC
+G-SYNC",16GB (2x 8GB),DDR5,Yes,5200MHz,2,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,Yes,"1x M.2 2242 PCIe 4.0 x4
+1x M.2 2280 PCIe 4.0 x4",Up to 1TB M.2 2242 SSD,NVIDIA GeForce RTX 4060,8GB,Backlit Keyboard,Yes,FHD 1080p,"2W x2, Stereo speakers",2x Array Microphone,N/A,N/A,"1x HDMI 2.1, up to 8K/60Hz",,"1x USB 3.2 Gen 1
+2x USB 3.2 Gen 2","1x USB-C 3.2 Gen 2 (supports data transfer, Power Delivery 140W and DisplayPort 1.4)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth V5.1,N/A,Windows 11 Home,Integrated,60Wh,170W Slim Tip (3-pin),Storm Grey,359.6 x 264.8 x 22.1-25.2 mm (14.16 x 10.43 x 0.87-0.99 inches),2.4 kg (5.29 lbs),2 Year Warranty (Battery & Adapter 1 Year),Intel SoC Platform,GDDR6,"High Definition (HD) Audio Chip
+Realtek ALC3287 codec
+Nahimic Gaming Audio",1x 100/1000M RJ-45 ports,E-shutter,Firmware TPM 2.0,"PC-ABS (Top), PC-ABS (Bottom)",AI Chip: LA1,16GB,144Hz,,13th Generation,,White Backlit,,,,
+"Lenovo Legion Slim 7i Core i7 12th Gen RTX 3060 6GB Graphics 16"" 2.5K 165Hz Gaming Laptop",188000,Intel,Core i7-12700H,2.3GHz~4.7GHz,"14 (Performance-cores: 6, Efficient-cores: 8)",20,24MB,16 inch,LED,2.5K QHD WQXGA (2560x1600),,"IPS Display, 500nits, 100% sRGB, DisplayHDR 400, Dolby Vision, G-SYNC, Low Blue Light, High Gaming Performance",16GB,DDR5,Yes,4800MHz,2,NVMe PCIe,512GB SSD,N/A,NVMe PCIe,"Additional SSD Slot, Upgradeable Installed SSD",Nvidia RTX 3060 Graphics,6GB,"RGB Backlit, English (EU) Keyboard",Yes,FHD Camera,2W x2,"2x, Array",N/A,4- in -1 Card Reader,"1x HDMI, up to 8K/60Hz",,"2 x USB 3.2 Gen 1, 1 x USB 3.2 Gen 2","1 x USB-C 3.2 Gen 2, 1 x Thunderbolt 4",1x Headphone/microphone combo jack (3.5mm),"Intel Killer Wi-Fi 6E AX1690i, 11ax 2x2",Bluetooth 5.1,"Touch Style, Integrated in Power Button",Windows 11 Home,Integrated ,99.99Wh,230W Slim Tip (3-pin),Onyx Grey,357.7 x 260 x 16.9mm,2.23 kg,02 years International Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,GDDR6,"audio by HARMAN, optimized with Nahimic Audio",,E-Camera shutter,"Firmware TPM 2.0
+","Aluminum (Top), Aluminium (Bottom)",TÜV Rheinland Low Blue Light (Hardware Solution),,165Hz,,12th Gen,,,,,,
+"Lenovo Legion 5i Pro 16IAH7H Core i7 12th Gen RTX 3060 6GB Graphics 16"" 2.5K 240Hz Gaming Laptop",190000,Intel,Core i7-12700H,2.3GHz~4.7GHz,"14 (Performance-cores: 6, Efficient-cores: 8)",20,24MB,16 inch,LED,2.5K QHD WQXGA (2560x1600),,"IPS 500nits Anti-glare, 100% sRGB, Dolby Vision, G-SYNC, Low Blue Light, High Gaming Performance",16GB,DDR5,Yes,4800MHz,2,NVMe PCIe,1TB SSD,N/A,NVMe PCIe,"Additional SSD Slot, Upgradeable Installed SSD",NVIDIA GeForce RTX 3060,6GB,"4-Zone RGB Backlit, English (EU)",Yes,720p with E-camera Shutter,2W x2,"2x, Array",,,"1x HDMI, up to 8K/60Hz",,3 x USB 3.2 Gen 2 Type-A,"2 x USB 3.2 Gen2 Type-C, 1 x Thunderbolt 4",1x Headphone/microphone combo jack (3.5mm),"Wi-Fi 6E, 11ax 2x2",Bluetooth 5.1,,Windows 11 Home,Integrated ,80Wh,300W Slim Tip (3-pin),Storm Grey,359.9 x 264.4 x 19.9mm,2.49 kg,02 years International Limited Warranty (Terms & Conditions Apply As Per Lenovo),,GDDR6,Nahimic Audio,RJ45 Ethernet,E-Camera shutter,"Firmware TPM 2.0
+","Aluminum (Top), Aluminium (Bottom)",TÜV Rheinland Low Blue Light (Hardware Solution),32GB,240Hz,,12th Gen,,,,,,
+"Lenovo ThinkPad P14s Gen 4 Core i7 13th Gen 14"" WUXGA Laptop",193500,Intel,Core i7-1360P,2.2 GHz to 5.0 GHz,12,16,18MB,14 Inch,,WUXGA ( 1920 x 1200),No,,16GB,DDR5,,5600MHz,,M.2 2280 PCIe TLC Opal,1TB SSD,,,,Intel Iris Xe Graphics,Shared,Backlight keyboard ,Yes,1080P FHD IR/RGB Hybrid,"Stereo speakers, 2W x2, Dolby Audio
+"," Dual-microphone array, far-field, Dolby Voice",N/A,,1x HDMI 2.1 TMDS,,2x USB 3.2 Gen 1 (one Always On),"2x Thunderbolt 4 / USB4® 40Gbps (support data transfer, Power Delivery 3.0 and DisplayPort 2.0)",1x Headphone / microphone combo jack (3.5mm),"Intel Wi-Fi 6E AX211, 802.11ax 2x2",Bluetooth 5.3,Yes,Windows 11 Pro,3 Cell Li-Polymer,39.3Wh ,65W USB-C (3-pin) AC adapter,Villi Black,317.7 x 226.9 x 17.9 mm (12.51 x 8.93 x 0.7 inches),1.34 kg (2.97 lbs),2 years International Limited Warranty (Battery 1 year).,Intel integrated SoC,Integrated ,"High Definition (HD) Audio, Realtek® ALC3287 codec",,N/A,FW TPM 2.0,,,,,,13th Gen,,"6-row, spill-resistant, air intake design, multimedia Fn keys with Unified Communications controls",,,,
+"Lenovo Legion Slim 7 16IRH8 Core i7 13th Gen RTX 4060 8GB Graphics 16"" 3.2K 165Hz Gaming Laptop",224000,Intel,Core i7-13700H,3.7GHz to 5.0GHz,"14 (6 Performance cores, 8 Efficient cores)",20,24MB,16-inch,IPS,3.2K (3200x2000),N/A,"430nits Anti-glare
+100% DCI-P3
+Dolby Vision
+G-SYNC
+Low Blue Light
+High Gaming Performance",16GB (On-Board),DDR5,Yes,5200MHz,2,M.2 2280 PCIe 4.0x4 NVMe SSD,1TB,Yes,M.2 2280 PCIe 4.0 x4,Up to 1TB M.2 2280 SSD,NVIDIA GeForce RTX 4060,8GB,Backlit Keyboard,Yes,FHD 1080p,"2W x2, Stereo speakers",2x Array Microphone,N/A,1x SD Card reader,"1x HDMI 2.1, up to 8K/60Hz",,"1x USB 3.2 Gen 2 (Always On)
+2x USB 3.2 Gen 2","1x USB-C 3.2 Gen 2 (supports data transfer, Power Delivery 140W and DisplayPort 1.4)
+1x Thunderbolt 4 / USB4 40Gbps (supports data transfer, Power Delivery 140W and DisplayPort 1.4)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6E, 11ax 2x2",Bluetooth V5.1,"Touch Style, Integrated in Power Button",Windows 11 Home,Integrated,99.99Wh,230W Slim Tip (3-pin),Storm Grey,357.7 x 259.3 x 17.6-19.9 mm (14.08 x 10.21 x 0.69- 0.78 inches),2 kg (4.4 lbs),2 Year Warranty (Battery & Adapter 1 Year),Intel SoC Platform,GDDR6,"High Definition (HD) Audio Chip
+Realtek ALC3306 codec
+HARMAN Audio
+Nahimic Gaming Audio
+Smart Amplifier (AMP)",N/A,E-shutter,Firmware TPM 2.0,"Aluminum (Top), Aluminum (Bottom)","AI Chip: LA2-Q
+Legion ColdFront 5.0 cooling system",32GB (16GB soldered + 16GB SO-DIMM),165Hz,,13th Generation,,White Backlit,,,,
+"Lenovo Legion Pro 5 16ARX8 Ryzen 7 7745HX RTX 4060 8GB GDDR6 Graphics 16"" WQXGA 240Hz Gaming Laptop",225000,AMD,Ryzen 7 7745HX,3.6GHz to 5.1GHz,8,16,"L1 Cache: 512KB
+L2 Cache: 8MB
+L3 Cache: 32MB",16-inch,IPS,WQXGA (2560x1600),N/A,"500nits Anti-glare
+100% sRGB
+DisplayHDR 400
+Dolby Vision
+G-SYNC
+Low Blue Light
+High Gaming Performance",16GB (2x 8GB),DDR5,Yes,5200MHz,2,M.2 2280 PCIe 4.0x4 NVMe,1TB,Yes,M.2 2280 PCIe 4.0 x4,Up to 1TB M.2 2280 SSD,NVIDIA GeForce RTX 4060,8GB,Backlit Keyboard,Yes,FHD 1080p,"2W x2, Stereo speakers",2x Array Microphone,N/A,N/A,"1x HDMI 2.1, up to 8K/60Hz",,"1x USB 3.2 Gen 1 (Always On)
+3x USB 3.2 Gen 1","1x USB-C 3.2 Gen 2 (support data transfer and DisplayPort 1.4)
+1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 140W and DisplayPort 1.4)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6E, 11ax 2x2 ",Bluetooth V5.2,N/A,Windows 11 Home,Integrated,80Wh,300W Slim Tip (3-pin),Onyx Grey,363.4 x 260.35 x 22.45-26.75 mm (14.31 x 10.25 x 0.88-1.05 inches),Less than 2.5 kg (5.5 lbs),2 Year Warranty (Battery & Adapter 1 Year),AMD SoC Platform,GDDR6,"High Definition (HD) Audio Chip
+Realtek ALC3306 codec
+Nahimic Gaming Audio",100/1000M (RJ-45),E-shutter,Firmware TPM 2.0,"Aluminium (Top), PC-ABS (Bottom)",Legion Coldfront 5.0 cooling system,Up to 32GB,240Hz,,,,4-Zone RGB Backlit,,,,
+"Lenovo Legion Pro 5 16IRX8 Core i7 13th Gen RTX 4060 8GB Graphics 16"" WQXGA 240Hz Gaming Laptop",230000,Intel,Core i7-13700HX,3.6GHz to 5.0GHz,"16 (8 Performance cores, 8 Efficient cores)",24,30MB,16-inch,IPS,WQXGA (2560x1600),N/A,"500nits Anti-glare
+100% sRGB
+DisplayHDR 400
+Dolby Vision
+G-SYNC
+Low Blue Light
+High Gaming Performance",16GB (2x 8GB),DDR5,Yes,4800MHz,2,M.2 2280 PCIe 4.0x4 NVMe SSD,1TB,Yes,M.2 2280 PCIe 4.0 x4,Up to 1TB M.2 2280 SSD,NVIDIA GeForce RTX 4060,8GB,Backlit Keyboard,Yes,FHD 1080p,"2W x2, Stereo speakers",2x Array Microphone,N/A,N/A,"1x HDMI 2.1, up to 8K/60Hz",,"1x USB 3.2 Gen 1 (Always On)
+3x USB 3.2 Gen 1","1x USB-C 3.2 Gen 2 (supports data transfer and DisplayPort 1.4)
+1x USB-C 3.2 Gen 2 (supports data transfer, Power Delivery 140W and DisplayPort 1.4)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6E, 11ax 2x2",Bluetooth V5.1,N/A,Windows 11 Home,Integrated,80Wh,300W Slim Tip (3-pin),Onyx Grey,363.4 x 260.35 x 22.45-26.75 mm (14.31 x 10.25 x 0.88-1.05 inches),2.55 kg (5.6 lbs),2 Year Warranty (Battery & Adapter 1 Year),Intel HM770 Chipset,GDDR6,"High Definition (HD) Audio Chip
+Realtek ALC3306 codec
+Nahimic Gaming Audio",1x 100/1000M RJ-45 ports,E-shutter,Firmware TPM 2.0,"Aluminum (Top), PC-ABS (Bottom)","AI Chip: LA1
+Legion ColdFront 5.0 cooling system",32GB,240Hz,,13th Generation,,4-Zone RGB Backlit,,,,
+"Lenovo Legion Pro 5 16IRX8 Core i7 13th Gen RTX 4070 8GB Graphics 16"" WQXGA 240Hz Gaming Laptop",240000,Intel,Core i7-13700HX,3.6GHz to 5.0GHz,"16 (8 Performance cores, 8 Efficient cores)",24,30MB,16-inch,IPS,WQXGA (2560x1600),N/A,"500nits Anti-glare
+100% sRGB
+DisplayHDR 400
+Dolby Vision
+G-SYNC
+Low Blue Light
+High Gaming Performance",32GB (2x 16GB) ,DDR5,Yes,4800MHz,2,M.2 2280 PCIe 4.0x4 NVMe SSD,1TB,Yes,M.2 2280 PCIe 4.0 x4,Up to 1TB M.2 2280 SSD,NVIDIA GeForce RTX 4070,8GB,Backlit Keyboard,Yes,FHD 1080p,"2W x2, Stereo speakers",2x Array Microphone,N/A,N/A,"1x HDMI 2.1, up to 8K/60Hz",,"1x USB 3.2 Gen 1 (Always On)
+3x USB 3.2 Gen 1","1x USB-C 3.2 Gen 2 (supports data transfer and DisplayPort 1.4)
+1x USB-C 3.2 Gen 2 (supports data transfer, Power Delivery 140W and DisplayPort 1.4)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6E, 11ax 2x2",Bluetooth V5.1,N/A,Windows 11 Home,Integrated,80Wh,300W Slim Tip (3-pin),Onyx Grey,363.4 x 260.35 x 22.45-26.75 mm (14.31 x 10.25 x 0.88-1.05 inches),2.55 kg (5.6 lbs),2 Year Warranty (Battery & Adapter 1 Year),Intel HM770 Chipset,GDDR6,"High Definition (HD) Audio Chip
+Realtek ALC3306 codec
+Nahimic Gaming Audio",1x 100/1000M RJ-45 ports,E-shutter,Firmware TPM 2.0,"Aluminum (Top), PC-ABS (Bottom)","AI Chip: LA1
+Legion ColdFront 5.0 cooling system",32GB,240Hz,,13th Generation,,4-Zone RGB Backlit,,,,
+"Lenovo Legion Pro 5 16ARX8 Ryzen 7 7745HX RTX 4070 8GB GDDR6 Graphics 16"" WQXGA 240Hz Gaming Laptop",248700,AMD,Ryzen 7 7745HX,3.6GHz to 5.1GHz,8,16,"L1 Cache: 512KB
+L2 Cache: 8MB
+L3 Cache: 32MB",16-inch,IPS,WQXGA (2560x1600),N/A,"500nits Anti-glare
+100% sRGB
+DisplayHDR 400
+Dolby Vision
+G-SYNC
+Low Blue Light
+High Gaming Performance",16GB (2x 8GB),DDR5,Yes,5200MHz,2,M.2 2280 PCIe 4.0x4 NVMe,1TB,Yes,M.2 2280 PCIe 4.0 x4,Up to 1TB M.2 2280 SSD,NVIDIA GeForce RTX 4070,8GB,Backlit Keyboard,Yes,FHD 1080p,"2W x2, Stereo speakers",2x Array Microphone,N/A,N/A,"1x HDMI 2.1, up to 8K/60Hz",,"1x USB 3.2 Gen 1 (Always On)
+3x USB 3.2 Gen 1","1x USB-C 3.2 Gen 2 (support data transfer and DisplayPort 1.4)
+1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 140W and DisplayPort 1.4)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6E, 11ax 2x2 ",Bluetooth V5.2,N/A,Windows 11 Home,Integrated,80Wh,300W Slim Tip (3-pin),Onyx Grey,363.4 x 260.35 x 22.45-26.75 mm (14.31 x 10.25 x 0.88-1.05 inches),Less than 2.5 kg (5.5 lbs),2 Year Warranty (Battery & Adapter 1 Year),AMD SoC Platform,GDDR6,"High Definition (HD) Audio Chip
+Realtek ALC3306 codec
+Nahimic Gaming Audio",100/1000M (RJ-45),E-shutter,Firmware TPM 2.0,"Aluminium (Top), PC-ABS (Bottom)",Legion Coldfront 5.0 cooling system,Up to 32GB,240Hz,,,,4-Zone RGB Backlit,,,,
+"Lenovo Legion 5i Core i7 12th Gen RTX 3070 8GB Graphics 15.6"" 2.5K 165Hz Gaming Laptop",249000,Intel,Core i7-12700H,2.3GHz~4.7GHz,"14 (Performance-cores: 6, Efficient-cores: 8)",20,24MB,15.6 inch, LED,2.5K WQHD IPS (2560x1600),,"IPS Display, 300 nits, 100% sRGB, Dolby Vision, G-SYNC",16GB,DDR5,2 x 8GB Removable,4800MHz,2,NVMe PCIe,512GB ,N/A,NVMe PCIe,"Additional SSD Slot, Upgradeable Installed SSD",NVIDIA GeForce RTX 3070,8GB,"4-Zone RGB Backlit, English Keyboard",Yes,FHD 1080p Camera,2W x2,"2x, Array",N/A,,"1x HDMI 2.1
+",,3 x USB 3.2 Gen 1,2 x USB-C 3.2 Gen 2,1x Headphone/microphone combo jack (3.5mm),Yes,Bluetooth 5.1,N/A,Windows 11 Home,Integrated ,80Wh,300W Slim Tip (3-pin),Storm Grey,358.8 x 262.35 x 19.99mm,2.4 kg,02 years International Limited Warranty (Terms & conditions Apply As Per Lenovo),,GDDR6,Nahimic Audio,RJ45 Ethernet,E-Camera shutter,Firmware TPM 2.0,"Aluminum (Top), Aluminium (Bottom)",TÜV Rheinland Low Blue Light (Hardware Solution),32GB,165Hz,,12th Gen,,,,,,
+"Lenovo Legion Slim 5 16AHP9 Ryzen 7 8845HS AI Integrated RTX 4070 8GB Graphics 16"" Gaming Laptop",250000,AMD,Ryzen 7 8845HS,3.8 GHz up to 5.1 GHz,8,16,"L2 Cache: 8MB
+L3 Cache: 16MB","16""",IPS,WQXGA (2560x1600),N/A,"350nits Anti-glare, 100% sRGB, Dolby Vision, G-SYNC, Free-Sync Premium, Low Blue Light",32GB (2x 16GB),DDR5,,5600Mhz,2,M.2 2280 PCIe 4.0x4 NVMe,1TB,Yes,"Up to two drives, 2x M.2 SSD
+M.2 2242 SSD up to 1TB
+M.2 2280 SSD up to 1TB",up to 1TB,NVIDIA GeForce RTX 4070,8GB,"4-Zone RGB Backlit, English (EU)","Buttonless Mylar surface multi-touch touchpad, 75 x 120 mm (2.95 x 4.72 inches)",FHD 1080p ,"Stereo speakers, 2W x2, optimized with Nahimic Gaming Audio","2x, Array",N/A,4-in-1 Card Reader,"1x HDMI 2.1, up to 8K/60Hz",,"1x USB-A (USB 10Gbps / USB 3.2 Gen 2), Always On
+1x USB-A (USB 10Gbps / USB 3.2 Gen 2)","1x USB-C (USB 10Gbps / USB 3.2 Gen 2), with Lenovo PD 140W and DisplayPort 1.4
+1x USB-C (USB 10Gbps / USB 3.2 Gen 2), with DisplayPort 1.4",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6E, 11ax 2x2",BT5.3,N/A,Windows 11 Home,Integrated ,80Wh,230W Slim Tip (3-pin),Luna Grey,359.7 x 260.5 x 19.9-21.9mm (14.16 x 10.26 x 0.78-0.86 inches),Around 2.3 kg (5.07 lbs),"2 years Warranty (Battery & AdaPC-ABS (Top), PC-ABS (Bottom)pter 1 Year)",AMD SoC Platform,GDDR6,"High Definition (HD) Audio, Realtek ALC3287 codec",100/1000M (RJ-45),E-shutter,Firmware TPM 2.0 Enabled,"Aluminium (Top), PC-ABS (Bottom)",,Up to 64GB,165Hz,,,,,AMD Ryzen AI integrated in AMD Ryzen 8000 processor,,,
+"Lenovo Legion Pro 5 16IRX9 Core i7 14th Gen RTX 4060 8GB Graphics 16"" WQXGA 240Hz Gaming Laptop",255000,Intel,Core i7-14650HX,3.6GHz to 5.0GHz,"16C (8 Performance cores, 8 Efficient cores)",24,30MB,16-inch,IPS,WQXGA (2560x1600),N/A,"500nits Anti-glare
+100% sRGB
+DisplayHDR 400
+Dolby Vision
+G-SYNC
+Low Blue Light
+High Gaming Performance",16GB,DDR5,Yes,5600MHz,2,M.2 2280 PCIe 4.0x4 NVMe SSD,1TB,Yes,M.2 2280 PCIe 4.0 x4,Up to 1TB M.2 2280 SSD,NVIDIA GeForce RTX 4060,8GB,Backlit Keyboard,Yes,FHD 1080p,"2W x2, Stereo speakers",2x Array Microphone,N/A,N/A,"1x HDMI 2.1, up to 8K/60Hz",,"1x USB-A (USB 5Gbps / USB 3.2 Gen 1), Always On
+3x USB-A (USB 5Gbps / USB 3.2 Gen 1)","x USB-C (USB 10Gbps / USB 3.2 Gen 2), with Lenovo PD 140W and DisplayPort 1.4
+1x USB-C (USB 10Gbps / USB 3.2 Gen 2), with DisplayPort 1.4",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi® 6E, 802.11ax 2x2",BT5.2,N/A,Windows 11 Home,Integrated,80Wh,300W Slim Tip (3-pin),Onyx Grey,363.4 x 260.35 x 22.45-26.75 mm (14.31 x 10.25 x 0.88-1.05 inches),Around 2.5 kg (5.5 lbs),2 Year Warranty (Battery & Adapter 1 Year),Intel HM770 Chipset,GDDR6,"High Definition (HD) Audio Chip
+Realtek ALC3306 codec
+Nahimic Gaming Audio",1x 100/1000M RJ-45 ports,E-shutter,Firmware TPM 2.0,"Aluminum (Top), PC-ABS (Bottom)",AI Chip: LA1,32GB,240Hz,,14th Generation,,4-Zone RGB Backlit,,,,
+"Lenovo Legion 7 16IRX9 Core i7 14th Gen RTX 4060 8GB Graphics 16"" 3.2K 165Hz Gaming Laptop",255000,Intel,Core i7-14700HX,3.9GHz to 5.5GHz,"20C (8 Performance cores, 12 Efficient cores)",28,33MB,16-inch,IPS,3.2K (3200x2000),N/A,"430nits Anti-glare, 1
+00% DCI-P3, 
+Dolby Vision, G-SYNC, Low Blue Light",16GB (2x 8GB),DDR5,Yes,5600MHz,2,M.2 2280 PCIe 4.0x4 NVMe SSD,1TB,Yes,M.2 2280 PCIe 4.0 x4,Up to 1TB M.2 2280 SSD,NVIDIA GeForce RTX 4060,8GB,Backlit Keyboard,Yes,FHD 1080p,"2W x2, Stereo speakers",2x Array Microphone,N/A,N/A,"1x HDMI 2.1, up to 8K/60Hz",,"1x USB-A (USB 5Gbps / USB 3.2 Gen 1)
+1x USB-A (USB 5Gbps / USB 3.2 Gen 1), Always On","1x USB-C (USB 5Gbps / USB 3.2 Gen 1)
+1x USB-C (USB 10Gbps / USB 3.2 Gen 2), with Lenovo® PD 140W and DisplayPort™ 1.4
+1x USB-C (Thunderbolt™ 4 / USB4® 40Gbps), with PD 140W and DisplayPort™ 1.4",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6E, 802.11ax 2x2",BT5.3,N/A,Windows 11 Home,Integrated,99.9Wh,230W Slim Tip (3-pin),Eclipse Black,357.7 x 262.5 x 17.6-19.8 mm (14.08 x 10.33 x 0.69- 0.78 inches),Starting at  2.24 kg (4.94 lbs),2 Year Warranty (Battery & Adapter 1 Year),Intel HM770 Chipset,GDDR6,"High Definition (HD) Audio Chip
+audio by HARMAN, optimized with Nahimic Audio",N/A,E-shutter,Firmware TPM 2.0,"Aluminum (Top), PC-ABS (Bottom)",AI Chip: LA3,32GB,165Hz,,14th Generation,,"White Backlit, English (EU)",,,,
+"Lenovo Yoga 9i 14IRP8 Core i7 13th Gen 14"" 2.8K OLED Military Grade Touch Laptop",260000,Intel,Core i7-1360P,3.7 GHz up to 5.0 GHz,12 (4 Performance Core + 8 Efficient Core),16,18MB,14-Inch,OLED,2.8K (2880x1800),10-point Multi-touch,"400nits Glossy
+100% DCI-P3
+Eyesafe
+Dolby Vision
+DisplayHDR 500
+Glass",16GB (On-Board),LPDDR5,Non-Removable,5200MHz,1,M.2 2242 PCIe 4.0x4 NVMe SSD,1TB,N/A,,Up to 1TB M.2 2280 SSD,Intel Iris Xe Graphics,Shared,Backlit Keyboard,Yes,"FHD 1080p + IR, ToF Sensor","2x 3W (woofers on the side)
+4 stereo speakers
+2x 2W (front-facing tweeters on hinge bar)","2x, Array Microphone",N/A,N/A,N/A,,1x USB 3.2 Gen 2,"1x USB-C 3.2 Gen 2 (supports data transfer, Power Delivery 3.0 and DisplayPort 1.4)
+2x Thunderbolt 4 / USB4 40Gbps (supports data transfer, Power Delivery 3.0 and DisplayPort 1.4)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6E, 11ax 2x2",Bluetooth 5.1,Touch Style in Keyboard Key,Windows 11 Home,Integrated,75Wh,100W USB-C Slim (3-pin),Oatmeal,318 x 230 x 15.25 mm (12.52 x 9.06 x 0.6 inches),1.4 kg (3.09 lbs),2 Years International Limited Warranty (Battery 1 year),Intel SoC Platform,Integrated,"High-Definition (HD) Audio Chip
+Realtek ALC3306 codec
+Dolby Atmos
+Smart Amplifier (AMP)
+Audio by Bowers & Wilkins",N/A,Yes,Firmware TPM 2.0,"Aluminum (Top), Aluminum (Bottom)",,16GB,90Hz,,13th Generation,,,,,,
+"Lenovo Legion Slim 7i Core i7 12th Gen RTX 3070 8GB Graphics 16"" 2.5K 165Hz Gaming Laptop",263000,Intel,Core i7-12700H,2.3GHz~4.7GHz,"14 (Performance-cores: 6, Efficient-cores: 8)",20,24MB,16 inch,LED,2.5K QHD WQXGA (2560x1600),,"IPS Display, 500nits, 100% sRGB, DisplayHDR 400, Dolby Vision, G-SYNC, Low Blue Light, High Gaming Performance",16GB,DDR5,Yes,4800MHz,2,NVMe PCIe,1TB SSD,1,NVMe PCIe,"Additional SSD Slot, Upgradeable Installed SSD",Nvidia RTX 3070 Graphics,8GB,"White Backlit, English (EU) Keyboard",Yes,FHD Camera,2W x2,"2x, Array",N/A,4- in -1 Card Reader,"1x HDMI, up to 8K/60Hz",,"2 x USB 3.2 Gen 1, 1 x USB 3.2 Gen 2","1 x USB-C 3.2 Gen 2, 1 x Thunderbolt 4",1x Headphone/microphone combo jack (3.5mm),"Intel Killer Wi-Fi 6E AX1690i, 11ax 2x2",Bluetooth 5.1,"Touch Style, Integrated in Power Button",Windows 11 Home,Integrated ,99.99Wh,230W Slim Tip (3-pin),Onyx Grey,357.7 x 260 x 16.9mm,2.23 kg,02 years International Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,GDDR6,"audio by HARMAN, optimized with Nahimic Audio",,E-Camera shutter,"Firmware TPM 2.0
+","Aluminum (Top), Aluminium (Bottom)",TÜV Rheinland Low Blue Light (Hardware Solution),,165Hz,,12th Gen,,,,,,
+"Lenovo ThinkPad X1 Carbon G11 Core i7 13th Gen 14"" WUXGA Laptop",269500,Intel,Core i7-1355U,P-core 1.7 / 5.0 GHz / E-core 1.2 / 3.7 GHz,10 (2 Performance Core + 8 Efficient Core),12,12MB,14 inch,IPS,WUXGA (1920x1200),N/A,"Brightness: 400nits
+Surface: Anti-glare
+Aspect Ratio: 16:10
+Contrast Ratio: 1000:1
+Color Gamut: 100% sRGB
+Eyesafe Certified 2.0",32GB (On-Board),LPDDR5/x-6400,Non-Removable,6400MHz,1,M.2 2242 PCIe 4.0x4 NVMe SSD,1TB,Yes,M.2 2280 PCIe 4.0 x4,"One drive, up to 2TB M.2 2280 SSD",Intel Iris Xe Graphics,Shared,LED backlight Keyboard,"TrackPoint pointing device and glass surface multi-touch touchpad, 56 x 110 mm (2.20 x 4.33 inches)",FHD 1080p + IR,"Stereo speakers, 2W x2 woofers and 0.8W x2 tweeters, Dolby Atmos","Quad-microphone array, 360° far-field, Dolby Voice",N/A,N/A,"1x HDMI 2.1, up to 4K/60Hz",,"1x USB 3.2 Gen 1
+1x USB 3.2 Gen 1 (Always On)","2x Thunderbolt 4 / USB4 40Gbps (support data transfer, Power Delivery 3.0 and DisplayPort 1.4a)",1x Headphone / microphone combo jack (3.5mm),"Intel Wi-Fi 6E AX211, 802.11ax 2x2 Wi-Fi",Bluetooth 5.3,"ouch style fingerprint reader integrated in power button, match-on-chip",Windows 11 Pro,Integrated Li-Polymer,57Wh,,Deep Black,315.6 x 222.5 x 15.36 mm (12.43 x 8.76 x 0.60 inches),Starting at 1.12 kg (2.48 lbs),3 year warranty (Terms & Conditions Apply As Per Lenovo).,Intel SoC (System on Chip) platform,Integrated,"High Definition (HD) Audio, Realtek ALC3306 codec",N/A,Yes,"Discrete TPM 2.0, TCG certified, FIPS 140-2 certified","Carbon fiber (top), aluminum (bottom)","MIL-STD-810H military test passed
+ENERGY STAR 8.0
+EPEAT Gold Registered
+ErP Lot 6/26
+RoHS compliant
+TCO Certified 9.0",32GB,,,13th Generation,"Kensington Nano Security Slot, 2.5 x 6 mm","6-row, spill-resistant, air intake design, multimedia Fn keys with Unified Communications controls",,,,
+"Lenovo Yoga 9 2-in-1 14IMH9 Core Ultra 7 AI Integrated 14"" OLED Touch Laptop",270000,Intel,Core Ultra 7 155H,Max Turbo up to 4.8GHz,16C (6P + 8E + 2LPE),22T,24MB,14-Inch,OLED,4K (3840x2400),"OGM, 10-point Multi-touch"," OLED 400nits Glossy / Anti-fingerprint, 100% DCI-P3, 60Hz, Eyesafe®, Dolby Vision, DisplayHDR 500, Glass, Touch",32GB Soldered, LPDDR5x-7467,Non-Removable,,1,SSD,1TB,Yes,M.2 2242 PCIe 4.0x4 NVMe,not upgradable,Integrated Intel Arc Graphics,Shared,"Backlit, English (EU)","Buttonless glass surface multi-touch touchpad, supports Precision TouchPad (PTP), 80 x 135 mm (3.15 x 5.31 inches)",5.0MP + IR,"4 stereo speakers, 2W x2 (woofers on the side), 2W x2 (front-facing tweeters on hinge bar)","2x, Array Microphone",N/A,N/A,,,"1x USB-A (USB 10Gbps / USB 3.2 Gen 2), Always On","1x USB-C (USB 10Gbps / USB 3.2 Gen 2), with USB PD 3.0 and DisplayPort 1.4
+2x USB-C (Thunderbolt 4 / USB4 40Gbps), with USB PD 3.0 and DisplayPort 1.4",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6E, 802.11ax 2x2",Bluetooth 5.3,No,Windows 11 Home,Integrated,75Wh,65W USB-C (3-pin),Luna Grey,316 x 220 x 15.9 mm (12.44 x 8.66 x 0.63 inches),Starting at 1.32 kg (2.91 lbs),2 Years International Limited Warranty (Battery 1 year),Intel SoC Platform,Integrated,"optimized with Dolby Atmos, Smart Amplifier (AMP), audio by Bowers & Wilkins",N/A,Yes,Firmware TPM 2.0,"Surface Treatment: Aluminium CNC (Top), Aluminium Stamping (Bottom)
+Case Material: Aluminium (Top), Aluminium (Bottom)",MIL-STD-810H military test passed (21 test items),32GB,60Hz,,,,,"Intel AI Boost, up to 11 TOPS",,,
+"Lenovo Yoga Slim 7 14IMH9 Core Ultra 5 14"" OLED Laptop",150000,Intel,Core Ultra 5 125H,Max Turbo up to 4.5GHz,14C (4P + 8E + 2LPE),18T,18MB,14-Inch,OLED,"14"" WUXGA (1920x1200) ",,"OLED 400nits Glossy, 100% DCI-P3, 60Hz, Eyesafe®, Dolby Vision®, DisplayHDR™ True Black 500",16GB Soldered , LPDDR5x-7467,Non-Removable,,1,SSD,1TB,Yes, M.2 2242 PCIe 4.0x4 NVMe,Not upgradable,Integrated Intel Arc Graphics,Shared,"Backlit, English","Buttonless glass surface multi-touch touchpad, supports Precision TouchPad (PTP), 75 x 120 mm (2.95 x 4.72 inches)","FHD 1080p + IR with E-shutter, ToF Sensor","Stereo speakers, 2W x4, optimized with Dolby Atmos®, Amplifier (AMP)","4x, Array",N/A,N/A,"1x HDMI 2.1, up to 4K/60Hz",,"1x USB-A (USB 5Gbps / USB 3.2 Gen 1), Always On","2x USB-C® (Thunderbolt™ 4 / USB4® 40Gbps), with USB PD 3.1 and DisplayPort™ 1.4",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi® 6E, 802.11ax 2x2 
+",Bluetooth 5.3,No,Windows 11 Home,Integrated,65Wh,"65W USB-C Slim (Wall-mount)
+",Luna Grey,"312 x 221 x 14.9 mm (12.28 x 8.7 x 0.59 inches)
+","Starting at 1.39 kg (3.06 lbs)
+",2 Years International Limited Warranty (Battery 1 year),Intel SoC Platform,Integrated,"optimized with Dolby Atmos, Smart Amplifier (AMP), audio by Bowers & Wilkins",N/A,Yes,Firmware TPM 2.0,"Surface Treatment: Aluminium CNC (Top), Aluminium Stamping (Bottom)
+Case Material: Aluminium (Top), Aluminium (Bottom)",MIL-STD-810H military test passed (21 test items),"16GB soldered memory, not upgradable",60Hz,,,,,"Intel AI Boost, up to 11 TOPS
+",,,
+"Lenovo Yoga 7 2-in-1 14IML9 Core Ultra 5 14"" OLED Touch Laptop",155000,Intel,Core Ultra 5 125H,Max Turbo up to 4.5GHz,14C (4P + 8E + 2LPE),18T,18MB,14-Inch,OLED,"14"" 2.8K (2880x1800)","OGM, 10-point Multi-touch","OLED 400nits Glossy / Anti-fingerprint, 100% DCI-P3, 120Hz, Dolby Vision, DisplayHDR True Black 500, TÜV Low Blue Light, Glass, Touch",16GB Soldered , LPDDR5x-7467,Non-Removable,,1,SSD,1TB,Yes, M.2 2242 PCIe 4.0x4 NVMe,Not upgradable,Integrated Intel Arc Graphics,Shared,"Backlit, English","Buttonless glass-like Mylar® surface multi-touch touchpad, supports Precision TouchPad (PTP), 75 x 120 mm (2.95 x 4.72 inches)","FHD 1080p + IR with E-shutter, ToF Sensor","Stereo speakers, 2W x2, optimized with Dolby Atmos®, Amplifier (AMP)","2x, Array",N/A,MicroSD Card Reader,"1x HDMI 2.1, up to 4K/60Hz",,"1x USB-A (USB 5Gbps / USB 3.2 Gen 1), Always On","2x USB-C (Thunderbolt 4 / USB4 40Gbps), with USB PD 3.1 and DisplayPort™ 2.1",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6E, 802.11ax 2x2 
+",Bluetooth 5.3,No,Windows 11 Home,Integrated,71Wh,65W USB-C® (3-pin),Storm Grey,"317.72 x 222.13 x 16.64 mm (12.51 x 8.75 x 0.66 inches)
+","Starting at 1.49 kg (3.28 lbs)
+",2 Years International Limited Warranty (Battery 1 year),Intel SoC Platform,Integrated,"Optimized with Dolby Atmos®, Smart Amplifier (AMP)",N/A,Yes,Firmware TPM 2.0,"Surface Treatment: Aluminium Stamping (Anodized with Sandblasting)
+Case Material: Aluminium (Top), Aluminium (Bottom)",MIL-STD-810H military test passed (21 test items),"16GB soldered memory, not upgradable",120Hz,,,,,"Intel AI Boost, up to 11 TOPS
+",,,
+"Lenovo Yoga Slim 7 14IMH9 Ultra 7 155H 14"" WUXGA OLED Laptop",165000,Intel,Core Ultra 7 155H,"Max Turbo Frequency 4.8 GHz
+Intel Turbo Boost Max Technology 3.0 Frequency - 4.8 GHz
+Performance-core Max Turbo Frequency- 4.8 GHz
+Efficient-core Max Turbo Frequency - 3.8 GHz",16C (6P + 8E + 2LPE) ,22,,14-Inch,OLED,"14"" WUXGA (1920x1200) ",,"400nits Glossy, 100% DCI-P3, 60Hz, Eyesafe®, Dolby Vision®, DisplayHDR™ True Black 500",16GB Soldered , LPDDR5x-7467,Non-Removable,,1,SSD,1TB,Yes,M.2 2242 PCIe 4.0x4 NVMe,Not upgradable,Integrated Intel Arc Graphics,Shared,"Backlit, English","Buttonless glass surface multi-touch touchpad, supports Precision TouchPad (PTP), 75 x 120 mm (2.95 x 4.72 inches)","FHD 1080p + IR with E-shutter, ToF Sensor","Stereo speakers, 2W x4","4x, Array
+",N/A,None,"1x HDMI® 2.1, up to 4K/60Hz",,"1x USB-A (USB 5Gbps / USB 3.2 Gen 1), Always On","2x USB-C (Thunderbolt™ 4 / USB4 40Gbps), with USB PD 3.1 and DisplayPort 1.4",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6E, 802.11ax 2x2
+",Bluetooth 5.3,No,Windows 11 Home,Integrated,65Wh,"65W USB-C Slim (Wall-mount)
+",Luna Grey,"312 x 221 x 14.9 mm (12.28 x 8.7 x 0.59 inches)
+","Starting at 1.39 kg (3.06 lbs)
+
+",2 Years International Limited Warranty (Battery 1 year),Intel SoC Platform,Integrated,"Optimized with Dolby Atmos, Amplifier (AMP)
+",N/A,Yes,Firmware TPM 2.0,"Surface Treatment: Aluminium Stamping (Anodized with Sandblasting)
+Case Material: Aluminium (Top), Aluminium (Bottom)",MIL-STD-810H military test passed (21 test items),"16GB soldered memory, not upgradable",60Hz,,,,,,,,
+"Lenovo Yoga 7 2-in-1 14IML9 Core Ultra 7 14"" OLED Touch Laptop",170000,Intel,Core Ultra 7 155H,"Max Turbo Frequency 4.8 GHz
+Intel Turbo Boost Max Technology 3.0 Frequency - 4.8 GHz
+Performance-core Max Turbo Frequency- 4.8 GHz
+Efficient-core Max Turbo Frequency - 3.8 GHz","16C (6P + 8E + 2LPE)
+",22,,14-Inch,OLED,"14"" 2.8K (2880x1800)","OGM, 10-point Multi-touch","OLED 400nits Glossy / Anti-fingerprint, 100% DCI-P3, 120Hz, Dolby Vision, DisplayHDR True Black 500, TÜV Low Blue Light, Glass, Touch",16GB Soldered , LPDDR5x-7467,Non-Removable,,1,SSD,1TB,Yes, M.2 2242 PCIe 4.0x4 NVMe,Not upgradable,Integrated Intel Arc Graphics,Shared,"Backlit, English","Buttonless glass-like Mylar® surface multi-touch touchpad, supports Precision TouchPad (PTP), 75 x 120 mm (2.95 x 4.72 inches)","FHD 1080p + IR with E-shutter, ToF Sensor","Stereo speakers, 2W x2, optimized with Dolby Atmos®, Amplifier (AMP)","2x, Array",N/A,MicroSD Card Reader,"1x HDMI 2.1, up to 4K/60Hz",,"1x USB-A (USB 5Gbps / USB 3.2 Gen 1), Always On","2x USB-C (Thunderbolt 4 / USB4 40Gbps), with USB PD 3.1 and DisplayPort™ 2.1",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6E, 802.11ax 2x2 
+",Bluetooth 5.3,No,Windows 11 Home,Integrated,71Wh,65W USB-C® (3-pin),Storm Grey,"317.72 x 222.13 x 16.64 mm (12.51 x 8.75 x 0.66 inches)
+","Starting at 1.49 kg (3.28 lbs)
+",2 Years International Limited Warranty (Battery 1 year),Intel SoC Platform,Integrated,"Optimized with Dolby Atmos®, Smart Amplifier (AMP)",N/A,Yes,Firmware TPM 2.0,"Surface Treatment: Aluminium Stamping (Anodized with Sandblasting)
+Case Material: Aluminium (Top), Aluminium (Bottom)",MIL-STD-810H military test passed (21 test items),"16GB soldered memory, not upgradable",120Hz,,,,,"Intel AI Boost, up to 11 TOPS
+",,,
+"Lenovo Yoga Book 9 13IMU9 Core Ultra 7 155U Dual 13.3"" 2.8K  AI Integrated Touch Laptop",345000,Intel,Core Ultra 7 155U,Up to 4.8GHz,"12C (2P + 8E + 2LPE)
+",14,,"2x 13.3"" ",OLED,2.8K (2880x1800),"OGM, 10-point Multi-touch","OLED 400nits Glossy / Anti-fingerprint, 100% DCI-P3, 60Hz, Eyesafe®, Dolby Vision®, DisplayHDR™ True Black 500, Glass, Touch",16GB Soldered , LPDDR5x-7467,Non-Removable,,1,SSD,1TB,, M.2 2242 PCIe 4.0x4 NVMe,Not upgradable,Integrated Intel Arc Graphics,Shared,"Non-backlit, English",No touchpad,"5.0MP + IR with E-shutter
+","4 stereo speakers, 2W x2 (woofers), 2W x2 (user-facing tweeters)","2x, Array",N/A,MicroSD Card Reader,,,,"3x USB-C® (Thunderbolt™ 4 / USB4® 40Gbps), with USB PD 3.0 and DisplayPort™ 2.1, Always On",,"Wi-Fi® 6E, 802.11ax 2x2",Bluetooth 5.3,No,Windows 11 Home,Integrated,80Wh,65W USB-C® Slim (Wall-mount),Tidal Teal,299.1 x 203.9 x 15.95 mm (11.78 x 8.03 x 0.63 inches),"Starting at 1.34 kg (2.95 lbs)
+",2 Years International Limited Warranty (Battery 1 year),Intel SoC Platform,Integrated,"Optimized with Dolby Atmos®, Smart Amplifier (AMP), audio by Bowers & Wilkins",N/A,Yes,Firmware TPM 2.0,"Surface Treatment: Aluminium Stamping (Anodized with Sandblasting)
+Case Material: Aluminium (Top), Aluminium (Bottom)",,"16GB soldered memory, not upgradable",60Hz,,,,,"Intel AI Boost, up to 11 TOPS
+",,,
+"Lenovo Yoga Book 9 13IMU9 Core Ultra 7 155U Dual 13.3"" 2.8K  AI Integrated Touch Laptop With Windows 11 Pro",360000,Intel,Core Ultra 7 155U,Up to 4.8GHz,"12C (2P + 8E + 2LPE)
+",14,,"2x 13.3"" ",OLED,2.8K (2880x1800),"OGM, 10-point Multi-touch","OLED 400nits Glossy / Anti-fingerprint, 100% DCI-P3, 60Hz, Eyesafe®, Dolby Vision®, DisplayHDR™ True Black 500, Glass, Touch",16GB Soldered , LPDDR5x-7467,Non-Removable,,1,SSD,1TB,, M.2 2242 PCIe 4.0x4 NVMe,Not upgradable,Integrated Intel Arc Graphics,Shared,"Non-backlit, English",No touchpad,"5.0MP + IR with E-shutter
+","4 stereo speakers, 2W x2 (woofers), 2W x2 (user-facing tweeters)","2x, Array",N/A,MicroSD Card Reader,,,,"3x USB-C® (Thunderbolt™ 4 / USB4® 40Gbps), with USB PD 3.0 and DisplayPort™ 2.1, Always On",,"Wi-Fi® 6E, 802.11ax 2x2",Bluetooth 5.3,No,Windows 11 Pro,Integrated,80Wh,65W USB-C® Slim (Wall-mount),Tidal Teal,299.1 x 203.9 x 15.95 mm (11.78 x 8.03 x 0.63 inches),"Starting at 1.34 kg (2.95 lbs)
+",2 Years International Limited Warranty (Battery 1 year),Intel SoC Platform,Integrated,"Optimized with Dolby Atmos®, Smart Amplifier (AMP), audio by Bowers & Wilkins",N/A,Yes,Firmware TPM 2.0,"Surface Treatment: Aluminium Stamping (Anodized with Sandblasting)
+Case Material: Aluminium (Top), Aluminium (Bottom)",,"16GB soldered memory, not upgradable",60Hz,,,,,"Intel AI Boost, up to 11 TOPS
+",,,
+"Lenovo Legion 7 16ACHg6 Ryzen 7 5800H RTX 3080 16GB Graphics 16"" 165Hz Gaming Laptop",280000,AMD,Ryzen 7 5800H,,8,16,"L2 Cache: 4MB
+L3 Cache: 16MB",16 Inch,IPS,QHD (2560 x 1600),No,"500nits Anti-glare, 100% sRGB HDR 400, Free-Sync, G-Sync, DC dimmer",16GB,DDR4,Yes,3200MHz,2,M.2 NVMe PCIe SSD,1TB,N/A,,,NVIDIA GeForce RTX 3080,16GB,Backlit Keyboard,Yes,720p,2x 2W,Dual array mic,,,HDMI 2.1,,3 x USB-A 3.2 Gen 1 (always on 5V),"USB Type-C (USB 3.2 Gen 2, DisplayPort 1.4) on left side
+USB Type-C (USB 3.2 Gen 1) on right side
+USB Type-C (USB 3.2 Gen 2, DisplayPort 1.4, power delivery) on rear",Headphone / mic jack,2x2 WiFi 802.11ax,Bluetooth 5.1,N/A,Windows 11 Home,"Li-Polymer
+Supports Rapid Charge Express",80Wh,300W Slim Adapter,Storm Grey,20.1-23.5mm x 356mm x 261.04mm,2.5kg,3 Year Warranty (Terms & Condition Apply As Per Lenovo),,GDDR6,"Stereo speakers, Nahimic Audio, HARMAN-branded, Smart AMP with super line speaker",Killer WiFi AX1650 (2x2),,E-Shutter,,,Up to 32GB,165Hz,,3.2 GHz up to 4.4 GHz,,Corsair iCUE RGB,,3ms,Up to 8 hours,
+"Lenovo Yoga Book 9 13IRU8 Core i7 13th Gen Dual 13.3"" 2.8K OLED Touch Display Laptop",310000,Intel,Core i7-1355U,3.7GHz up to 5.0GHz,10 (2 Performance Core + 8 Efficient Core),12,12MB,2x 13.3 inch,OLED,2.8K (2880x1800),"OGM, 10-point Multi-touch","400nits Glossy
+Anti-fingerprint
+100% DCI-P3
+Eyesafe
+Dolby Vision
+DisplayHDR True Black 500
+Glass",16GB (On-Board),LPDDR5x,Non-Removable,6400MHz,1,M.2 2242 PCIe 4.0x4 NVMe SSD,1TB,Yes,M.2 2242 PCIe 4.0 x4 slot,,Intel Iris Xe Graphics,Shared,Non-backlit Keyboard,N/A,5.0MP + IR,"4 stereo speakers, 2W x2 (woofers), 2W x2 (user-facing tweeters)","2x, Array Microphone",N/A,N/A,,,,"3x USB-C (Thunderbolt 4 / USB4 40Gbps), with USB PD 3.0 and DisplayPort 1.4",,"Wi-Fi 6E, 11ax 2x2",Bluetooth 5.3,No,Windows 11 Home,Integrated,80Wh,65W USB-C Slim (Wall-mount),Tidal Teal,299.1 x 203.9 x 15.95 mm (11.78 x 8.03 x 0.63 inches),1.34 kg (2.95 lbs),2 Years International Limited Warranty (Battery 1 year),Intel SoC Platform,Integrated,"High Definition (HD) Audio
+Realtek ALC3306 codec
+optimized with Dolby Atmos
+Smart Amplifier (AMP)
+audio by Bowers & Wilkins",N/A,Yes,Firmware TPM 2.0,"Surface Treatment: Aluminum CNC (Anodized with Sandblasting)
+Case Material: Aluminum (Top), Aluminum (Bottom)","Green Certifications:	
+Carbon Neutral Certified
+ENERGY STAR® 8.0
+EPEAT™ Gold Registered
+ErP Lot 6
+ErP Lot 26
+RoHS compliant
+Other Certifications:	
+Intel® Evo™ Platform
+Eyesafe® Certified 2.0
+TÜV Rheinland® Low Blue Light (Hardware Solution)",16GB,60Hz,,13th Generation,,,,,,
+"Lenovo Yoga Book 9 13IRU8 Core i7 13th Gen Dual 13.3"" 2.8K OLED Touch Display Laptop with Windows 11 Pro",320000,Intel,Core i7-1355U,3.7GHz up to 5.0GHz,10 (2 Performance Core + 8 Efficient Core),12,12MB,2x 13.3 inch,OLED,2.8K (2880x1800),"OGM, 10-point Multi-touch","400nits Glossy
+Anti-fingerprint
+100% DCI-P3
+Eyesafe
+Dolby Vision
+DisplayHDR True Black 500
+Glass",16GB (On-Board),LPDDR5x,Non-Removable,6400MHz,1,M.2 2242 PCIe 4.0x4 NVMe SSD,1TB,Yes,M.2 2242 PCIe 4.0 x4 slot,,Intel Iris Xe Graphics,Shared,Non-backlit Keyboard,N/A,5.0MP + IR,"4 stereo speakers, 2W x2 (woofers), 2W x2 (user-facing tweeters)","2x, Array Microphone",N/A,N/A,,,,"3x USB-C (Thunderbolt 4 / USB4 40Gbps), with USB PD 3.0 and DisplayPort 1.4",,"Wi-Fi 6E, 11ax 2x2",Bluetooth 5.3,No,Windows 11 Pro,Integrated,80Wh,65W USB-C Slim (Wall-mount),Tidal Teal,299.1 x 203.9 x 15.95 mm (11.78 x 8.03 x 0.63 inches),1.34 kg (2.95 lbs),2 Years International Limited Warranty (Battery 1 year),Intel SoC Platform,Integrated,"High Definition (HD) Audio
+Realtek ALC3306 codec
+optimized with Dolby Atmos
+Smart Amplifier (AMP)
+audio by Bowers & Wilkins",N/A,Yes,Firmware TPM 2.0,"Surface Treatment: Aluminum CNC (Anodized with Sandblasting)
+Case Material: Aluminum (Top), Aluminum (Bottom)","Green Certifications:	
+Carbon Neutral Certified
+ENERGY STAR® 8.0
+EPEAT™ Gold Registered
+ErP Lot 6
+ErP Lot 26
+RoHS compliant
+Other Certifications:	
+Intel® Evo™ Platform
+Eyesafe® Certified 2.0
+TÜV Rheinland® Low Blue Light (Hardware Solution)",16GB,60Hz,,13th Generation,,,,,,
+"Lenovo Legion Pro 7 16IRX8H Core i9 13th Gen RTX 4090 16GB Graphics 16"" WQXGA 240Hz Gaming Laptop",450000,Intel,Core i9-13900HX,3.9GHz to 5.4GHz,"24 (8 Performance cores, 16 Efficient cores)",32,36MB,16-inch,IPS,WQXGA (2560x1600),N/A,"500nits Anti-glare
+100% sRGB
+DisplayHDR 400
+Dolby Vision
+G-SYNC
+Low Blue Light
+High Gaming Performance",32GB (2x 16GB),DDR5,Yes,5600MHz,2,M.2 2280 PCIe 4.0x4 NVMe SSD,1TB,Yes,M.2 2280 PCIe 4.0 x4,Up to 1TB,"NVIDIA GeForce RTX 4090
+Boost Clock 2040MHz
+TGP 175W",16GB,Backlit Keyboard,"Buttonless Mylar surface multi-touch touchpad, 75 x 120 mm (2.95 x 4.72 inches)",FHD 1080p,"2W x2, Stereo speakers (super linear speaker)",2x Array Microphone,N/A,N/A,"1x HDMI 2.1, up to 8K/60Hz",,"1x USB 3.2 Gen 1 (Always On)
+3x USB 3.2 Gen 1","1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 140W and DisplayPort 1.4)
+1x Thunderbolt 4 / USB4 40Gbps (support data transfer, Power Delivery and DisplayPort 1.4)",1x Headphone / microphone combo jack (3.5mm),"Intel Killer Wi-Fi 6E AX1675i, 11ax 2x2",Bluetooth V5.3,N/A,Windows 11 Home,Integrated,99.9Wh,330W Slim Tip Tiny GaN (3-pin),Onyx Grey,363.4 x 263.55 x 21.97-25.9 mm (14.31 x 10.38 x 0.86-1.02 inches),Less than 2.8 kg (6.17 lbs),2 Year Warranty (Battery & Adapter 1 Year),Intel HM770 Chipset,GDDR6,"Audio by HARMAN
+Optimized with Nahimic Audio
+Smart Amplifier (AMP)
+Audio Chip: High Definition (HD) Audio, Realtek ALC3306 codec",1x 100/1000M RJ-45 ports,E-shutter,Firmware TPM 2.0,"Aluminum (Top), Aluminum (Bottom)","AI Chip: LA2-Q
+Legion Coldfront 5.0 cooling system
+TÜV Rheinland High Gaming Performance
+TÜV Rheinland Low Blue Light (Hardware Solution)
+Green Certifications:
+ErP Lot 3
+RoHS compliant",32GB,240Hz,,13th Generation,,Per-key RGB Backlit (with Lighting Lens),,,,
+"Lenovo Legion Pro 7 16IRX9H Core i9 14th Gen RTX 4090 16GB Graphics 16"" WQXGA 240Hz Gaming Laptop",485000,Intel,Core i9-14900HX,4.1GHz to 5.4GHz,24C (8P + 16E) ,32,36MB,16-inch,IPS,WQXGA (2560x1600),N/A,"IPS 500nits Anti-glare, 100% DCI-P3, 240Hz, DisplayHDR 400, Dolby Vision, G-SYNC, Low Blue Light, High Gaming Performance",32GB (2x 16GB),DDR5,Yes,5600MHz,2,M.2 2280 PCIe 4.0x4 NVMe,1TB,Yes,M.2 2280 PCIe 4.0 x4,Up to 1TB,NVIDIA GeForce RTX 4090,16GB,Backlit Keyboard,"Buttonless Mylar® surface multi-touch touchpad, supports Precision TouchPad (PTP), 75 x 120 mm (2.95 x 4.72 inches)",FHD 1080p,"2W x2, Stereo speakers (super linear speaker)",2x Array Microphone,N/A,N/A,"1x HDMI 2.1, up to 8K/60Hz",,"1x USB 3.2 Gen 1 (Always On)
+3x USB 3.2 Gen 1","1x USB-C (USB 10Gbps / USB 3.2 Gen 2), with Lenovo PD 140W and DisplayPort™ 1.4
+1x USB-C (Thunderbolt™ 4 / USB4® 40Gbps), with DisplayPort™ 1.4",1x Headphone / microphone combo jack (3.5mm),"Intel Killer Wi-Fi 6E AX1675i, 802.11ax 2x2
+",Bluetooth V5.3,N/A,Windows 11 Home,Integrated,99.9Wh,330W Slim Tip Tiny GaN (3-pin),Eclipse Black,363.5 x 262.1 x 21.95-25.9 mm (14.31 x 10.32 x 0.86-1.02 inches),Around 2.62 kg (5.78 lbs),2 Year Warranty (Battery & Adapter 1 Year),"Intel HM770 Chipset
+",GDDR6,"Audio by HARMAN, optimized with Nahimic Audio, Smart Amplifier (AMP)",100/1000M (RJ-45),E-shutter,Firmware TPM 2.0,"Aluminium (Top), Aluminium (Bottom)",,32GB,240Hz,,14th Generation,,Per-key RGB Backlit (with Lighting Lens),,,,
+"Lenovo IdeaPad Slim 3 15IRH8 Core i5 13th Gen 8GB RAM 15.6"" FHD Military Grade Laptop With FreeDOS",Up Coming,Intel,"Core i5-13420H
+","P-core 2.1 / 4.6GHz, E-core 1.5 / 3.4GHz","8 (4 Performance cores, 4 Efficient cores)",12,12MB,"15.6""",TN,FHD (1920x1080),,250nits Anti-glare,"8GB soldered
+",DDR5,No,4800 MHz,,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,No,M.2 2242 SSD,Up to 1TB,Intel UHD Graphics,Shared,"Non-backlit, English (EU)","Buttonless Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP), 69 x 104 mm (2.72 x 4.09 inches)",FHD 1080p,"User-facing stereo speakers, 1.5W x2","2x, Array Microphone",N/A,SD Card Reader,1x HDMI 1.4,,2x USB 3.2 Gen 1,"1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery and DisplayPort 1.2)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.2,N/A,Free DOS,Integrated,47Wh,65W Round Tip (3-pin),Arctic Grey,359.3 x 235 x 17.9 mm (14.15 x 9.25 x 0.70 inches),Starting at 1.62 kg (3.57 lbs),02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,Integrated,Optimized with Dolby Audio,N/A,Yes,Firmware TPM 2.0 Enabled,"PC-ABS (Top), PC-ABS (Bottom)","MIL-STD-810H military test passed (21 test items)
+TÜV Rheinland Low Blue Light (Software Solution)
+Green Certifications: 
+ENERGY STAR 8.0
+EPEAT Silver Registered
+ErP Lot 6
+ErP Lot 26
+RoHS compliant",,,,13th Generation,,,,,,
+"Lenovo IdeaPad Slim 3i 15ITL6 Core i3 11th Gen 4GB RAM 15.6"" FHD Laptop",Out Of Stock,Intel,Core i3,3.00 GHz up to 4.10 GHz,2,4,6MB,"15.6""",LED,FHD (1920x1080),,"TN Panel, 250nits",4GB,DDR4,,3200 MHz,1,SATA,1TB HDD,N/A,,Additional SSD Can be added,Intel UHD Graphics,Shared,Standard Backlight keyboard,,HD Camera,Yes,Yes,,4-in-1 Card Reader,1 x HDMI,1 x USB 2.0,1 x USB 3.2 Gen 1,1 x USB 3.2 Gen 1 Type-C,Combo,Wi-Fi 5 x 2,Bluetooth 5.0,,Windows 11 Home,,45Wh,"65W Round Tip (2-pin, Wall-mount)",Silver,359.2 x 236.5 x 19.9mm,1.65 kg,02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,,"Stereo speakers, 1.5W x2, Dolby Audio.",,,Firmware TPM 2.0,,,,,5400RPM,11th,,,,,,
+"Lenovo V15 Gen 3 Core i3 12th Gen 15.6"" FHD Laptop",Out Of Stock,Intel,Core i3-1215U ,Up to 4.40 GHz,6 (2 P-core + 4 E-core),8,10MB,15.6 Inch,IPS,FHD (1920x1080),No,"Brightness: 300nits
+Surface: Anti-glare
+Aspect Ratio: 16:9
+Color Gamut: 45% NTSC",8GB (On-Board),DDR4,Non-Removable,3200MHz,1,SSD,512GB,,M.2 2242 PCIe Gen4,"Additional HDD can be added, and SSD can be replaced",Intel UHD Graphics,Shared,Non-Backlight Keyboard ,Yes,720p HD,"1.5W x2, Stereo speakers",Dual-microphone array with noise-cancelling,N/A,N/A,1x HDMI 1.4b,1x USB 2.0,1x USB 3.2 Gen 1,1x USB-C 3.2 Gen 1,1x 3.5mm Headphone / microphone combo jack ,"Wi-Fi 6, 802.11ax 2x2",Bluetooth 5.1,N/A,Free DOS,2-cell,38Wh,65W,Iron grey,359 x 236 x 19.9 mm (14.13 x 9.29 x 0.78 inches),1.7 kg (3.75 lbs),"2 Years Limited Warranty (1 year for Battery and Adapter, Terms & conditions Apply As Per Lenovo)",Intel SoC (System on Chip) platform,Integrated,"High Definition (HD) Audio
+Realtek ALC3287 codec
+Dolby Audio",1x RJ-45,Yes,Firmware TPM 2.0,PC-ABS,,8GB,60Hz,,12th Gen,Kensington Nano Security Slot,"6-row, Spill-Resistant, Multimedia Fn keys, SMB Service Hot Key, Numeric Keypad",,,,
+"Lenovo IdeaPad Slim 3 Ryzen 5 7520U 15.6"" FHD Laptop 16GB DDR5 RAM 512GB SSD with 2 Years Warranty",Out Of Stock,AMD,Ryzen 5 7520U,Up to 4.3GHz,4,8,"L1 Cache: 256KB
+L2 Cache: 2MB
+L3 Cache: 4MB",15.6 Inch,TN,FHD (1920×1080),No,TN 250nits Anti-glare,16GB,DDR5,"16GB Onboard, not upgradeable",5500MHz,1,M.2 2242 PCIe 4.0x4 NVMe,512GB SSD,N/A,,,AMD Radeon 610M Graphics,Shared,"Backlit, English",Yes,720p Webcam,1.5W x2 Stereo ,"2x Array
+",N/A,SD Card Reader,1x HDMI 1.4,,2x USB 3.2 Gen 1,"1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery and DisplayPort 1.2)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.2,N/A,FreeDOS,Integrated,47Wh,65W round tip (3-pin) ,Arctic Grey,359.3 x 235 x 17.9 mm (14.15 x 9.25 x 0.70 inches),Starting at 1.62 kg (3.57 lbs),2 years International Limited Warranty (Battery 1 year).,AMD SoC Platform,Integrated ,Dolby Audio,N/A,Yes,FW TPM 2.0,"PC-ABS (Top), PC-ABS (Bottom)",MIL-STD-810H military test passed (21 test items),16GB,,,,,,,,,
+"Lenovo IdeaPad Slim 3 15AMN8 Ryzen 5 7520U 15.6"" FHD TN Laptop",Out Of Stock,AMD,Ryzen 5 7520U,Up to 4.3GHz,4,8,"L1 Cache: 256KB
+L2 Cache: 2MB
+L3 Cache: 4MB",15.6 Inch,TN,FHD (1920×1080),No,TN 250nits Anti-glare,16GB,DDR5,"16GB Onboard, not upgradeable",5500MHz,1,M.2 2242 PCIe 4.0x4 NVMe,512GB SSD,N/A,,,AMD Radeon 610M Graphics,Shared,"Backlit, English",Yes,720p Webcam,1.5W x2 Stereo ,"2x Array
+",N/A,SD Card Reader,1x HDMI 1.4,,2x USB 3.2 Gen 1,"1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery and DisplayPort 1.2)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.2,N/A,FreeDOS,Integrated,47Wh,65W round tip (3-pin) ,Abyss Blue,359.3 x 235 x 17.9 mm (14.15 x 9.25 x 0.70 inches),Starting at 1.62 kg (3.57 lbs),2 years International Limited Warranty (Battery 1 year).,AMD SoC Platform,Integrated ,Dolby Audio,N/A,Yes,FW TPM 2.0,"PC-ABS (Top), PC-ABS (Bottom)",MIL-STD-810H military test passed (21 test items),16GB,,,,,,,,,
+"Lenovo IdeaPad Slim 3 Ryzen 5 7520U 15.6"" FHD IPS Laptop 16GB DDR5 RAM 512GB SSD with 2 Years Warranty",Out Of Stock,AMD,Ryzen 5 7520U,Up to 4.3GHz,4,8,"L1 Cache: 256KB
+L2 Cache: 2MB
+L3 Cache: 4MB",15.6 Inch,IPS,FHD (1920×1080),No, 300nits Anti-glare,16GB,DDR5,"16GB Onboard, not upgradeable",5500MHz,1,M.2 2242 PCIe 4.0x4 NVMe,512GB SSD,N/A,,,AMD Radeon 610M Graphics,Shared,"Backlit, English (EU)",Yes,720p Webcam,1.5W x2 Stereo ,"2x Array
+",N/A,SD Card Reader,1x HDMI 1.4,,2x USB 3.2 Gen 1,"1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery and DisplayPort 1.2)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.2,"Touch Style, Integrated in Power Button","Windows 11 Home Single Language, English",Integrated,47Wh,65W round tip (3-pin) ,Arctic Grey,359.3 x 235 x 17.9 mm (14.15 x 9.25 x 0.70 inches),Starting at 1.62 kg (3.57 lbs),2 years International Limited Warranty (Battery 1 year).,AMD SoC Platform,Integrated ,Dolby Audio,N/A,Yes,FW TPM 2.0,"PC-ABS (Top), PC-ABS (Bottom)",MIL-STD-810H military test passed (21 test items),16GB,,,,,,,,,
+"Lenovo IdeaPad Slim 3 Ryzen 5 7520U 14"" FHD Laptop FingerPrint 16GB DDR5 RAM 512GB SSD with 2 Years Warranty",Out Of Stock,AMD,Ryzen 5 7520U,Up to 4.3GHz,4,8,"L1 Cache: 256KB
+L2 Cache: 2MB
+L3 Cache: 4MB",14 Inch,IPS,FHD (1920×1080),No,IPS 300nits Anti-glare,16GB,DDR5,"16GB Onboard, not upgradeable",,1,M.2 2242 PCIe 4.0x4 NVMe,512GB SSD,N/A,,,AMD Radeon Graphics,Shared,"Backlit, English (EU)",Yes,720p Webcam,1.5W x2 Stereo ,"2x Array
+",N/A,SD Card Reader,1x HDMI 1.4b,,2x USB 3.2 Gen 1," 1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery and DisplayPort 1.2)", 1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.1,"Touch Style, Integrated in Power Button",Windows 11 Home,Integrated,47Wh,65W round tip (3-pin) ,Arctic Grey,324.3 x 213.8 x 17.9 mm (12.77 x 8.42 x 0.70 inches),Starting at 1.37 kg (3.02 lbs),2 years International Limited Warranty (Battery 1 year).,Integrated AMD Radeon Graphics,Integrated ,Dolby Audio,N/A,Yes,FW TPM 2.0,"PC-ABS (Top), PC-ABS (Bottom)",MIL-STD-810H military test passed (21 test items),,,,,,,,,,
+"Lenovo IdeaPad Slim 3 Ryzen 5 7520U 14"" FHD Laptop FingerPrint 16GB DDR5 RAM 512GB SSD Abyss Blue with 2 Years Warranty",Out Of Stock,AMD,Ryzen 5 7520U,Up to 4.3GHz,4,8,"L1 Cache: 256KB
+L2 Cache: 2MB
+L3 Cache: 4MB",14 Inch,IPS,FHD (1920×1080),No,IPS 300nits Anti-glare,16GB,DDR5,"16GB Onboard, not upgradeable",,1,M.2 2242 PCIe 4.0x4 NVMe,512GB SSD,N/A,,,AMD Radeon Graphics,Shared,"Backlit, English (EU)",Yes,720p Webcam,1.5W x2 Stereo ,"2x Array
+",N/A,SD Card Reader,1x HDMI 1.4b,,2x USB 3.2 Gen 1," 1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery and DisplayPort 1.2)", 1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.1,"Touch Style, Integrated in Power Button",Windows 11 Home,Integrated,47Wh,65W round tip (3-pin) ,Abyss Blue,324.3 x 213.8 x 17.9 mm (12.77 x 8.42 x 0.70 inches),Starting at 1.37 kg (3.02 lbs),2 years International Limited Warranty (Battery 1 year).,Integrated AMD Radeon Graphics,Integrated ,Dolby Audio,N/A,Yes,FW TPM 2.0,"PC-ABS (Top), PC-ABS (Bottom)",MIL-STD-810H military test passed (21 test items),,,,,,,,,,
+"Lenovo IdeaPad 3 15ALC6 AMD Ryzen 7 5700U 15.6"" FHD Laptop with Wi-Fi 6",Out Of Stock,AMD,Ryzen 7 5700U,1.8GHz Up to 4.3GHz,8,16,8 MB,"15.6""",IPS,FHD (1920x1080),,300nits Anti-glare,16GB (8GB Onboard),DDR4,Yes,3200MHZ,2,PCIe NVMe 3.0 x2 M.2 SSD,512GB,N/A,,"M.2 2242 SSD up to 512GB
+M.2 2280 SSD up to 1TB",AMD Radeon,Shared,"Backlit, English",,HD 720p,Yes,"2x, Array",,SD Card Reader,1x HDMI 1.4b,1x USB 2.0,"1x USB 3.2 Gen 1
+", 1x USB-C 3.2 Gen 1 (support data transfer only), 1x Headphone/microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",BT5.1,N/A,Windows 11 Home ,Integrated,45Wh,"65W Round Tip (2-pin, Wall-mount)",Arctic Grey,359.2 x 236.5 x 19.9 mm (14.14 x 9.31 x 0.78 inches),Starting at 1.65 kg (3.63 lbs),02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),AMD SoC Platform,Integrated,"High Definition (HD) Audio, Stereo speakers, 1.5W x2, Dolby Audio
+",,Yes,Firmware TPM 2.0,"PC-ABS (Top), PC-ABS (Bottom)",,Up to 16GB (8GB soldered + 8GB SO-DIMM) DDR4-3200 ,,,,,,,,,
+"Lenovo IdeaPad Slim 3 15ABR8 Ryzen 7 7730U 15.6"" FHD Abyss Blue Laptop with 1080p FHD Webcam",Out Of Stock,AMD,Ryzen 7 7730U,up to 4.5 GHz,8,16,16MB,15.6 Inch,,FHD (1920×1080),No,IPS 300nits Anti-glare,16GB,DDR4,"16GB Onboard, not upgradeable",,1,M.2 2242 PCIe 3.0x4 NVMe SSD,512GB SSD,N/A,,,AMD Radeon Graphics,Shared,"Backlit, English (EU)",Yes,FHD 1080p Webcam,1.5W x2 Stereo ,"2x Array
+",N/A,1x Card reader,1x HDMI 1.4b,,2x USB 3.2 Gen 1," 1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery and DisplayPort 1.2)", 1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.1,"Touch Style, Integrated in Power Button",Windows 11 Home,Integrated,47Wh,65W round tip (3-pin) AC adapter,Abyss Blue,359.3 x 235 x 17.9 mm (14.15 x 9.25 x 0.70 inches),Starting at 1.62 kg (3.57 lbs),2 years International Limited Warranty (Battery 1 year).,Integrated AMD Radeon Graphics,Integrated ,Dolby Audio,N/A,Yes,FW TPM 2.0,"PC-ABS (Top), PC-ABS (Bottom)",MIL-STD-810H military test passed (21 test items),,,,,,,,,,
+"Lenovo IdeaPad Slim 3 14ABR8 Ryzen 7 7730U Abyss Blue 14"" FHD Laptop with 1080p FHD Webcam",Out Of Stock,AMD,Ryzen 7 7730U,up to 4.5 GHz,8,16,16MB,14 Inch,,FHD (1920×1080),No,IPS 300nits Anti-glare,16GB,DDR4,"16GB Onboard, not upgradeable",,1,M.2 2242 PCIe 3.0x4 NVMe SSD,512GB SSD,N/A,,,AMD Radeon Graphics,Shared,"Backlit, English (EU)",Yes,720p Webcam,1.5W x2 Stereo ,"2x Array
+",N/A,1x Card reader,1x HDMI 1.4b,,2x USB 3.2 Gen 1," 1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery and DisplayPort 1.2)", 1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.2,"Touch Style, Integrated in Power Button",Windows 11 Home,Integrated,47Wh,65W round tip (3-pin) AC adapter,Abyss Blue,324.3 x 213.8 x 17.9 mm (12.77 x 8.42 x 0.70 inches),Starting at 1.37 kg (3.02 lbs),2 years International Limited Warranty (Battery 1 year).,Integrated AMD Radeon Graphics,Integrated ,Dolby Audio,N/A,Yes,FW TPM 2.0,"PC-ABS (Top), PC-ABS (Bottom)",MIL-STD-810H military test passed (21 test items),,,,,,,,,,
+"Lenovo IdeaPad Slim 3 Ryzen 7 7730U 14"" FHD Laptop Fingerprint 16GB DDR4 RAM 512GB SSD with 2 Years Warranty",Out Of Stock,AMD,Ryzen 7 7730U,up to 4.5 GHz,8,16,"L2 Cache: 4MB
+L3 Cache: 16MB",14 Inch,IPS,FHD (1920×1080),No,IPS 300nits Anti-glare,16GB,DDR4,"16GB Onboard, not upgradeable",,1,M.2 2242 PCIe 4.0x4 NVMe,512GB SSD,N/A,,,AMD Radeon Graphics,Shared,"Backlit, English (EU)",Yes,FHD 1080p,1.5W x2 Stereo ,"2x Array
+",N/A,SD Card Reader,1x HDMI 1.4b,,2x USB 3.2 Gen 1," 1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery and DisplayPort 1.2)", 1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.2,"Touch Style, Integrated in Power Button",Windows 11 Home,Integrated,47Wh,65W round tip (3-pin) ,Arctic Grey,324.3 x 213.8 x 17.9 mm (12.77 x 8.42 x 0.70 inches),Starting at 1.37 kg (3.02 lbs),2 years International Limited Warranty (Battery 1 year).,AMD SoC Platform,Integrated ,"User-facing stereo speakers, optimized with Dolby Audio",N/A,Yes,FW TPM 2.0,"PC-ABS (Top), PC-ABS (Bottom)",MIL-STD-810H military test passed (21 test items),,,,,,,,,,
+"Lenovo IdeaPad Slim 3 15IRH8 Core i5 13th Gen 16GB RAM 15.6"" FHD Military Grade Laptop",Out Of Stock,Intel,"Core i5-13420H
+","P-core 2.1 / 4.6GHz, E-core 1.5 / 3.4GHz
+","8 (4 Performance cores, 4 Efficient cores)",12,12MB,"15.6""",TN,FHD (1920x1080),N/A,250nits Anti-glare,"16GB soldered
+",DDR5,Non-Removable,4800 MHz,1,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,N/A,M.2 2242 PCIe 4.0 x4 SSD,Up to 1TB,Intel UHD Graphics,Shared,"Non-backlit, English (EU)","Buttonless Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP), 69 x 104 mm (2.72 x 4.09 inches)",FHD 1080p,"1.5W x2, User-facing stereo speakers","2x, Array",N/A,SD Card Reader,1x HDMI1.4,,2x USB 3.2 Gen 1,"1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery and DisplayPort 1.2)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.2,"Touch Style, Integrated in Power Button",Free Dos,Integrated,47Wh,65W Round Tip (3-pin),Arctic Grey,"359.3 x 235 x 17.9 mm (14.15 x 9.25 x 0.70 inches)
+",Starting at 1.62 kg (3.57 lbs),02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),Intel SoC Platform,Integrated,Optimized with Dolby Audio,No Onboard Ethernet,Yes,Firmware TPM 2.0 Enabled,"Surface Treatment: IMR (In-Mold Decoration by Roller)
+Case Material: PC-ABS (Top), PC-ABS (Bottom)
+","MIL-STD-810H military test passed (21 test items)
+TÜV Rheinland Low Blue Light (Software Solution)
+Green Certifications:
+ErP Lot 6
+ErP Lot 26
+RoHS compliant",16GB,,,13th Generation,,,,,,
+"Lenovo IdeaPad Gaming 3 15ARH7 Ryzen 5 7535HS RTX 2050 4GB Graphics 15.6"" FHD Laptop",Out Of Stock,AMD,Ryzen 5 7535HS,3.3GHz up to 4.55GHz,6,12,"L2 Cache: 3MB
+L3 Cache: 16MB",15.6 Inch,IPS ,FHD (1920x1080),,"IPS 250nits Anti-glare, 45% NTSC, 120Hz, FreeSync",8GB ,DDR5,,4800MHz ,2,M.2 PCIe NVMe PCIe 3.0 x4 SSD,512GB SSD ,Yes,NVMe PCIe 3.0 x4,,NVIDIA GeForce RTX 2050,4GB,"White Backlit, English (EU)",,HD 720p with Privacy Shutter,"Stereo speakers, 2W x2",Dual array microphone,N/A,N/A,1x HDMI 2.0,,2x USB 3.2 Gen 1," 1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 3.0 and DisplayPort 1.4)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 802.11ax 2x2 Wi-Fi",Bluetooth 5.1,N/A,Windows 11 Home,Integrated,60Wh,170W Slim Tip (3-pin),Onyx Grey (82SB00PNIN),359.6 x 266.4 x 21.8 mm (14.16 x 10.49 x 0.86 inches),Around 2.32 kg (5.1 lbs),02 Year Warranty( Battery & Adapter 1 Year),,GDDR6,Nahimic Audio,100/1000M (RJ-45),Yes,Firmware TPM 2.0,"PC-ABS (Top), PC-ABS (Bottom)",,,,,,,,,,,
+"Lenovo IdeaPad Slim 5i Pro Core i5 11th Gen 14"" 2.2K Laptop",Out Of Stock,Intel , Core i5-1135G7,2.40 GHz up to 4.20 GHz,4,8,8MB,14 Inch,IPS ,2.2K (2240×1400),No,300nits Anti-glare 100% sRGB,1 x 16GB Non-Removable,DDR4 ,No,3200MHz ,1,M.2 2242 PCIe 3.0×4 NVMe SSD,512GB,N/A,,Installed SSD can be upgradeable,Intel Iris Xe Graphics,Shared,Backlit Keyboard,Yes,IR & 720p + ToF Sensor,"Stereo speakers, 2W x2","2x, Array Microphone",N/A,Yes,1x HDMI 1.4b,,"1x USB 3.2 Gen 1 (Always On)
+1x USB 3.2 Gen 1","1x USB-C 3.2 Gen 1 (support data transfer and Power Delivery 3.0)
+1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery 3.0, and DisplayPort 1.4)","1x Headphone/microphone combo jack (3.5mm)
+","Wi-Fi 6 11ax, 2x2 ",Bluetooth 5.1,No,Win-11 Home,Integrated (Fast Charging Enable.),56.5Wh ,65W USB-C (3-pin),Storm Grey,312.2 x 221 x 15.99 mm (12.29 x 8.7 x 0.63 inches),Around 1.38 kg (3.04 lbs),2 years Limited Warranty (Terms & Conditions Apply As Per Lenovo).,,Integrated,"High Definition (HD) Audio, Realtek ALC3287 codec
+ & Dolby Atmos ",N/A,Yes,Firmware TPM 2.0,"Aluminum (Top), Aluminium (Bottom)",,16GB,60Hz,,11th Gen,,,,,,MS Office (H & S 2021 LICENSED 1 Year)
+"Lenovo IdeaPad Slim 5 14ABR8 Ryzen 5 7530U 14"" WUXGA Laptop",Out Of Stock,AMD,Ryzen 5 7530U,2.0 GHz up to 4.5 GHz,6,12,"L1 Cache: 384KB
+L2 Cache: 3MB
+L3 Cache: 16MB",14-Inch,IPS,WUXGA (1920x1200),N/A,"300nits Anti-glare
+45% NTSC
+TÜV Low Blue Light",16GB,DDR4,Non-Removable,3200MHz,1,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,N/A,,Up to 1TB M.2 2242 SSD,AMD Radeon Graphics,Shared,Backlit Keyboard,Yes,FHD 1080p + IR with ToF Sensor,"2W x2, Stereo speakers","2x, Array Microphone",N/A,1x microSD Card Reader,1x HDMI 1.4b,,"1x USB 3.2 Gen 1
+1x USB 3.2 Gen 1 (Always On)","2x USB Type-C 3.2 Gen 1 (supports data transfer, Power Delivery 3.0 and DisplayPort 1.4)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6E, 11ax 2x2",Bluetooth 5.1,N/A,Windows 11 Home,Integrated,56.6Wh,65W USB-C (3-pin),Cloud Grey,312 x 221 x 16.9 mm (12.28 x 8.7 x 0.67 inches),1.46 kg (3.22 lbs),02 Years International Limited Warranty (Battery 1 year),AMD SoC Platform,Integrated,Dolby Audio,N/A,Yes,Firmware TPM 2.0,"Aluminium (Top), Aluminium (Bottom)",MIL-STD-810H military test passed (21 test items),16GB,,,7000 Series,,,,,,
+"Lenovo Yoga 7 2-in-1 14AHP9 Ryzen 7 8840HS AI Integrated 14"" Touch Laptop",Out Of Stock,AMD,Ryzen 7 8845HS,3.8 GHz up to 5.1 GHz,8,16,"L2 Cache: 8MB
+L3 Cache: 16MB",14-Inch,LED,WUXGA (1920x1200),"OGM, 10-point Multi-touch","IPS 300nits Glossy / Anti-fingerprint, 45% NTSC, Dolby Vision, TÜV Low Blue Light, Glass, Touch",16GB (On-Board),LPDDR5x,Non-Removable,6400MHz,1,M.2 2242 PCIe 4.0x4 NVMe SSD,1TB,Yes,M.2 2242 PCIe 4.0 x4 slot,,Integrated AMD Radeon 780M Graphics,Shared,"Backlit, English (EU)","Buttonless glass-like Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP), 75 x 120 mm (2.95 x 4.72 inches)",FHD 1080p + IR,"2x 2W, Stereo speakers","2x, Array Microphone",N/A,1x microSD card reader,"1x HDMI 2.1, up to 4K/60Hz",,"1x USB-A (USB 5Gbps / USB 3.2 Gen 1), Always On","1x USB-C (USB 10Gbps / USB 3.2 Gen 2), with USB PD 3.1 and DisplayPort 1.4a
+1x USB-C (USB4 40Gbps), with USB PD 3.1 and DisplayPort 1.4a",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6E, 11ax 2x2",Bluetooth 5.3,No,Windows 11 Home,Integrated,71Wh,65W USB-C (3-pin),Arctic Grey,"317.72 x 222.13 x 16.64 mm (12.51 x 8.75 x 0.66 inches)
+",Starting at 1.61 kg (3.55 lbs),2 Years International Limited Warranty (Battery 1 year),AMD SoC Platform,Integrated,"High Definition (HD) Audio
+Realtek ALC3306 codec
+Optimized with Dolby Atmos
+Smart Amplifier (AMP)",N/A,Yes,Firmware TPM 2.0,"Surface Treatment: Aluminum Stamping (Anodized with Sandblasting)
+Case Material: Aluminum (Top), Aluminum (Bottom)",MIL-STD-810H military test passed (21 test items),16GB,60Hz,,,,,AMD Ryzen AI integrated in AMD Ryzen 8000 processor,,,
+"Lenovo IdeaPad Flex 5 14IAU7 Core i5 12th Gen 14"" WUXGA Touch Laptop",105000,Intel,Core i5-1235U,"P-core 1.3 / 4.4GHz, E-core 0.9 / 3.3GHz",10 (2 Performance Core + 8 Efficient Core),12,12MB,14-Inch,IPS,WUXGA (1920x1200),Yes,"300nits Glossy
+45% NTSC
+TÜV Low Blue Light
+Glass",16GB (On-Board),LPDDR4x,Non-Removable,4266MHz,1,M.2 2242 PCIe 4.0x4 NVMe SSD,512GB,N/A,,Up to 1TB M.2 2242 SSD or 512GB M.2 2280 SSD,Intel Iris Xe Graphics,Shared,Backlit Keyboard,Yes,FHD 1080p,"2W x2, Front-facing stereo speakers","2x, Array Microphone",N/A,1x 4-in-1 Card Reader,1x HDMI 1.4b,,"1x USB 3.2 Gen 1
+1x USB 3.2 Gen 1 (Always On)","1x Thunderbolt 4 / USB4 40Gbps (supports data transfer, Power Delivery 3.0 and DisplayPort™ 1.4a)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",Bluetooth 5.1,"Touch Style, on Palm Rest",Windows 11 Home,Integrated,52.5Wh,65W Round Tip (3-pin),Storm Grey,313.1 x 224.9 x 17.4 mm (12.32 x 8.85 x 0.69 inches),1.5 kg (3.31 lbs),2 Years International Limited Warranty (Battery 1 year),Intel SoC Platform,Integrated,"High-Definition (HD) Audio Chip
+Realtek ALC3287 codec
+Dolby Audio",N/A,Yes,Firmware TPM 2.0,"Aluminium (Top), PC-ABS + 40% GF (Bottom)",,16GB,,,12th Generation,,,,,,
+"Lenovo ThinkPad E14 Gen 5 Core i7 13th Gen 14"" WUXGA Laptop",Out Of Stock,Intel,Core i7-1355U,Up to 5.00 GHz with Intel Turbo Boost Technology,10,12,12MB L3 cache,14 Inch,,WUXGA ( 1920 x 1200),No,,8GB,DDR4,,3200MHz,,,512GB SSD,,,,Intel XE IRIS Graphics,Shared,"6-row, spill-resistant, multimedia Fn keys with Unified Communications controls",Yes,720p Webcam,"Speakers : Stereo speakers, 2W x2, Dolby Atmos ","Dual-microphone array, Dolby Voice",N/A,,1x HDMI 2.1,,1x USB 3.2 Gen 1 (Always On),"1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 3.0 and DisplayPort™ 1.4)
+1x Thunderbolt 4 / USB4® 40Gbps (support data transfer, Power Delivery 3.0 and DisplayPort 1.4)
+
+",1x Headphone / microphone combo jack (3.5mm),Wi-Fi 6 AX201 2x2 AX,Bluetooth 5.1,Yes,FreeDOS,Integrated,47Wh ,65W USB-C (3-pin) AC adapter,Graphite Black,313 x 219.3 x 17.99 mm (12.32 x 8.63 x 0.71 inches),1.41kg ,2 years International Limited Warranty (Battery 1 year).,Intel integrated SoC,Integrated ,Dolby Audio,1x Ethernet (RJ-45),Yes,FW TPM 2.0,"Aluminum (Top), PC/ABS Plastic (Bottom)",,,,,13th Generation,Kensington,,,,,
+"Lenovo LOQ 15AHP9 Ryzen 5 8645HS AI Integrated RTX 3050 6GB Graphics 15.6"" Gaming Laptop",Out Of Stock,AMD,"Ryzen 5 8645HS
+",4.3 GHz up to 5.0 GHz,6,12,"L2 Cache: 6MB
+L3 Cache: 16MB","15.6""",IPS,FHD (1920x1080),N/A,"300nits Anti-glare, 100% sRGB, G-SYNC",16GB,DDR5,,5600Mhz,,M.2 2242 PCIe 4.0x4 NVMe,512GB,Yes,,M.2 2242 SSD up to 1TB,NVIDIA GeForce RTX 3050,6GB,"White Backlit, English (EU)",Yes,HD 720p,"Stereo speakers, 2W x2, optimized with Nahimic Gaming Audio","2x, Array",N/A,N/A,"1x HDMI 2.1, up to 8K/60Hz",,3x USB-A (USB 5Gbps / USB 3.2 Gen 1),"1x USB-C (USB 10Gbps / USB 3.2 Gen 2), with Lenovo PD 140W and DisplayPort 1.4",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",BT5.2,N/A,"Windows 11 Home Single Language, English",,60Wh,170W Slim Tip (3-pin),Luna Grey,359.86 x 258.7 x 21.9-23.9 mm (14.17 x 10.19 x 0.86-0.94 inches),Starting at 2.38 kg (5.25 lbs),"2 years Warranty (Battery & AdaPC-ABS (Top), PC-ABS (Bottom)pter 1 Year)",AMD SoC Platform,GDDR6,"High Definition (HD) Audio, Realtek ALC3287 codec",100/1000M (RJ-45),E-shutter,,"PC-ABS (Top), PC-ABS (Bottom)",MIL-STD-810H military test passed (21 test items),16GB,144Hz,,,,,AMD Ryzen AI integrated in AMD Ryzen 8000 processor,,,
+"Lenovo LOQ 15AHP9 Ryzen 7 8845HS AI Integrated RTX 4050 6GB Graphics 15.6"" Gaming Laptop",Out Of Stock,AMD,"Ryzen 7 8845HS
+",3.8 GHz up to 5.1 GHz,8,16,"L2 Cache: 6MB
+L3 Cache: 16MB","15.6""",IPS,FHD (1920x1080),N/A,"300nits Anti-glare, 100% sRGB, G-SYNC",16GB,DDR5,,5600Mhz,,M.2 2242 PCIe 4.0x4 NVMe,512GB,Yes,,M.2 2242 SSD up to 1TB,"NVIDIA GeForce RTX 4050
+","6GB
+Boost Clock 2370MHz, TGP 105W","4-Zone RGB Backlit, English (EU)",Yes,HD 720p,"Stereo speakers, 2W x2, optimized with Nahimic Gaming Audio","2x, Array",N/A,N/A,"1x HDMI 2.1, up to 8K/60Hz",,3x USB-A (USB 5Gbps / USB 3.2 Gen 1),"1x USB-C (USB 10Gbps / USB 3.2 Gen 2), with Lenovo PD 140W and DisplayPort 1.4",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",BT5.2,N/A,"Windows 11 Home Single Language, English",,60Wh,170W Slim Tip (3-pin),Luna Grey,359.86 x 258.7 x 21.9-23.9 mm (14.17 x 10.19 x 0.86-0.94 inches),Starting at 2.38 kg (5.25 lbs),2-Year Warranty ( Battery & Adapter 1 Year).,AMD SoC Platform,GDDR6,"High Definition (HD) Audio, Realtek ALC3287 codec",100/1000M (RJ-45),E-shutter,,"PC-ABS (Top), PC-ABS (Bottom)",MIL-STD-810H military test passed (21 test items),16GB,144Hz,,,,,AMD Ryzen AI integrated in AMD Ryzen 8000 processor,,,
+"Lenovo IdeaPad Gaming 3 15ARH7 Ryzen 7 7735HS RTX 4050 6GB Graphics 15.6"" FHD Laptop",Out Of Stock,AMD,Ryzen 7 7735HS,3.2GHz Up to 4.75GHz,8,16,"L1 Cache: 512KB
+L2 Cache: 3MB
+L3 Cache: 16MB",15.6 Inch,IPS ,FHD (1920x1080),,"IPS 250nits Anti-glare, 45% NTSC, 120Hz, FreeSync",16GB ,DDR5,,4800MHz ,2,M.2 PCIe NVMe PCIe 3.0 x4 SSD,512GB SSD ,Yes,NVMe PCIe 3.0 x4,,NVIDIA GeForce RTX 4050,6GB,"White Backlit, English (EU)",,HD 720p with Privacy Shutter,"Stereo speakers, 2W x2",Dual array microphone,N/A,N/A,1x HDMI 2.0,,2x USB 3.2 Gen 1," 1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 3.0 and DisplayPort 1.4)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 802.11ax 2x2 Wi-Fi",Bluetooth 5.1,N/A,Windows 11 Home,Integrated,60Wh,170W Slim Tip (3-pin),Onyx Grey,359.6 x 266.4 x 21.8 mm (14.16 x 10.49 x 0.86 inches),Around 2.32 kg (5.1 lbs),02 Year Warranty( Battery & Adapter 1 Year),,GDDR6,Nahimic Audio,100/1000M (RJ-45),Yes,Firmware TPM 2.0,"PC-ABS (Top), PC-ABS (Bottom)",,,,,,,,,,,
+"Lenovo LOQ 15APH8 Ryzen 7 7840HS RTX 4050 6GB Graphics 15.6"" FHD 144Hz Gaming Laptop",Out Of Stock,AMD,Ryzen 7 7840HS,3.8 GHz up to 5.1 GHz,8,16,"L2 Cache: 8MB
+L3 Cache: 16MB","15.6""",IPS,FHD (1920x1080),N/A,"350nits Anti-glare, 45% NTSC, 144Hz, G-SYNC, FreeSync",16GB(8x2),DDR5,,5600Mhz,,M.2 2242 PCIe 4.0x4 NVMe,512GB,Yes,,Up to 1TB,NVIDIA GeForce RTX 4050,6GB,"White Backlit, English (EU)",Yes,FHD 1080p,"Stereo speakers, 2W x2, optimized with Nahimic Gaming Audio","2x, Array",N/A,N/A,"1x HDMI 2.1, up to 8K/60Hz",1x USB 2.0,2x USB 3.2 Gen 2,"1x USB-C® 3.2 Gen 2 (support data transfer, Power Delivery 140W and DisplayPort™ 1.4)",1x Headphone / microphone combo jack (3.5mm),"Wi-Fi 6, 11ax 2x2",BT5.2,N/A,Windows 11 Home,,60Wh,170W Slim Tip (3-pin),Storm Grey,359.6 x 264.8 x 22.1-25.2 mm (14.16 x 10.43 x 0.87-0.99 inches),Starting at 2.4 kg (5.29 lbs),"2 years Warranty (Battery & AdaPC-ABS (Top), PC-ABS (Bottom)pter 1 Year)",AMD SoC Platform,GDDR6,"High Definition (HD) Audio, Realtek ALC3287 codec",100/1000M (RJ-45),E-shutter,,"PC-ABS (Top), PC-ABS (Bottom)","AI Chip: LA1
+MIL-STD-810H military test passed (21 test items)",Up to 32GB,144Hz,,,,,,,,
