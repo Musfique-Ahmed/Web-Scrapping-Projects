@@ -1,0 +1,7 @@
+| Project | Description | Tools Used |
+|--------|-------------|-------------|
+| `amazon_price_tracker` | Tracks the price of products from Amazon and logs them in CSV. | BeautifulSoup, Requests |
+| `job_site_dynamic_scraper` | Scrapes job listings from dynamic content sites using browser automation. | Selenium |
+| `real_estate_scraper` | Collects real estate listing data including images and prices. | Selenium, Pandas |
+| `api_data_collector` | Pulls structured data from a public REST API and stores it in JSON/SQL. | Requests, JSON, PostgreSQL |
+| More coming soon... | Stay tuned for additional case studies and tools. | 🔄 |
