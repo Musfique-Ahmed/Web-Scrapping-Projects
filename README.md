@@ -51,10 +51,10 @@ This portfolio showcases my:
 ---
 
 ## 📫 Let's Connect
-# **Musfique Ahmed**
+### **Musfique Ahmed**
 
 
-📧 anikmushfik@gmail.com
-📞 +880 1961-905838
-🔗 GitHub: Musfique-Ahmed
-🔗 LinkedIn: Musfique Ahmed
+ 📧 anikmushfik@gmail.com
+ 📞 +880 1961-905838
+ 🔗 GitHub: Musfique-Ahmed
+ 🔗 LinkedIn: Musfique Ahmed
